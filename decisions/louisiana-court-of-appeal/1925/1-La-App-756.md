@@ -1,0 +1,42 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "9538"
+decided: "1925-03-16"
+citations: ["1 La. App. 756"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOSEPH PALMISANO v. HAROLD FAUST."]
+source_url: "https://static.case.law/la-app/1/cases/0756-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3283492
+cites_cases: ["150 La. 316", "157 La. 445", "90 South. 662"]
+---
+
+# Palmisano v. Faust
+
+## Majority (BELL, J.)
+
+BELL, J.
+This is an action ex delicto, wherein plaintiff claims damages in the sum of $10,961.00, which he alleges to have suffered from injuries to himself and his property, arising from malicious assault at the hands of defendant.
+The petition sets out the usual categorical allegations as to the time, place and nature of the assault and as to the extent of the damages suffered. To each paragraph in the petition defendant makes general denial, but finally answering, defendant avers that plaintiff was the aggressor and provoked the difficulty by insults and threats and by finally laying violent hands on the person of the defendant, who merely sought to defend himself.
+The trial judge, with written reasons for judgment, awarded plaintiff damages in the sum of $2,350.00. We quote, in part, from his opinion, to which we give our entire approval as to the facts and as to the unjustified assault:
+“The plaintiff was delivering ice from his wagon and stopped it for that purpose near the curb in front of the home of a customer. The defendant, Faust, operating a baggage truck, came up behind plaintiffs wagon to make a delivery at the adjacent house. The defendant had a large load of baggage, which he was hurrying to dispose of in time to enable him to pick up another load to be hauled to outgoing railroad trains. The plaintiffs wagon was in his way, and he called to the plaintiff to move it off. When the plaintiff did not comply, he ran his truck into the rear of the wagon, bumping it several times, breaking the rear steps and causing the horse to break the shafts. On the plaintiff’s expostulating, the defendant jumped off the truck and attacked him. One of the defendant’s helpers, Abadie, joined him, and though the plaintiff tried, ineffectually, to protect himself, they beat him with such savagery, that when they desisted, one eye was completely and the other nearly closed, his nose was broken, there was a deep cut in his chin, the lobe of one of his ears was nearly torn off and the whole surface of his head and face was bruised, swollen and covered with blood.
+“The plaintiff did not provoke the trouble; he had a right to stop his wagon where he did, and was not obliged to inconvenience himself for the defendant’s convenience. The trouble was caused by the defendant’s unjustified ill-temper, the violence of which is illustrated by the character of injuries which he and his helper inflicted on plaintiff.
+“The plaintiff is corroborated in the main by Mrs. McKoy Serio, the young colored woman, Leona, and the colored man, Walter, all of whom impressed me as being without interest and as endeavoring to tell the truth according to their observation and memories. * * * On the other hand, the version of the defendant is supported only by the testimony of the helper, Abadie, who took part in the attack.
+“The findings of fact which I make above are, in my judgment, supported by the preponderance of the evidence; and it results therefrom, as a matter of law, that the defendant, Faust, is liable for the plaintiff’s damages. * * *”
+We think the quantum of damages allowed in this case to be excessive.
+Our careful examination of the entire record convinces us that the property damage suffered by the plaintiff should be allowed, as follows:
+1 — Damages to the ice wagon______________$ 15.00
+2 — Amount paid helper during plain- . tiff’s disability (six weeks at $18.00 per week)________________________________ 108.00
+3 — Meals for helper (42 days at 50«¡) ________________________________________________________ 21.00
+4 — Bills for doctor and x-ray________________ 50.00
+5 — Depreciation or loss in business profits during disability (6 weeks, or 42 days, at $8.00 per day)__________ 336.00
+Total ______________________________________________$530.00
+In considering the personal injuries suffered by the plaintiff and which consisted of severe but only temporary bodily injuries, and further considering the suffering and mental anguish and humiliation consequent to such an assault, we do not think that plaintiff should be compensated in respect to such damages beyond the amount of $750.00.
+Weighing carefully the testimony of the plaintiff’s doctors who have testified in this case, particularly that of the four medical specialists, we are satisfied that the trial judge was correct in finding no permanent injuries-to have befallen plaintiff as a result of the assault.'
+It is contended by counsel for plaintiff that the major injury — claimed as permanent in character — which plaintiff has sustained is a fracture of what is commonly called the “lachrimal bone”. Two of the specialists testify they found such a fracture when examining the plaintiff shortly after the assault, but only one of the four specialists who examined the plaintiff shortly before or at the trial of this case, venture the opinion that any permanent or serious injury has resulted from the fracture, or that any other injuries have been found to exist beyond a month or two subsequent to the assault.
+We are particularly impressed with, the testimony of Dr. Charles J. Landfried, who states that his examination of the plaintiff —made just before the trial — showed nothing of a serious nature. Dr. Landfried stated that he found a deviated septum, but that he was unable to positively say whether it was traumatic (that is the result of an accident), or developmental (that is, caused through a natural defect in the nose), but that he could not find any deformity! which, to his mind, would be required in order to say that there was a fracture of the “lachrimal bone” in the left nasal chamber of the nasal cavity. He further testifies that so far as his experience has gone he has rarely seen a traumatic deviation of that portion of the septum without a marked deviation of the very anterior part of the septum. This able and experienced specialist further states that a deviated septum is commonly found in forty per cent, of mankind. Outside of this condition, he testifies that he could find nothing to allow him to say that there was a fracture of any bones of the face or skull; and, furthermore, he gives it as his opinion that there were no defects, in plaintiff’s case, as to the ventilation or drainage of the nasal chamber. He would not give it as his opinion that the conditions as found in plaintiff’s head could have caused or did cause at the time of the trial any irritated conditions of the nerve centers about the eye, which would lead to chronic or habitual headaches.
+The most recent case of this nature which this court has had occasion to consider is that of Douglas vs. Bagneris, 8620 Orl. App., in which the plaintiff, a colored man, driver of a butcher’s wagon, was knocked down and beaten by the defendant and sustained severe contusions of the right eye and head and portions of the body,'and was absent from work but a few days. In that case, this court awarded the plaintiff the sum of $300.00, and reviewed exhaustively the jurisprudence of this court and of the Supreme Court of the State as to quantum allowed in similar cases up to the case of Fontenelle vs. Waguespack, 150 La. 316, 90 South. 662. Again considering this jurisprudence, we are of the opinion that a proper allowance in the instant case for the damages suffered should be the total sum of $1,280.00.
+Punitory damages are not allowable under the jurisprudence of this State. We have so noted in the recent case of Claverie vs. Lorenz et al., 9653 Orl. App. See also Mundy vs. Phillips et al., 157 La. 445, 102 South. 519.
+It is, therefore, ordered that the judgment herein appealed from be and the same is hereby amended so as to reduce the quantum of damages allowed from Twenty-three Hundred and Fifty Dollars ($2,350.00) to Twelve Hundred and Eighty Dollars ($1,280.00), and, as thus amended, that the judgment be affirmed, at defendant’s costs in both courts.
