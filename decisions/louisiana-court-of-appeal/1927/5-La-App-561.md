@@ -1,0 +1,53 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "9522"
+decided: "1927-01-03"
+citations: ["5 La. App. 561"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SCHOBER, Appellant, v. LEIBE"]
+source_url: "https://static.case.law/la-app/5/cases/0561-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5612568
+cites_cases: ["10 So. 779", "10 So. 865", "12 La. Ann. 53", "136 La. 155", "139 La. 23", "14 So. 238", "19 So. 135", "3 R. 17", "33 A. 916", "36 La. Ann. 92", "36 La. Ann. 93", "4 So. 72", "40 La. Ann. 374", "41 La. Ann. 303", "41 La. Ann. 513", "42 La. Ann. 32", "42 La. Ann. 34", "44 La. Ann. 194", "44 La. Ann. 199", "45 La. Ann. 1270", "48 La. Ann. 338", "6 So. 137", "6 So. 471", "60 So. 471", "7 So. 61"]
+---
+
+# Schober v. Leibe
+
+## Majority (CLAIBORNE, J.)
+
+CLAIBORNE, J.
+This is a damage suit for malicious prosecution.
+The plaintiff alleged that on July 8, 1921, while a member of the firm of Schober and Thorn, he purchased from the William Leibe Refrigerator Manufactory a refrigerator for the sum of $115, less 5 per cent or $109.25 on the same day he. gave said concern a check for $40, and on August 8, 1921, mailed another check in the name of Schober and Thorn for $35 to the same concern; and that on September 6, 1921, plaintiff mailed a third check for $3.4.25 in the |ame of Schober and Boudreaux t'o the same concern, making a total of $109.25.
+That the check dated July 8, 1921, was returned to the defendants N. S. F.; that thereupon the defendants sent A. H. Leibe to plaintiff who exhibited to him his bank book and convinced him that “there was in the bank on the morning of the day when the check was first ¡presented the qum of $39.68; that on the afternoon of the same day an additional sum of $39.10 was deposited in said bank making a total in said bank on said day of $78.78; thereafter William Leibe called on petitioner and informed him that said check had been returned by the bank three times marked “N. S. F.”; that at no time was the plaintiff overdrawn, as he informed William Leibe and offered to prove to him, and that said check was perfectly good.
+That plaintiff heard nothing more of said check until he was arrested under an affidavit sworn out by William Leibe on June 27, 1922, in the following words:
+“Personally, before me, Paul J. Pizzo, deputy clerk, appeared William Leibe, who having been duly c.worn, doth depose and say: That on the ____ day of ......................., 19____, in the Parish of Orleans and within the jurisdiction of the Criminal District Court, one V. Schober, et als., did then and there wilfully and unlawfully give a certain check to one William Leibe Refrigerator Mfg. Co. for the amount of $40 on the Whitney Trust and Savings Bank without sufficient funds to cover same in violation of Act 209 of 1914, etc.”
+Plaintiff further alleged that the case was tried on May 10, 1923, when he was acquitted; that the action of William Leibe in causing his arrest was illegal and constituted malicious prosecution without cause and with malice aforethought; that in consequence of said arrest he was discharged from D. H. Holmes Co. and also from John Boudreaux; that his reputation has been permanently damaged, and that he has suffered damage to the extent of $5000 which he claims from defendants.
+The defendants filed an exception to the. petition on the ground that it failed to “disclose any right or cauqe of action against any of the defendants”.
+There was judgment maintaining the exception, and plaintiff has appealed.
+The exception of no right or cause of action is based upon the allegations of the petition which shows upon its face that the defendant acted “with probable cause”.
+Act 209 of 1914, p. 399, mentioned in plaintiff’s petition, reads as follows:
+“An act to punish the giving of checks, drafts, or orders on any bank or other depository -wherein the person so giving such check, draft' or order shall not have sufficient funds or a credit for the payment of the same.”
+“Section 1. Be it enacted by the General Assembly of the State of Louisiana, That any person who with intent to defraud, shall obtain money, • credit, goods, ■wares or anything of value by means of the making or drawing or uttering or delivering of any check, draft or order for the payment of money upon any bank or other depository, knowing at the time of such making, drawing, uttering or delivering, that the maker or drawer has not sufficient funds in or credit with such bank or other depository for the payment of such check, draft or order in full upon its presentation, shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $1000 or imprisoned not more than one year or both, at the discretion of the court. The failure of the person drawing, uttering or delivering such check, draft or order to pay the same within ten days after the receipt by him of written notice of its non-payment upon presentation, shall be prima facie evidence of intent to defraud, within the meaning of this Act.”
+The following propositions as rules governing the law of malicious prosecution are abundantly sustained by the authorities quoted in defendant’s brief in the case of Godfrey vs. Soniat, 33 A. 916:
+“In order to succeed in an action for malicious prosecution the plaintiff must make and prove all of the following four allegations:
+“1st. That the defendant was, the prosecutor or the cause of the prosecution;
+“2nd. That the prosecution terminated in favor of the plaintiff;
+“3rd. That there was no probable cause for the prosecution. Girot vs. Graham, 41 La. Ann. 513, 6 So. 471; Ivers vs. Ryan, 42 La. Ann. 34, 7 So. 61; Citizens’ Bank vs. Miller, 44 La. Ann. 199, 10 So. 779; Mallard vs. Dejan, 45 La. Ann. 1270, 14 So. 238; Town of Thibodaux vs. Constantin & Bragard, 48 La. Ann. 338, 19 So. 135;
+“4th. That it wás actuatéd by malice.”
+All these elements must exist and the proof is upon the plaintiff.
+Probable cause is such a state of facts or circumstances as would create in the mind of a man of ordinary caution and prudence an honest and reasonable belief of the guilt' of the party charged. Banken vs. Locke, 136 La. 155, 66 So. 763; Glisson vs. Biggio, 139 La. 23, 71 So. 204.
+Probable, cause does pot depend upon the actual state of the case in point of fact, but upon the honesj and reasonable belief of the prosecutor.
+However innocent the plaintiff may have been of the crime charged, it is enough for the defendant to show that he had reasonable grounds of believing him guilty at the time the charge was made.
+A judgment of acquittal is not proof of want of probable cause.
+If defendant shows probable cause, there must' be judgment in his favor. Girot vs. Graham, 41 La. Ann. 513, 60 So. 471; Citizens’ Bank vs. Miller, 44 La. Ann. 199, 10 So. 779; Mallard vs. Dejan, 45 La. Ann. 1270, 14 So. 238; Town of Thibodaux vs. Constantin & Bragard, 48 La. Ann. 338, 19 So. 135; State vs. O’Hara, 36 La. Ann. 93.
+No amount of. malice will render defendant liable if he had probable cause.
+Actions in damages for malicious prosecutions are not favored in law and must be cautiously entertained. From motives of public policy the prosecutor must, be protected,. Coleman vs. Hibernia Ins. Co., 36 La. Ann. 92; Lackey vs. Tiffin, 12 La. Ann. 53; Dearmond vs. St. Amant, 40 La. Ann. 374, 4 So. 72; Brelet vs. Mullen, 44 La. Ann. 194, 10 So. 865; Girot vs. Graham, 41 La. Ann. 303, 6 So. 137; Ivers vs. Ryan, 42 La. Ann. 32, 7 So. 61; Grant vs. Deuel, 3 R. 17.
+The whole question therefore is, whether the petition shows upon its face that the defendant acted with probable cause, as the district judge concluded? We think with him that it does, in the contemplation of the very Act 209 of 1914, to which he resorted. The plaintiff purchased from the defendant a refrigerator for the price of $109.25 and in part payment thereof, on July 8, 1921, gave the defendant a check for $40; upon that very day, according to plaintiff’s petition he had in bank to his credit $39.68 only; that check was returned “N. S. F.” It is true that that plaintiff alleges that on the afternoon of that day he deposited $39.10, but there is no allegation that he informed defendant that he had made that deposit. The petition further alleged that thereafter the defendant informed him that the check had been reurned by the bank three times marked “N. S: F.”; that information contradicted plaintiff’s allegation that on July 8th, in the, afternoon, he had made a deposit of $39.10. It also contradicts the following allegation: that at no time was the plaintiff overdrawn. It was clearly the duty of the plaintiff to have cleared up the difference of accounts, if any existed, between the bank and him and to make the check good within a reasonable time.
+The bank’s “N. S. F.” is entitled to more credit than plaintiff’s allegation.
+The defendant had no right to interfere with plaintiff’s accounts at the bank and had no power to settle them.
+The check of July 8, 1921, remained in sufferance until June 27, 1922, when defendant made the affidavit'. There is no allegation that the plaintiff settled his differences concerning his account with the bank, nor that he made the check good after its dishonor, on three successive occasions. The defendant had presented the check for payment on three successive occasions without avail and he was uqder no obligation to present it a fourth .time. The fact that the plaintiff bought the refrigerator and uttered a check in payment of it, which was returned three times “N. S. F.”, and that the plaintiff remained eleven months without honoring the check or paying the bill raised the presumption that within the meaning of the Act of 1914, that his inaction resulted from his. “intent to defraud”. The plaintiff’s argument that the defendant had no right' to resort to the Act of 1914 until ten days after written notice to him of its non-payment is without force. That section of the Act creates that notice as one kind of prima facie evidence of intent to defraud but is not exclusive of others.
+The plaintiff had verbal if not written notice.
+Tlie defendant could- have made the affidavit at the moment of leaving the bank with his dishonored check, had he chosen to assume the burden of proving “the intent to defraud” at some other time and in another manner.
+We are of opinion with the district judge, that' the plaintiff’s petition shows that defendant acted with probable cause and that therefore it discloses no cause of action against the defendant.
