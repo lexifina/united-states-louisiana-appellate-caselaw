@@ -1,0 +1,47 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "5212"
+decided: "1911-03-06"
+citations: ["8 Teiss. 227"]
+reporter: "teiss"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MANUEL ESTALOTTE vs. J. ANTHONY CLEMENTS"]
+source_url: "https://static.case.law/teiss/8/cases/0227-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1058484
+cites_cases: ["106 La. 248", "108 La. 512", "113 La. 778"]
+---
+
+# Estalotte v. Clements
+
+## Majority (ST. PAUL, J.)
+
+ST. PAUL, J.
+plaintiff obtained judgment and issued execution ¡seizing, under garnishment process, tke wages which were due defendant. Tke latter enjoined the seizure on the ground that he is a laborer and his wages as suck are therefore exempt; that in any event all wages and salaries, atnd generally- the -recompenses for any personal service -are exempt from seizure for -debt.
+The evidence shows that defendant is a typesetter and employed by one of the local newspapers to set up type by hand for its advertising columns. It further shows that the physical effort required in setting up-type is comparatively light, whilst the skill required is considerable and can only be attained by an apprenticeship of approximately four years.
+We do not think that one engaged in that occupation can be classed as a laborer, within the 'meaning of Article 644 of the Code of Practice,, as amended by Act 79 of 1876.
+Prior to the passage of that iact all wages were exempt, from seizure, but that statute in terms restricted the exemption to the wages of laborers'. In State ex rel Grocery Co. vs. Land, Judge, 108 La. 512, the Supreme Court held that the exemption was for the protection of laborers on farms and plantations, and in factories, ¡and other places, who were required to possess no particular skill; that it did not inure to the benefit of ¿killed workmen following regular trades. They defined a laborer as “one who works at a toilsome occupation; a man who does work requiring little skill, as distinguished frorh an artisan”; also as “one who gets a livelihood by coarse manual labor, as distinguished from an artisan or professional man. ” In Collims vs. Schroeder, 113 La. 778, ia laborer was held to be one who does “hard manual labor.”'
+These adjudications are binding on us, and defendant does not come within their definition of a laborer. But even as an original proposition we would not be inclined to hold that a skilled typesetter, or printer, is a laborer, except in the broad sense which includes all who gain their livelihood by personal effort of any kind.
+Printing is universally recognized to be an art, which is to say, an occupation requiring above all things skill in the workmanship, as the very term itself implies. One who follows such an occupation is an artisan, not a laborer. His services are valued not by the physical effort involved, but by reason of his familiarity with the art and his readiness and dexterity in execution. These enable him, by an effort comparatively slight, to accomplish results wholly unobtainable by others though equally anxious and physically better qualified perhaps, to perform them, but lacking in the skill requisite thereto.
+His very skill, indeed lightens the burden for him; what to another would be a heavy task, resolves itself for him into a light, even an agreeable one. And it is for the very purpose of avoiding the necessity for doing “toilsome work” and “coarse manual labor” that men will follow a long apprenticeship so as to acquire the skill sufficient to engage in some , lighter and more profitable occupation.
+Our appreciation of the occupation followed by defendant classes him in our opinion as an artisan not a laborer.
+Defendant further urges that under the provisions of Article 1992 Civil Code, all wages and recompense due for any personal service whatsoever are equally exempt from seizure with the wages of a laborer; and we are referred to Moll vs. Sbisa, 51 An. 290, where it was so decided.
+But Moll vs. Sbisa is not an authority which we can follow, for that authority, if not overruled, is at least discredited. In Bossio vs. Picton, 106 La. 248, the court said:
+“We are inclined to decide that Act 79 of 1876 amending the Code of Practice controls and repeals Article 1992 Civil Code relating to personal services; upon this subject Moll vs. Sbisa, 51 An. 290; insofar as it may be thought that it holds a contrary view, if it does, is obiter, and that salary for Services as clerk and other personal services are not exempt.’?
+It is true that the court Stated further that the parties had compromised their differences, and that it them had nothing before it to decide and would be constrained to leave the question open for final decision until it be brought up between parties with substantial adverse interests; but the court also said that the matter was one of public importance and the court felt that, in the public interest, it should be settled.
+Pretermitting ¿11 speculations as to whether the court is technically bound to follow an opinion to which the Supreme Court has thus given expression, we do, however, recognize the fact thiait it expresses the deliberate, and presumably well considered, views of the Supreme Court on the subject. Accordingly even if we be not obliged to accept them as aut'horitive or final, we áre yet quite at liberty to accept them as advisory and give them such weight a® we might give to any other respectable commentator.
+And not only are the views expressed- in Bossio vs. Picton entitled to great weight because of their source, but they are entirely in accord with our own.
+Prior to 1872 there appeared to be some conflict between Article 644 of the Code of Practice and Article 1922 of the Civil Code. In that year an act (No. 39) was passed, amending Article 644 Code of Practice and making it accord with Article 1992, Civil Code. In 1874 (Act 17) Article 644, Code of Practice, as amended, was re-enacted and a penal section added.
+In 1876, Act No. 79 was passed; it was entitled, in substance, an act to amend Article 644 Code of Practice, and to replace all acts amendatory of that Article, and in conflict with the new provisions. The body of the act is after the usual manner in which amendments to the code are adopted, that is to say, t'he section as amended is given in full.
+In a case lately decided by this Court (Seeling vs. Illinois Central R. R. Co., et al., Co. 5222 of our docket), we held that where a legislative enactment provides that an article of a code shall thereafter read in a gHen way, it is an express and entire repeal of the former reading.
+Hence when the Act of 1876 amended in that manner, Article 644, Code of Practice, it expressly and entirely repealed any former reading of that article and particularly the Acts of 1872 and 1874.
+The question then arises whether the repeal of any of the provisions of the Act of 1874 carried with it the repeal of similar provisions contained in Article 1992 Civil Code.
+We think that it had that effect. The purport and intent of the Act of 1876 wiais to say that the provi.-rons contained in the Act of 1874 should no longer be the law, except insofar as they were then re-enacted; and it was of no consequence that .provisions similar ri those just repealed, might be found in other statutes not mentioned.
+Thus for instance, we know that frequently the sanie law is repeated in several places in the revised statute,' under different numbers, and perhaps also forms an article of one of the codes. An example may be found in Section 3840, 2435 and 2332 Revised Statutes and Article 325 Civil Code. But could it possibly be contended, if Section 3840 of the Revised Statutes were repealed or amended, that Sections 2435 land 2332 and Article 324 Civil Code would still continue in full force and unchanged, notwithstanding such repeal or amendment?
+March 6, 1911.
+In the example just given it is easy to perceive that ■all these sections are but repetitions of one and the same law. We see this because the wording, or form is the ■same in all. But in the ease at bar it becomes necessary to look beyond the form and at the substance.
+Prior to 1876 it was the legislative will expressed both in Article 1992 Civil Code and in the Act of 1874 that the recompense due for personal services should be exempt from seizure. Yet there was but one law, and the legislative intent clearly expressed to repeal that law must be given full effect, regardless of how, of when, or where, the old law found expression; It is the legislative intent which must be sought, and when found k is not to be disregarded by refinements concerning the mode in which it is expressed.
+We think, as did the Supreme Court, that Act 79 of 1876, amending the Code of Practice, repeals Article 1992 Civil Code insofar as the latter exempted from seizure the recompense due for personal services, and we hold that such exemption no longer exists.
+The judgment of the City Court, perpetuating the injunction herein, is erroneous land must be reversed.
+It is, therefore, ordered, adjudged and decreed that the judgment herein appealed. from • be annulled, avoided and reversed and it is now ordered that there be judgment in favor of the appellant, Manuel Estallotte and against the. appellee, J. Anthony Clements, dissolving the injunction herein issued and rejecting the demands of said J. Anthony Clements at his costs in both courts.
