@@ -1,0 +1,49 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "3686"
+decided: "1905-06-13"
+citations: ["2 Teiss. 405"]
+reporter: "teiss"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HENRY L. HUNTINGTON vs. J. W. WESTERFIELD."]
+source_url: "https://static.case.law/teiss/2/cases/0405-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6760180
+cites_cases: ["10 La. 415", "104 La. 38", "11 La. 532", "12 A. 164", "12 A. 297", "12 R. 198", "13 A. 249", "4 R. 157", "42 A. 39", "6 R. 120", "73 N. Y. 95"]
+---
+
+# Huntington v. Westerfield
+
+## Majority (MOGRE, J.)
+
+MOGRE, J.
+Plaintiff sued the defendant as the surety on four certain promissory notes aggregating Two Hundred and eighty-five dollars in principal.
+For defense the defendant interposed the plea of payment and want of consideration, setting up that the notes sued on were the representations of an original loan of two hundred and eighty-five dollars, which original loan the maker of these notes had fully paid and discharged, having paid some five hundred and fifty dollars thereon in the form of interest at the usurious rate of from 3 to 5 per cent, per month; that these notes were not in. themselves an original transaction, but was the last of a series of notes given periodically in renewal of an obligation created three years before, on which obligation the maker paid in cash usurious interest charges at the time of each renewal; that the original loan having been more than paid, the notes sued on were hence without consideration.
+On the trial of the cause, when the defendant sought to' prove by a witness then on the stand, the averments of his answer, he was met with the objection, to quote from the note of evidence, “that the evidence was irrelevant incompetent, (1) on the ground that under the law the holder of a lióte has the right to sue for and recover the full amount of the face of the note independent of what were the anteriSr transactions between the parties and whether or not usurious interest or discount is incorporated in the face of the note; (2) on the ground, that the plea of usury can only be urged in a suit to be filed, or which has been filed, for the recovery of such usurious interest by the prayer thereof, ■against the person who receives such usurious interest; (3) that such plea can only be urged as against the receiver of usurious interest by the payer thereof and is personal to such payer; (4) that in any event no evidence is admissible as to the payment of usurious interest more than twelve months beyond the date of the filing of the suit for the recovery of such usurious interest.",
+The trial judge sustained the objection and rendered judgment in favor of plaintiff as prayed for.
+From this judgment defendant appeals, and tenders for our consideration the ruling of the lower judge on the question oi the admissibility of the rejected evidence.
+The objections urged to the proffered testimony is, as shown above, that it is not “competent” and not “relevant.”
+By “competent' evidence” is meant that which the very nature of the thing to be proven requires, as the fit and appropriate proof in the particular case, such as the production óf a writing where the contents are the subject of inquiry (Greenlief Ev.. Vol. 1 x 2) ; and the meaning of the word “relevant” as applied to testimony is that it directly touches upon the issues which the parties have made by their pleadings so as to assist in getting at the truth. It comes from the French relez’er, which means to assist (Flatner vs. Flatner, 73 N. Y. 95).
+Tested by these definitions, and keeping in mind that questions respecting the competency and relevancy of evidence are. entirely distinct from that which respects its sufficiency or effect, it is manifest that the evidence -offered was not incompetent.
+It is not pretended that evidence of the facts sought to be proven existed in a more “fit and appropriate” form than that in which it was tendered, nor is it denied that the facts averred may not be proven, as was attempted, by oral evidence.
+Neither was the evidence irrelevant, in the sense that it was not germane to the facts averred and tendered by the defendant as an issue.
+But it is not every fact which may be averred by the parties to a suit that constitute, in a strict legal sense, an issue in the case. To be an “issue,” the facts alleged must be material, and to the contingency of the facts averred and sought to be proven there must be attached the legal consequence asserted by the party affirming them.
+If the facts averred logically and obviously tend to determine the existence, extent or nature of the right, liability or disability asserted or denied in the action, an issue is then presented; but if the facts averred, if proven, would not carry with them the legal consequence asserted to be' attached to them, no issue is tendered and evidence offered to prove them would be irrelevant.
+In the instant case the argument against the admissability ot the evidence is that if it were admitted and made proof of the facts averred by the defendant it could ■ not defeat plaintiff’s action, first, because no prior usurious transaction and dealings between the maker of the notes and the plaintiff, which culminated in the execution of the notes sued one, can affect him and hence the admission of the testimony offered could be of no service in aiding decision of the cause.
+Whether to the testimony, when received, there will attach the legal consequence which the defendant asserts and the plaintiff denies, depends, altogether, upon what the evidence may establish as to the alleged usurious transactions.
+If the evidence establishes conditions and circumstances similar to those that were presented in Chadwick vs. Menard, 104 La. 38, then may it not be said that it is irrelevant because it cannot assist in the decision of the cause. What the evidence, however, may or may not establish, and whether or not it may have attached the legal consequence asserted by the defendant, can be discovered ■ only after it is received.
+Second: Because there is no issue at all in the case concerning any usurious transactions to which the evidence could be responsive, forasmuch as such issue can be raised only in a direct action for the recovery of the usurious interest paid, or by way' of a reconventional demand.
+Such is not the law. The usurious nature of the transaction may be made an issue by way of defence as well "as by direct action. He who has a right of action to claim what is due to him, has a right yet more evident to use the same cause of action as an exception, in order to preserve his rights. C. P. 20.
+Third: Because as the plea of usury is personal to the make? 'of tbe notes, which latter is making no such defence, the surety cannot be benefited by any proof of usury however usurious the transaction may be.
+It is the code law that the surety may oppose to the creditor all the exceptions belonging" to the principal debtor, and which are inherent to the debt, except of course those which are personal to the debtor. C. C. 3060. Hence, lie'may plead the want of consideration or an illegal one, non-age, coverture and usury. 10 La. 415; 6 R. 120; 4 R. 157; 42 A. 39; C. C. 3037, 3045, 3060.
+Fourth: Because as there can be no recovery of usurious interest paid more than twelve months prior to the date of filing the suit for the recovery of usurious interest, no evidence of usurious interest beyond that period can be received.
+This objection concerns entirely the efficiency of a plea of prescription, if such plea or question is present in the case, and not the admissability of evidence on the merits, at all.
+Even if the objection did concern this latter question, the evidence would be admissable to, at least, prove the usurious transactions had within the twelve months provided by Art. 2924, C.C. •
+But our esteemed brother of the lower court did not so limit the testimony; he rejected it entirely. Nor does it appear that .he took any notice whatever of the - plea of prescription. As he neither sustains it nor overrules it, there was necessarily no consideration of the proposition, discussed on appeal, to the effect that the provisions of Art. 2924, C. C, limiting the right of action for the recovery of usurious interest paid, to twelve months, applies only to the direct action brought to recover same, and that it in no manner affects the right to set up such usurious transactions for a period beyond the twelve months, by way of an exception or defence to an action for debt, under the maxim, Ouae temporalia sunt ad agendum, perpetúa sunti’ad excipiendum, •and the rule that one may use as a shield, what he may no longer employ as a weapon. (C. P. 20; 3 N. S. 695; 4 N. S. 500; 12 A. 164; 11 La. 532; 12 R. 198; 12 A. 297; 13 A. 249, 233.)
+June 13th, 1905.
+Rehearing refused, June 28th, 1905.
+Writ refused by Supreme Court, July 27th, 1905.
+There was error in not considering this plea; but as the case will have to be remanded in order that the rejected testimony may be received, the lower court will then have an opportunity to pass on this -plea, and when it comes properly before us, as it is not now, it will receive consideration and decision by us.
+It is therefore ordered, adjudged and decreed that the judgment appealed from be and the same is hereby set aside, avoided and reversed, and that this cause be remanded to the lower court for trial de novo and according to law, and with directions that the rejected testimony be received, but without prejudice to' its being limited or restricted according as a proper ruling oh the plea of prescription may warrant and about which we - presently express 110 opinion.
+The costs of appeal to be. taxed against the appellee; the costs of the lower court to await final judgment.
