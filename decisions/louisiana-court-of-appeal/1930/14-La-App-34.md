@@ -1,0 +1,25 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "13,179"
+decided: "1930-06-02"
+citations: ["14 La. App. 34"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DI GIOVANNI v. BRODTMAN"]
+source_url: "https://static.case.law/la-app/14/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3348262
+cites_cases: ["12 La. App. 692", "127 So. 16", "150 La. 316", "3 La.'App. 465", "6 La. App. 14", "6 La. App. 648", "90 So. 662"]
+---
+
+# Di Giovanni v. Brodtman
+
+## Majority (WESTERFIELD, J.)
+
+WESTERFIELD, J.
+Plaintiff seeks to re- I cover $6,102 as damages ■ for physical in- | juries which he'alleges to have been dúe to an assault and battery upon him by defendant without cause or provocation.
+Di Giovanni, the plaintiff, and James Brodtman, the defendant, were, at the time of the alleged assault and battery, employees of the Johnson Iron Works, a shipbuilding corporation located at the 'foot of Bermuda street in Algiers. On the afternoon of January 21, 1929, a disturbance or altercation occurred, between a number of men working on the wharf of the shipyard and the police were sent for. Brodtman, who was a foreman, was present and accompanied the police to an alleged soft drink establishment known as the “Black Bottom,” situated near the scene of the disturbance, for the purpose of searching for a gun, said to have been concealed in that establishment by one of the men who had been placed under arrest. As he approached the “Black Bottom’’ he -was accosted by Di Giovanni, who appears to have had some friends among the men arrested, and denounced as a “four-eyed son of a bitch.” Brodtman returned to his work without resenting the epithet applied to him. Some three or four hours afterwards, or' about 7 p. m. of the same day Di Giovanni and Brodtman met again. Brodtman claims that, as Di Giovanni approached, he assumed a menacing attitude and that, believing that he intended to strike him, he knocked Di Giovanni down and continued to punch him until called away by a Mr. Ramsay, one of the employees of the shipyard. On the other hand, Di Giovanni testifies, and he is supported by at least one witness, that, as he approached Brodtman, his intention was to apologize and that he had, in fact, offered to do so, but that his overtures were rejected by Brodtman.
+The case turns'upon the'i'ssue of fact as to which version of the occurrence is to be believed. We are satisfied that Di Giovanni was the aggressor in the afternoon; in fact, his testimony to the effect that he desired to apologize is an admission of that fact. Brod.tman, who, it appears, is accustomed to engage in fist fights and indulge in the use of obscene epithets himself, cannot be said to be a man of very delicate sensibilities, but in this instance it seems to us that the probabilities support his statement as to what happened prior to his assault upon plaintiff. It seems to us unlikely that a man of Di Giovanni’s type would seek out one whom he had abused for the purpose of making amends and be so acutely conscious of prior misconduct as to tender his apology. We should like to believe that, in every stratum of society, the amende honorable is practiced as a means of settling differences, without resort to violence, but our observation is to the contrary. In addition to our impressions, based upon the record, we observe that the trial court, with its more favorable opportunity for determining the credibility of the witnesses, found for defendant. Our conclusion, therefore, is that plaintiff was the aggressor and, under the well-settled jurisprudence of this state, he cannot recover. Fontenelle vs. Waguespack, 150 La. 316, 90 So. 662, 663; Smith vs. N. O. Public Service, Inc., 12 La. App. 692, 127 So. 16; Lide vs. Parker, 6 La. App. 648; Klinberg vs. Grisaffi, 6 La. App. 14; Picatacci vs. Palermo, '3 La.’App. 465. In the Fontenelle case it was said:
+“If plaintiff was in fault in making an assault and battery upon defendant, he could not recover for the injuries inflicted on him, although the defendant was not justified in law in his conduct. The same rule applies to defendant as to his reconventional demand. It is not necessary for defendant to prove that he acted in self-defense in order to recover damages in re-convention from plaintiff. Unless the defendant provoked the difficulty by insults, abuse, threats, or other conduct, he would be entitled to recover, if plaintiff, without legal excuse, committed an assault and battery upon him. Either plaintiff or defendant, in order to recover, would have to prove that he was without fault in provoking the difficulty. The plea of self-defense may admin that the defendant committed an assault and battery on plaintiff, but it is clear that plaintiff could not recover, by virtue of such admission, if he was in fault in bringing on the difficulty, as alleged by defendant in his answer.”
+. For the reasons assigned, the judgment appealed from is affirmed.
