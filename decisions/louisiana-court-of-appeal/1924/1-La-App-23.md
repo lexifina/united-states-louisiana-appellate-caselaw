@@ -1,0 +1,22 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "9749"
+decided: "1924-10-20"
+citations: ["1 La. App. 23"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LEON IRWIN & CO., INC. v. J. E. WARNER & CO., INC."]
+source_url: "https://static.case.law/la-app/1/cases/0023-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3279867
+---
+
+# Leon Irwin & Co. v. J. E. Warner & Co.
+
+## Majority (WESTERFIELD, J.)
+
+WESTERFIELD, J.
+This is a suit on open account for the sum of $135.15. The particular debit item represented by the amount claimed is admitted to be due and owing, but defendant somewhat inartistically pleads compensation because of the payment in error of another item of this amount. From a judgment in plaintiff’s favor as prayed for defendant appeals.
+The plaintiff, Leon Irwin & Co., Inc., is the local representative of the New Amsterdam Casualty Company, a foreign corporation transacting business in this State as a Surety Company with plaintiffs as general agent. The defendant is a local corporation conducting a sort of insurance brokerage business. It is customary for the general agents to allow a commission of 15% to the broker or producer of the business brought to them by the broker. The defendant brought to plaintiff’s office a building contractor by the name of Bourgeois, who obtained from the Amsterdam Casualty Company a surety bond through plaintiff’s agency, the usual commission being allowed defendant. Subsequently Bourgeois obtained four other bonds of a similar character, and it is concerning the preminum of $135.15 for the last bond which was not paid, that this controversy has arisen. It is the custom for the broker, in this case the defendant, to add its commission to the premium due the bonding company and bill the assured and collect the amount, paying the general agent at stated intervals the aggregate of premiums due in the interval. Pursuant to this custom plaintiff, on July 26, 1922, presented a statement calling for several hundred dollars and including the disputed Bourgeois premium of $135.15. The defendant deducted the Bourgeois premium and gave its check to plaintiff’s collector for the balance, stating that it desired to investigate the Bourgeois item. Several days later plaintiff again sent its collector to collect the Bourgeois item and on this occasion it was paid by defendant. Defendant says it was misled in making this payment because plaintiff’s collector stated the charge covered something other than the Bourgeois collection known as “Compensation Payroll Audit.” The next time plaintiff’ collector came around presenting a statement covering other business transactions between plaintiff and defendant, the amount of the Bourgeois collection was again deducted and this suit followed. Defendant claims it is not liable for the premium due on the last bond obtained by Bourgeois because it did not expressly authorize plaintiff to take that particular bond for its account. But the evidence shows that there was no express authorization given for three of the four preceding bonds issued to Bourgeois for defendant’s account, there being only one instance, the first transaction, when Bourgeois was introduced into plaintiff’s office accompanied by one of defendant’s employees, which may be said to have been expressly authorized. All five .bonds were issued within a few months, that is to say, between January 6 and April 26, 1922. Having introduced Bourgeois originally and having received commissions on three subsequent transactions with Bourgeois, we must presume that the same arrangement applied to the fifth bond, which happens not to have been paid for. It was for defendant to show that it notified - plaintiff of its desire to have nothing more to do with the Bourgeois business before the fifth bond had been executed. This it failed to do. On the contrary, defendant, according to Bourgeois’ testimony, was trying its level best to collect the fifth premium from Bourgeois, including the 15% commission which had been added to the amount due plaintiff at the same time it was disputing plaintiff’s claim, and a statement rendered Bourgeois (by defendant) dated August-1, 1922, in support of his testimony, was offered in evidence.
+We are convinced of the correctness of the judgment appealed from and it is therefore affirmed.
