@@ -1,0 +1,43 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "22,918"
+decided: "1925-12-08"
+citations: ["4 La. App. 715"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GOURNAY v. PRATHER"]
+source_url: "https://static.case.law/la-app/4/cases/0715-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5605304
+cites_cases: ["117 La. 163"]
+---
+
+# Gournay v. Prather
+
+## Majority (ELLIOTT, J.)
+
+ELLIOTT, J.
+On November 20, 1922, S. A. Gournay entered into a written contract with Arthur Prather, whereby Arthur Prather bound himself to farm a certain plantation belonging to Gournay for the year 1923. Prather was to furnish all his seed, rice, tools and implements to make a rice crop, also fuel and labor necessary to make levees and material and maintain the lake levee so as to hold sufficient water, maintain fences, do the hauling, pay all expenses and deliver one-third of the rice in warehouses and the other crops to Mr. Gournay in his barn, clear of all expenses.
+Mr. Gournay was to advance Mr. Prather seed rice, 200 barrels of corn, tools, implements, gas, oil and 'money to pay labor hired to make the crop, etc.
+The contract stipulated that Mr. Prather was to secure Mr. Gournay for advances by executing a bill of sale covering his crops and a chattel mortgage on his Pordson tractor, wagons, implements, three mules and a horse.
+Mr. Prather proceeded in due time to the planting and cultivation of the crop and Mr. Gournay, to advance him on the same.
+Later Mr. Prather at the instance of Mr. Gournay bought out the interest of Adam Naquin .in a crop; Mr. Gournay advancing the money for the purpose.
+Mr. Gournay’s advances reached $1372.00 and he desired further security. This had been previously agreed to. The parties accordingly went before James Hammers, Notary Public, on August 29, 1923, and Mr. Erather executed an act in which he acknowledged himself to be indebted to Mr. Gournay • at that time .in the sum of $1372.00 “for money advanced by S. A. Gournay to Arthur Prather to enable said Prather to plant, cultivate and harvest his crops of rice, cotton, corn, potatoes, etc., for the present year”. He executed a note in favor of Mr. Gournay for the amount and secured the note, mortgaged to Mr. Gournay certain movable property belonging to him and pawned and pledged to Mr. Gournay his share of the crops grown on the plantation leased from Mr. Gournay; also his share of the crops grown, which had been purchased for Mr. Naquin and authorized Mr. Gournay in the act to take actual possession of said crops as soon as matured and gathered. To dispose of same and apply the proceeds'to the satisfaction of said note, etc.
+At the time this act was passed and security given, Mr. Gournay had advanced Mr. Prather $443.26 over and above the sum stated in said act and evidenced by said note; but Mr. Gournay was not aware that it had been done; consequently the sum was not included in the note and security mentioned.
+During the months of October and November, 1923, the parties became each dissatisfied with the other. Mr. Prather claims that the sums advanced him by Mr. Gournay ha'd been exhausted. That further advances were necessary to enable him to gather his crops and that Mr. Gournay refused to advance him any further. That being refused by Mr. Gournay he was compelled to solicit assistance from Mr. L. O. Wade.
+Mr. Gournay claims that Mr. Prather mismanaged and wasted the money he had advanced ■ him. That the sums advanced and as indicated by the note, had same been properly expended, were sufficient for all purposes and that he was justified in refusing to advance further sums. He further claims that Mr. Prather when called on to settle' with him for the advances refused to do so and contrary to the agreement, set forth in the act of pledge, sold the cotton without his consent and delivered the rice to warehouses, taking receipts for the- entire crop and the shares of each, in his own name, and kept the .receipts in violation of the contract of pledge.
+This suit by Mr. Gournay against Mr. Prather resulted and Mr. Prather’s interest in all the rice stored in warehouses as well as that in the fields were seized by provisional seizure.
+L. O. Wade intervened in the suit, claiming to be a privileged creditor with privilege on the rice, etc., to the extent of $437.10 for advances to Mr. Prather to enable him to harvest the same.
+Mr. Prather concedes the demand of Mr. Wade.
+The district judge rendered judgment in .favor of Mr. Gournay for $1372.00, the amount due on the note with interest and attorney’s fees; recognized the pledge which Mr. Prather had granted him as above stated, also the chattel mortgage, granted at the same time; ordered that the pledge and mortgage be enforced, that the proceeds of the crops pledged to Mr. Gournay be paid to him with rank of privilege due to the pledge, and by preference over all others to the extent required to satisfy the note. He also recognized Mr. Gournay’s claim as a privilege to have effect after the note had been paid and concurrent with a like privilege recognized in behalf of Mr. Wade.
+He also recognized Mr. Wade as a creditor to- the extent of $437.10 as claimed in his intenvention with privileges as fur.nisher. of supplies concurrent with Mr; Gournay after-the note had, been paid.
+Mr. Gournay and Mr. Wade appealed.
+The record shows contests resulting from the provisional seizure, which are not controverted on appeal. We will therefore not mention them.
+Mr. Prather contends on appeal that he is entitled to a credit of $161.85 instead of $111.85 as allowed in the lower court against Mr. Gournay’s bill or account for $443.26 over and above the note.
+- The evidence bears out the' contentions Of Mr. Prather to this respect.
+He paid Mr. Gournay a check for that gum; Mr. Gournay admits receiving the check but claims that he gave back to Mr. Prather $50.00 of the amount, thus reducing the payment to $111.85; Mr. Prather denies that Mr. Gournay gave him back $50.00 of this amount. The burden of proof to show this return is on Mr. Gournay. The evidence supports the contentions of Mr.. Prather; that he did not give him back $50.00 of the sum paid. Mr. Prather is therefore entitled to a credit for the sum of $161.85 instead of $111.85 as allowed in the lower court.
+Mr. Prather also claims a credit of $61.50 for corn raised, part of the crop purchased from Adam Naquin, which he delivered to Mr. Gournay and not allowed by the judgment appealed from. In this matter the evidence supports Mr. Prather. He is positive that he delivered the corn to Mr.- Gournay; Mr. Gournay is uncertain and was unable to say that it was not done. This credit will be allowed,, also a further credit of $15.00 for seed cane and $2.20 on account of error in charging for oil; making a total difference of $128.70 in the credits allowed in the lower court and which added to the credit for disk .harrow, leaves Mr. Prather indebted to Mr. Gournay on account, over and above the note, in the sum of $108.71. Mr. Wade urges on appeal that the pledge which Mr. Prather executed in favor of Mr. Gournay is null and- void because the advances covered by the. pledge had been already advanced, citing Bank vs. Sullivan, 117 La. 163, 41 South. 480. This decision was rendered in 1906. It is not the law now. Section 1 of Act 66 of 1874 was amended by Act 93 of 1922 and according to the law as amended, the judgment sustaining the pledge is correct. The contract between Mr. Gournay and Mr. Prather does not specify how much money was to be advanced for the purpose of paying hired labor. Mr. Prather claims that he needed further advances to enable him to harvest his crop and that Mr. Gournay wrongfully refused to grant him further ádvances and thereby compelled him to seek assistance from Mr. Wade.
+Mr. Gournay claims that the advances he made were sufficient, had same been properly expended, etc. The evidence does not enable us to say which is right, but we are satisfied that the claim of Mr. Wade was properly allowed by the district judge. He made advances as he' claims to have made.
+The judgment appealed from is correct in all respects, save as to the" credits allowed Mr. Prather. Mr. Prather is entitled to credit against the bill or account filed against him by Mr. Gournay for $443.28 over and above the note, for $355.65 instead of as fixed by the judgment of the lower court, to be applied of date October 1, 1923, and as thus amended and corrected the judgment appealed from is affirmed.
+The plaintiff and appellee to pay the cost of the appeal; the defendant the cost in the lower court. ’
