@@ -1,0 +1,35 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "10,462"
+decided: "1926-05-24"
+citations: ["4 La. App. 489"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BORDEN AICKLEN AUTO SUPPLY COMPANY, INC., v. MID CITY, INC."]
+source_url: "https://static.case.law/la-app/4/cases/0489-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5606441
+cites_cases: ["1 La. App. 424", "1 La. App. 445", "129 La. 983", "3 La. App. 741"]
+---
+
+# Borden Aicklen Auto Supply Co. v. Mid City, Inc.
+
+## Majority (CLAIBORNE, J.)
+
+CLAIBORNE, J.
+Plaintiff alleges that it is owner of two promissory notes made by defendant to the order of plaintiff dated July 27, 1925, payable on September 27th and October 27th, 1925, each for $50 with interest.
+Defendant admits that plaintiff is the holder of the two notes sued on but denies any liability therefor.
+Further answering defendant alleges that some time prior to July 27, 1925, an agent of the plaintiff called at defendant’s place of business for the purpose of selling a “Tridex Automobile washing and cleaning machine” and represented to him that said machine was “fool proof” and easy to handle; that it is simply connected to the water supply, the burner lighted, and immediately there is super-abundance of wet steam for cleaning; that it will get up fifty pounds of steam in fifty seconds from the time of firing and will hold any desired pressure from 25 to 60 pounds, all day long, with the steam line and hose wide open spouting steam; that it cleans chemically with warm water and soap, and wet steam in combination, no hand labor being required; that the Tridex machine is designed' to supply an enormous quantity of wet steam without much heat; that the machine can easily handle twelve cleaning jobs a day; that plaintiff’s agent stated that a trial was unnecessary as plaintiff would warrant anything it sold; that on those representations defendant agreed to buy a Tridex machine, and on delivery thereof on July 27, 1925, defendant made and delivered to plaintiff six promissory notes each for $50 payable respectively on August 27, 1925, and on the 27th of each succeeding month; that defendant connected the Tridex machine with the water supply but could not get up steam, until one of plaintiff’s mechanics came to defendant’s place of business and got up steam, but the pop off valves kept throwing water around the place; that defendant was unable to raise any steam the next day until a mechanic from the plaintiff again came to his assistance and succeeded in raising steam sufficient to clean several motors at intervals with time to cool off; that defendant some time later again attempted to clean four cars, but that by reason of the fact that the machine would not produce an unlimited, continuous supply of wet steam, defendant was able to clean only two cars between the hours of 10 a. m. and 6 p. m., and the mud had to be removed with knives; that on defendant’s complaint the plaintiff sent to defendant a factory representative who made certain adjustments and after getting up steam promised to return and to show the defendant how to operate the machine in order to obtain the best results; but that said representative has failed to show defendant how to operate the machine; that the defendant paid the first note maturing on August 27th. because of the representations first made by plaintiff and his reliance thereon; that defendant thereafter ■refused to pay any further notes and called on plaintiff to accept the return of the machine and to return the unpaid notes and to refund the $50 paid on the first note, which plaintiff refused to do.
+Defendant prays for judgment in his favor rejecting plaintiff’s demand and condemning plaintiff to refund to him $50 and to return the five notes unpaid.
+There was judgment in favor of plaintiff and against the defendant for $100 and dismissing defendant’s reconventional demand.
+The defendant has appealed.
+It would serve no useful purpose to reproduce the testimony in this case. Suffice it to say that the printed circular distributed by the Triplex Equipment Co. promised that the machine would do all that the plaintiff’s petition alleges its agent represented to the defendant that it would do; that the defendant bought the machine on those representations made to the defendant by the plaintiff’s agents; that after-thirty-day trial the defendant could not get the machine to do the work represented, although assisted by a mechanic of the plaintiff on two occassions and by a mechanic of the factory on one occasion; that this failure was not owing to the fault of defendant inasmuch as its vice-president was a licensed steam engineer of 14 years’ experience. On October 10, 1925, after the defendant had rejected the machine and c'alled on plaintiff to return the $50 and the five notes and after plaintiff’s refusal so to do, the defendant made to the plaintiff the following offer:
+“We will furnish 12 average cars to be steam-cleaned between the hours of 7 a. m. and 5 p. m. less one hour for lunch. You furnish the man to do this work with the machine in our possession.
+“If he can do a satisfactory job on twelve machines in. above length of time we will pay him for his time and accept the machine. If the machine does not do the work we will expect you to pay the man and accept return of machine.”
+This offer the plaintiff rejected.
+This case must be decided on the authority of Bohanan vs. Stewart, No. 10,304, of this court, March 29, 1926. In that case we said:
+“A vendor, unless warranty is waived, warrants that the thing sold is fit for the the particular purpose for which it was bought” and authorities there quoted. United Motor Car Co. vs. Drum, 3 La. App. 741; Berrin vs. Guarino, No. 8157; Tessier Digest, p. 151; Standard Motors Finance Co. vs. Yellow Bayou Gin Co., 1 La. App. 424.
+Nor will the fact that the defendant has made payments since the discovery of the defects debar him from refusing to pay the other notes or recovering payments already made. Holcomb vs. Theodora, 1 La. App. 445; 129 La. 983 (1004).
+It is therefore ordered that the judgment be reversed and set aside; and it is now ordered that plaintiff’s demand be rejected at his cost. It is further ordered that there be judgment in favor of the defendant. on its reconventional demand cancelling the contract for the purchase of the Tridex machine and condemning the plaintiff the Borden Aicklen Auto Supply Company, Inc., to pay the defendant the Mid City, Inc., fifty dollars with five per cent per annum interest from this .date until paid, and to return to the said Mid City, Inc., five promissory notes of $50 each drawn by the Mid City, Inc., to the order of Borden Aicklen Auto Supply Co., Inc., all dated July 27, 1925, payable respectively on September 27th and on the 27th day of each succeeding month.
+. Tire plaintiff and appellee to pay all the 'e'osts of this’'Suit in both courts.
