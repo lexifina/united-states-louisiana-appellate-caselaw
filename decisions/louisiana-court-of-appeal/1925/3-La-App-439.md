@@ -1,0 +1,62 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "2091"
+decided: "1925-01-12"
+citations: ["3 La. App. 439"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PRESTON BRASHER v. RICHARD H. GRANT, SR."]
+source_url: "https://static.case.law/la-app/3/cases/0439-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3299248
+cites_cases: ["1 La. App 457"]
+---
+
+# Brasher v. Grant
+
+## Majority (ODOM, J.)
+
+ODOM, J.
+The testimony in this case is very conflicting. Mainly for that reason we affirmed the decision of the lower court when the case was before us some time ago. On application for rehearing we remanded the case for further testimony, especially for testimony concerning the document marked “Defendant’s 2”.
+On the new trial of the case both plaintiff and defendant were called and testified. We have re-read the testimony taken on the first trial and have read that which was taken on,the second trial and our final conclusion is that the plaintiff is entitled to judgment as prayed for.
+On the second trial the district judge adhered to his original judgment but corrected a slight error of one dollar which he made in addition.
+Plaintiff has again appealed.
+It is plaintiff’s contention that the contract price for furnishing all material and the installation thereof was $389.00 and that subsequent to the submission of his bid the defendant decided to install a “built-in” bath tub instead of a “leg tub” which was originally agreed upon, and that an additional charge of $75.00 was made for that. Also that defendant had him change the location of a lavatory and install a range stove at an additional cost of $24.50 for the two. This makes a total contract price according to plaintiff of $488.50.
+These last two items are not seriously disputed.
+It seems that the contract called for two drain boards which were not installed and credit for $7.00 was given for those items, reducing the total price to $481.50 which is the amount sued for.
+Defendant, on the contrary, contends that the contract price for all material complete and installed was $325.20, which included a shower bath and curtain at $31.70, which, not having been installed, that amount as' well as the amount for the installation of one drain board not installed, $3.00, should be deducted, leaving the amount due by him only $290.50.
+It is not worth while, we think, to review all the testimony in the record. Suffice it to say, however, that the main dispute between plaintiff and defendant is this: plaintiff, on the one hand, contends that the prices contended for by the defendant are the wholesale prices of the items to be installed and did not include the labor for installation. He admits that he did submit to defendant thrqugh Gremillion, who had the contract for the building of the defendant’s residence, the figures as set out by defendant; but he says that those figures were furnished by him from a list of prices of the items f.o.b. Alexandria, Louisiana, and were given to enable defendant to compare them with other prices which he might be able to procure from other dealers in the city.
+Plaintiff says that the bid which he submitted was $389.50, which included the price of the materials installed in the residence, also an item which he paid to the city for water.
+To corroborate his testimony on this point plaintiff introduced and filed in evidence on the second trial a document marked “Plf. 12,” which is an invoice of plumbing fixtures which he purchased in March, 1922, only a few months previous to the date on which the contract was let. This invoice shows prices which he paid for either the items installed or similar ones. We note that the evidence on the invoice correspond with the figures submitted by plaintiff on his document “Def. 2”. This is a very strong corroboration of plaintiff’s testimony that the prices claimed by defendant were those submitted by him not including installation.
+If defendant’s contention be correct, plaintiff would have received nothing at all for his work in installing the fixtures. It is not reasonable to suppose that plaintiff would have agreed to furnish the material at cost and make no charge for the installation thereof.
+On the first trial Gremillion testified that on the same contract Zoder, another plumbing contractor, bid $396.00 on the same work installed. This was more than plaintiff’s bid. This testimony also corroborates that of the plaintiff. Gremillion, however, became very much confused in his testimony, and for that reason we attached but very little weight thereto on our former consideration of the case and attach but little to it now.
+On the second trial plaintiff called Mr. Dezendorf, manager of Zoder’s business, and offered to prove by him that he had received a bid from that concern and offered to show the amount thereof. This testimony was excluded by the court on objection by defendant, and plaintiff was not permitted to take his testimony and attach it to his bill of exceptions. We think the court erred in not receiving this testimony. It would have cleared up a very vital point. However, it is not necessary to remand the case to receive that evidence.
+Defendant offered in evidence a document marked “Def. 2”. This document is written with pencil. At the top of the sheet and in the center Othereof are found the items which went into defendant’s residence. These items as listed including $31.70 for shower and curtain total $325.20, which is the amount which defendant contends plaintiff agreed to charge for all the fixtures and the installation thereof. Below the above figures and in the left hand corner of the sheet there is a different set of figures, and upon the deciphering and interpretation of these latter figures a determination of this case largely hinges. These latter figures as originally written have been partially erased and others written over them. Our final conclusion is that the original figures are as follows:
+388
+75
+463 00
+3170
+494 70
+The “388” has been changed so as to read “325 20”; the “75” remains the same; but the “463 00” has been changed so as to be “400 20”; the “3170” remains the same; but the “494 70” has been changed to “431 90”.
+There is some controversy as to which figures were written first, but we have satisfied ourselves after a most careful examination of the said document that the figures hereinabove first written were the ones originally placed thereon.
+The plaintiff contends that the original bid which he submitted contemplated the installation of a “leg tub” at $105.00 and that later defendant ordered a “built-in” tub and that it was agreed that there was to be an extra charge of $75.00 for that.
+Defendant, on the contrary, says the “built-in” tub was specified in the original price. Opposite and to the right of the figures “388” written with pencil are the words “with leg tub” and to the right of the figures “75” are the words “built-in tub”; to the right of the figures “3170” are the words “for shower and curtain all complete” and to the right of the figures “494 90” are the words “all complete and installed”.
+Defendant admitted on the last trial that he did all this writing to the right of these figures, but he does not admit that he made any of the figures referred to, either the original one or those written over them. On the first trial he said these figures were made by Major Thornton, a member of the law firm of Thornton, Gist & Richie, counsel for plaintiff, when he, defendant, went to their office to effect a settlement of the case. Major Thornton did not testify on that trial. He did testify on the second trial, however, and stated positively that he did not make them and further that those figures were not on the statement which defendant submitted to him at that time; and he strengthens his testimony on that point by producing a copy of the statement which he made at the time and preserved in his office. The copy does not show the figures in the lower left hand corner of said document marked “Def. 2”. Defendant, on being cross-examined on that point on the second trial, was not sure that Major Thornton had made them but contends that he was figuring on the sheet.
+Counsel for defendant say in a supplemental brief filed with us:
+“Mr. Thornton testified that the left hand figures were not on the document ‘Defendant 2’ at the time it was brought to his office.”
+Counsel, of course, do not mean to mislead the court in thus commenting on the testimony. The fact is that Major Thornton did not testify that the document “Defendant’s 2” was brought to his office but, on the contrary, testified that said document was never shown him by defendant and that the first time he saw it was after the trial when he found it attached to the record as made up by the court reporter. He does say, however, that when Grant went to his 'office he presented a statement showing all the figures on that document except those in the lower left hand corner thereof and that he then and there made a copy of the statement presented and he produced that copy in court.
+It seems that the statement shown Major Thornton by Grant was one which Grant had sent Brasher along with his check for $290.50, the amount which Grant claimed as the balance due.
+It is evident, therefore, that Grant made a copy of the document “Defendant 2” except the figures and writing in the lower left hand corner.
+On the trial defendant introduced and filed the document “Defendant 2”. He says that the figures thereon in the upper part were given him by Brasher and that he wrote them in Brasher’s office. Brasher says the defendant did not write them in his office. But whether he did write them there or elsewhere is not material. The fact is that Grant says he wrote them. This document having been written by Grant and having been introduced and filed in evidence by him therefore must have been in his possession all the time. He does not pretend that any one other than Major Thornton ever saw it and his effort to show that Major Thornton saw it has failed. The conclusion therefore is irresistible that all the figures on that document, including those in the lower left hand corner, were made while the document was in his possession. Now Grant admits that he wrote the words “with leg tub all complete and installed”, etc., opposite these figures. Unquestionably these words were written after the figures were made, .otherwise the writing is meaningless.
+This document having been in Grant’s possession all the time, and he having written the words after the figures, the conclusion that he wrote the figures is inescapable.
+An examination of the document clearly reveals the figures “388” with “75” added and the total “463”; then the figures “31 70” added and the total “491 70”. These figures were written over but they are clearly visible. These are the figures that Brasher claims he gave Grant for the work complete and installed.
+Now' the question arises, If Brasher did not give Grant these figures where and how did he get them?
+It seems too plain for further discussion.
+Under the view which we take it does not matter which figures were written first. The point is that Grant wrote down at some time on the document which he filed the figures which completely corroborate plaintiff’s testimony as to the contract price.
+Plaintiff says the original price submitted was $389.00 for the work complete and installed, and that he gave out the figures $388.00 through error in addition. This did not include the shower and curtain, and while these ftems were added they were not included in the price of $389.00.
+Plaintiff says it was agreed that $75.00 should be added for the “built-in” tub, and from the figures and writing above described we think that charge is correct.
+That makes- a total of $464.00. To this should be added $12.00 for changing the location of a lavatory and $12.50 for installing a range. Making a total of $488.50.
+Prom this amount must be deducted $7.00 for two drain boards not installed.
+Leaving $481.50 due plaintiff.
+Por the reasons assigned, it is now ordered, adjudged and decreed that the judgment appealed from be amended so as to mcrease the amount awarded plaintiff from $315.00 to $481.50, and that as thus amended the judgment be affirmed. All costs to be paid by defendant.
