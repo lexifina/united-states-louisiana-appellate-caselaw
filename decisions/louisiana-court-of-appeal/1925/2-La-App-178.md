@@ -1,0 +1,26 @@
+---
+court: "Louisiana Court of Appeal"
+decided: "1925-05-05"
+citations: ["2 La. App. 178"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FEREOL DEBAILLON, ET AL., v. MAISE FUSELIER, ET AL."]
+source_url: "https://static.case.law/la-app/2/cases/0178-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3289444
+cites_cases: ["11 La. 361", "13 La. 104", "152 La. 177", "16 South. 309", "16 South. 364", "22 South. 394", "3 South. 341", "32 La. Ann. 8", "39 La. Ann. 1094", "46 La. Ann. 1412", "46 La. Ann. 1423", "49 La. Ann. 1376", "6 Mart. (N. S.) 143"]
+---
+
+# Debaillon v. Fuselier
+
+## Majority (LECHE, J.)
+
+LECHE, J.
+The main purpose of this suit is to annul, avoid and set aside the last will and testament of Auguste Debaillon.
+The facts are that Auguste Debaillon, whose maternal tongue was French, could neither speak nor understand the English language. That on February 20, 1922, in the presence of three witnesses and of Rene L. Derouen, a notary public, his purported last will and testament was drawn up in nuncupative form by public act in the English language. The will on its face shows that it is written in the English language, but makes no mention of the fact, which was- proved aliunde and which is not denied, that the testator neither spoke nor understood that language.
+The District Court rendered judgment as prayed for by plaintiffs, setting aside and' annulling the will, and defendants have appealed.
+The form in which a nuncupative will by public act must be drawn is prescribed by Article 1578, C. C. That the form of such a will is a matter of substance has been so often decided that this principle is now accepted without citation of authority. The French commentators on the Civil Code call it “an acte solennel”, a solemn act, in. the confection of which every formality must be strictly observed under pain of nullity.
+Two of the provisions of Article 1578, which in this contest are charged to have been violated, are: “The testament must be dictated by the testator and written by the notary as it is dictated. It must then be read to the testator in presence of the witnesses.” Baudry in his “Precis de Droit Civil”, Volume II, No. 558, in commenting -on the first quoted requisite, says: “To dictate is-to pronounce word for word that which another, at the same time, writes.” That this was not done literally in the present case is beyond question, for the testator knew not the form or the meaning of the English' words which were written by the notary and could not have pronounced them. But, say the defendants, the French words used and pronounced by the testator were translated into English by the notary and written as translated. That may be true, but it was nevertheless a violation of a provision of the, law which, although apparently’ only a form, is in reality a matter of substance. By the same reasoning the other quoted provision was also violated because what the notary read was unintelligible to the testator. The object of the reading is to acquaint the testator with what has been written and the reading of a translation in a language which the testator does not understand is not a compliance with the purpose of the reading required by the Code.
+As an original question, involving a construction of the provisions of the Code, we believe that the testament of Debaillon is null and void, and that it should so be decreed unless the Supreme Court of this state has otherwise decided on that question.
+Many decisions are cited by counsel on both sides, which, by analogy, are claimed to have some bearing upon the point at issue. It is true that the court has on some occasion slightly deviated from a literal application of the rule herein announced, and has held in those cases that the rule was substantially complied with. See Hamilton vs. Hamilton, 6 Mart. (N. S.) 143; Storrs vs. Mason, 32 La. Ann. 8; Succession of Cauvien, 46 La. Ann. 1412, 1416, 16 South. 309; Succession of Saux, 46 La. Ann. 1423, 1428, 16 South. 364; Heirs of Hennessey vs. Wolf, 49 La. Ann. 1376, 22 South. 394, (cited by counsel for appellant). But no decision has been quoted nor can. we find any, definitely deciding the precise question herein presented. It Was held however in the case of Lataprie vs. Baudot, 152 La. 177, 92 South. 776; Succession of Dauterive, 39 La. Ann. 1094, 3 South. 341, and Hebert’s Heirs vs. Hebert’s Legatees, 11 La. 361, that where the witnesses necessary at the confection of a will did not understand the language in which the will was written they were incompetent, and that the will for that reason was void. The decision most nearly in point is that of Gonzales vs. Gonzales, 13 La. 104, where a will was written in a language not Understood by the. testator but translated to him as it was Written. In that case, the court said: “The instrument under consideration has passed through the process of a double translation and cannot, in the sense of the Code, be said to have been written as dictated by the testator”. We believe that this language applies equally well to the present case and for that reason that the judgment herein appealed from should be affirmed and it is so ordered.
