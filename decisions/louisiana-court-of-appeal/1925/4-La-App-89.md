@@ -2,7 +2,7 @@
 court: "Louisiana Court of Appeal"
 docket: "2464"
 decided: "1925-12-01"
-citations: ["4 La. App. 89", "3 La. App. 187"]
+citations: ["4 La. App. 89"]
 reporter: "la-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
