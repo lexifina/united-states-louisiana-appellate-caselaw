@@ -1,0 +1,27 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "10,126"
+decided: "1926-06-21"
+citations: ["4 La. App. 472"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CRUTTI v. NEW ORLEANS PUBLIC SERVICE INC."]
+source_url: "https://static.case.law/la-app/4/cases/0472-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5608456
+---
+
+# Crutti v. New Orleans Public Service Inc.
+
+## Majority (PHELPS, Judge)
+
+PHELPS, Judge
+Ád Hoc. Defendant, New Orleans Public Service, Inc., appeals from a judgment based on the unanimous verdict of a jury, awarding the plaintiff, Mrs. Jacob Crutti, the sum of $2828.00 for personal injuries sustained by her while a passenger on a street car operated by defendant.
+The case involves .only questions of fact. The question of liability depends entirely upon whether plaintiff, as contended by defendant, was injured as the result of her attempting to jump from the street car before it stopped or whether, as contended by plaintiff, she was thrown from the rear platform by the car being suddenly started by the motorman upon a premature signal by the conductor after it had come to a stop to permit her to alight therefrom.
+Plaintiff’s contention is supported by her own testimony and also by the evidence of Dragon and Bagget, both of whom were nearby on the street, and of the motorman, who had been discharged by defendant and who was placed upon the stand by plaintiff’s counsel to whom the motorman had been tendered as a witness by counsel for defendant. The witnesses for defendant were Cino, the conductor, but who had left defendant’s employ before the time of the trial; Felder, an employee of defendant’s auditing department, who was at a point near the scene of the accident; and Deneve, a passenger, who was on the rear platform of the- car. All these witnesses testify squarely in favor of defendant’s contention.
+The evidence of plaintiff and of Dragon and Bagget is. that Deneve alighted from the car as it stopped; that plaintiff was about to follow him when the car suddenly started and' threw her from the platform to the ground. Deneve, Felder and the conductor all testify that plaintiff rushed by the conductor and Deneve and fell in attempting to alight from the car before it had stopped and that Deneve jumped from the car to come to her assistance. The conductor testifies that as plaintiff fell he gave a signal of three bells for an emergency stop. The motorman denies this and states that he came to a full stop; that he received a signal of two bells from the conductor to go ahead; that he started the car; that he heard someone cry out: “Hold on, wait a minute”, and then stopped the car and saw plaintiff lying on the ground.
+The testimony of plaintiff and her witnesses is sought to be impeached by the evidence of one of defendant’s claim agents as to verbal statements made to him by them shortly after the accident and inconr sistent with their testimony. He testifies that the substance of these verbal statements was embodied by him shortly after they were made in stenographic notes from which he had refreshed his memory at the time of the trial. On the other hand, plaintiff seeks to impeach the testimony of Deneve by the evidence of Feehan, who wasnear the scene but did not see the accident itself; that Depeve shortly afterwards stated to him that “the conductor was wrong but what is the use of knocking him, he will lose his job”.
+It will be seen from the above that the issue is entirely one of veracity between plaintiff and her witnesses and the witnesses for defendant. There are no admitted facts or necessary conclusions from admitted facts which can aid the court in determining the truth of the matter. The case is peculiarly one where the jury which saw and heard the witnesses was in a much better position than an appellate court merely reviewing the cold record to decide upon the credibility of the witnesses. The jury evidently believed plaintiff and her witnesses and refused to believe defendant’s witnesses; and we are not prepared to say that this record shows that the conclusion unanimously reached by the jury is manifestly erroneous. We will not, therefore, disturb the finding that defendant was' responsible for the damages sustained by plaintiff as a result of the accident.
+We think, however, that the amount awarded is excessive. Plaintiff at the time of the accident was thirty-seven years old and had had seven children. She sustained severe bruises of the arm and knee. She was pregnant at the time and the fall caused a miscarriage on the same night. The foetus was some two months old. She remained in bed about a week and was treated from time to time at his office by a doctor for some five or six weeks thereafter for the bruises sustained, but no ill effects appear to havq resulted from the miscarriage. There is no evidence to show payment of any amount for medical expenses or that she suffered any pecuniary loss as a result of the injury. Under these circumstances we believe that an award of one thousand ($1000.00) dollars will afford substantial justice between the parties.
+The judgment appealed from is, therefore, amended by reducing the amount awarded from twenty-eight hundred and twenty-eight ($,2828.00) dollars to one thousand ($1000.00) dollars; and, as thus amended, is affirmed at the cost, of appellant.
