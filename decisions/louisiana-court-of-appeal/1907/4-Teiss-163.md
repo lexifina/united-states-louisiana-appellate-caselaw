@@ -1,0 +1,38 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "4095"
+decided: "1907-01-28"
+citations: ["4 Teiss. 163"]
+reporter: "teiss"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAMES DEMOURELLE & SONS, vs. PIERRE L. VERGEZ, AND MRS. LAURA PELLERIN. JOSEPH V. ROCA vs. NEVILLE T. VEAZEY Consolidated."]
+source_url: "https://static.case.law/teiss/4/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6758999
+cites_cases: ["15 La. 550", "21 A. 395", "30 A. 245"]
+---
+
+# James Demourelle & Sons v. Vergez
+
+## Majority (MOORE, J.’)
+
+MOORE, J.’
+The respective plaintiffs in these consolidated cases are material men who are seeking judgment ip solido against the owner, the contractor and the surety on the latter’s bond, for balance due for materials furnished by the plaintiffs to the contractor and which were used in the building erected for the owner under a building contract amounting to $2290.00 and secured by a bond under Act No. 180 of 1894.
+The issue raised is as to the personal liability of the owner and the contractor’s surety on the bond, for all balances due to furnishers of materials used in the building, when it is shown that neither the building contract nor the bond were recorded within one week after the contract was entered into and the bond signed, as is required by the Statute supra. Repeated decisions of this Court have settled this question in the affirmative. In Lichtentag vs. Feitel et als, 1st Ct. of App. p. 176, and refer-ing to Act 180 of 1894, we said: “The act does not, nor indeed does any Statute or any rule of equity impose any obligation or duty on the part of the owner to cause either bond or contract to be recorded in order to safe-guard and protect his right against his obligors, the principal and surety on the bond.
+“It imposes no duty. It simply confers a right on the owner which may or may not be exercised by the owner as his fancy, caprice or interest may suggest. The right to secure the faithful performance of a building contract on the part of the builder or contractor and to secure same by the intervention and obligation of a surety, is a right which existed prior to the enactment of the Statute of 1894, and exists since, outside of and despite that Act.
+“So far as concerns the point at issue, that Act simply and solely provides that if the owner, after receiving such a bond, causes it an dthe building contract to be duly recorded, he may not be personally pursued for the claims of the workmen and furnishers of materiáls, nor his property encumbered by liens and privileges therefor.
+“If the owner’s confidence in the integrity and financial responsibility of the principal and surety are such, or if for any cause of which he is the sole Judge, he may determine, that it is not necessary to record the bond and contract, the sole penalty which he incurs thereby is thát he will be made answerable with the principal and the surety on the bond for the claims of the workmen and furnishers of materials. The penalty does not go one step beyond this.”
+And in Crescent City Manufacturing Co. vs. Rivera et als, 2nd Ct. of App. p. 127, we said:
+“The only question involved in this case is whether, under Act 180 of 1894, the furnisher of materials used in the construction of a building may recover in solido the unpaid price of said materials, from the owner of the building and the surety on the bond of the contractor who undertook to do the work, when it appears that neither the building contract nor the bond were recorded within one week after the contract was entered into and the bond signed, and at no time prior to the commencement of the work.
+“A similar question was presented in H. Weston Lumber Co. vs. Anderson & Allen et al, No. 1517 of the docket of this Court (June 14th, 1899); and again in Lambert vs. Mutual Building and Homestead Association. Nos. 1551 and 2251 Consolidated (April 9th, 1900) and still later in Lichtentag vs. Feitel et als( No. 3221 (April 4th, 1904). In these cases we held that the surety’s liability on the bond is not measured by the law of registry; and that the only penalty incurred by non-registry of contract and bond, as provided by Act 180 of 1894, is to render both the owner and the surety liable in solido to the furnisher of materials.
+“In the two former cases, writs of review were denied by the Supreme Court, but a review was granted in the latter case and our opinion and decree maintained.
+The suggestion that the suit as against the surety is prescribed because not brought within the time provided by law can meet with no favor. In the first place the record is barren of any formal plea of prescription. The allegation in the answer tiiat “the suit of plaintiff was not filed within the delays prescribed by law “does not constitute such explicit and special plea as may be considered by the Court. 30 A. 245, 21 A. 395-Ibid, 669-15 La. 550. In the next place the facts show that although Ver-gez moved into the house on the 4th of July, 1904, the fencing and paving and other matters called for by the contract were not completed until the following month and that the last payment was made on Aug. 10th, 1904. The suits were filed in October 1904 and consequently within ninety days after the completion of the building.
+It was urged 011 oral argument at the bar of this Court by the learned Counsel for the owner and the surety,-who are ap-pellees here, that’ the plaintiffs have not made sufficient proof of theii accounts to warrant, in any event, a judgment against the owner and surety.
+January 28, 1907.
+Rehearing refused March ix, 1907.
+We have given careful reading of the evidence and find that the accounts have been fully proven _and that the materials furnished were actually employed in the building.
+The balance due on the account of Demoradle & Sons is $190.90; and on the account of Joseph V. Roca the sum of $245.65/100, for which amounts-the respective plaintiffs are entitled to judgment against the owner, Pierre L. Verges, and against Mrs. Laura T. Pellerin, the surety on the bond of the -contractor Neville F. Veazey.
+In the Roca suit judgment was awarded against Veazey, the contractor, but_ the suit, as against the owner and the surety, rvas dismissed; Veazey, however, being no. party to the appeal.
+In the Demoradle suit, Veazey was not made a defendant, the owner and the surety, only, being sued.
+It is therefore, ordered, adjudged and’ decreed that the Judgment rendered in the suit entitled Joseph V .Roca vs. Neville F. Veazey et als, being No. 74601 of the docket of Division “A.” Civil District Court, Parish of Orleans and signed on the 25th June, 1906, and the Judgment rendered in the suit entitled James Demoradle & Sons vs. Fiei-re L. Vergez et al, No. 74574 of said Court and also signed on the 25th June, 1906, so far as said Judgments reject the demands of the respective plaintiffs against Pierre L. Vergez and Mrs. Widow Laura T. Pel-lerin, be and the same are hereby avoided, annulled and reversed and it is further ordered, adjudged and decreed that the plaintiff Joseph V. Roca have Judgment in solido, in his favor and against Pierre L. Vergez and Mrs. Widow L. T. Pellerin in the full sum of two hundred and fifty-five 65/100 dollars with legal interest thereon from Judicial demand until paid and costs of both Courts and that the plaintiffs, James Demourelle & Sons, have Judgment in their favor in solido against said Pierre L. Vergez and Mrs. Widow Laura T. Pellerin in the full sum of one hundred and ninety 90/100 dollars with legal interest thereon from judicial demand until paid and costs of both Courts.
