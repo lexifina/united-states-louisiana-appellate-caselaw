@@ -1,7 +1,8 @@
 ---
 court: "Louisiana Court of Appeal"
 decided: "1885"
-citations: ["1 Gunby 39", "1 Gunby 41"]
+decided_precision: "year"
+citations: ["1 Gunby 39"]
 reporter: "gunby"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
