@@ -1,0 +1,62 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "9759"
+decided: "1925-06-22"
+citations: ["2 La. App. 405"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRANK E. HAIGHT v. NEW ORLEANS PUBLIC SERVICE INC., Appellant"]
+source_url: "https://static.case.law/la-app/2/cases/0405-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3290433
+cites_cases: ["11 South. 51", "110 La. 1", "111 La. 522", "112 La. 363", "116 La. 1033", "125 La. 944", "137 La. 691", "44 A. 692", "44 La. Ann. 692"]
+---
+
+# Haight v. New Orleans Public Service Inc.
+
+## Majority (WESTERFIELD, J.)
+
+WESTERFIELD, J.
+Defendant appeals from a judgment in favor of plaintiff, an employee of the Cumberland Telephone Co., for' $5000.00 for injuries sustained in a fall from a pole, used jointly by the telephone company and defendant, on August 24, 1923. He claims $23,030.00 itemized as follows:
+Loss of wages for one year,___________$ 1,800.00
+Loss of earning capacity ________________ 13,230.00
+Physical suffering __________________________ 8,000.00
+Plaintiff, answering the appeal, asks for an increase of the judgment.
+Frank E. Haight, a young man 21 years of age, was employed by the Cumberland Telephone Co. as a groundman. He was working with his fellow-employees under a Mr. Kirn as foreman. They were engaged in removing an old telephone route which had been replaced with a cable along Coliseum street. In doing the work it was necessary to climb the poles, passing between two railway feeder wires of high voltage to get to the top of the pole.
+Haight climbed the pole at the corner of Coliseum and Octavia streets to remove a bracket on which the telephone wires had formerly been placed, which was above the railway feeders (wires carrying current to. supply the trolley wires for the operation of electric street cars.) In mounting the pole to go above these wires he stood on the cable, referred to in this record as “the messenger,” which had been recently installed, and endeavored to pass around one of the charged feeder wires; while standing on the messenger which Was grounded, his sleeves touched the feeder, causing him to be shocked and fall to the ground, injuring him severely.
+This suit is based upon the alleged negligent construction by defendant of its wire route, and also negligent maintenance of the insulation on its electric conductors, in violation of the city ordinance regulating the construction and maintenance of routes for electric currents. .
+Defendant denies the charges of negligence and avers that plaintiff knew that the wires he would have to pass were charged with electricity, and knew that if he came in contact with the charged electric wire while standing on a grounded conductor he would receive a shock, and that, notwithstanding this knowledge, he permitted himself to come in contact with the wire, and either received a shock, or lost his balance and fell from the pole.
+The telephone poles are used by the defendant Street Railwhy Company under a contract of joint usage which has been offered in evidence. The following clauses of that contract are of interest:
+“The wires and attachments of the Lighting Company (referring to N. O. Ry. and Light Co., a corporate predecessor of defendant) shall be carried above the wires and attachments of the Telephone Company and the wires and attachments of the Telephone Company shall be carried below the wires and attachments of the Lighting Company; excepting as hereinafter specially provided; and excepting that by mutual consent in particular instances the reverse position may be employed. * * *”
+“An unobstructed way or climbing space shall be provided and maintained upon the poles so that the employees of either company shall be able to ascend every pole with reasonable safety and convenience up to and through the wires, connections, attachments and structures of the company occupying the lower position on the pole and up to and through the wires and attachments of the company occupying the upper position on the pole.”
+“In the case of poles where electric light lines are carried below telephone lines or attachments a horizontal distance of not less than sixteen inches shall be maintained between the pole center and the nearest electric light line, thus providing a clear space of thirty-two inches in width for ascent of the pole through the electric light lines.”
+The evidence convinces us that the wires of defendant were not erected in compliance with the above provisions of its contract with the telephone company. We are satisfied that there was not sufficient climbing space to permit workmen to pass through the wires. After the accident the wires were moved further apart and other changes made in the interest of safety. Two witnesses testify that at the time of the accident a space of only fifteen or twenty inches was maintained.
+Haight in climbing the pole had to go around the defendant’s wires in order to reach the telephone wires, which in this instance w'ere above the defendant’s wires. There is considerable discussion in the record of whether Haight could or should have used the steps nailed into the telephone pole instead of stepping on the messenger, for it is claimed that the messenger was grounded and the steps were not. On the other hand, it is contended that the steps were iron spikes driven into the pole and that the pole was an old one, the heart of which was probably rotten and wet or damp from recent rains, causing the step and post to- act as a conductor of electricity. It is also contended that the step could not be used because of the position which it was necessary to assume in climbing over the feeder wire. We are unable to determine from the . evidence which course was the wisest and best for Haight to have taken. We are of opinion, however, that he was not guilty of negligence in standing on the messenger since it apparently offered the best chance of avoiding contact with defendant’s feeder wire. Moreover, the witness, Kern, who climbed the pole after the accident to make an in-' vestigation for the telephone company, is shown on a photograph which has been offered in evidence standing on the messenger and he testifies in part as follows:
+“Q. Referring back, Mr. Kern, to the step below the messenger that you testified to just now, did you attempt to put your foot on that step to see whether or not you could get a footing between the step and the messenger?
+“A. I don’t know.
+“Q.* Well, had you done so, would not you recall it, having gone to this very spot to make an examination, and report ’ to your superiors? Would not you recall everything you did there in connection with your examination?
+“A. Not any more than any other step, I guess.
+“Q. Well, you guess not any more than any other step. I asked, did you make an attempt to see whether or not your -foot would catch on that foot extension, or whatever they call it, pole step — if you went up this pole?
+“A. No, I did not make any more inspection of that step than any other step.
+“Q. On what were you standing at the time this photograph marked D-l was taken?
+“A. On the strand that supports the telephone cable. That is called a messenger.
+“Q. Are there any foot-steps on this pole between the one marked with ‘c’ and the one I am presently marking with an T ?
+“A. I would judge not, I cannot see it there.
+“Q. Was that or was not that particularly the most dangerous thing that you could have done?
+“A. What?
+‘‘Q. Standing on that messenger, as your photograph shows here, with your hand near the feed wires?
+“A. No, sir.
+“Q. It was not?
+“A. No, sir.”
+But Haight stepping on the messenger was not the cause of the accident. He had a right to assume that the feed wire was properly insulated, as provided by the city ordinance specially pleaded herein, unless it is shown that plaintiff knew the wire was bare of the protection which the law requires of defendant and carelessly risked contact with it. It is admitted that the ordinance was not observed and that there was no insulation, but it is insisted that this fact was obvious, and particularly so to one engaged in plaintiff’s occupation and with his experience and mental alertness. It was also argued orally, though not pleaded, that the ordinance could not be observed except by a prohibitive expenditure of money.
+The evidence shows that the fabric insulation was clearly and patently defective, hanging in threads in fact. But it is established that the fabric is only a part of the insulation, another part of which consists of rubber which is of itself sufficient protection. It is also proven that wires which have lost both fabric and rubber insulation through deterioration and decay present the appearance of the rubber covering, being so stained by long attachment of the rubber to the wire, and that it is impossible at a distance and difficult nearby' to determine whether the rubber part of the insulation is present or not. Consequently the plaintiff in this case can not be charged with an assumption of a risk of which he could form no appreciation. He saw the fabric hanging from the wire but did not know the rubber was worn off and the wire bare and deadly to the slightest touch. Plaintiff’s sleeve, which he said was damp with perspiration, touched the feed wire and shocked him, causing him to fall. As to the impracticability of complying with the city ordinance, the jurisprudence on this subject is too well settled to admit of discussion. In Babin vs. Sewerage and Water Board, 9767 Orl. App., we said very recently:
+“The jurisprudence of Louisiana has been constant that when an ordinance requires a company operating electric wires to insulate them, the failure so to do is negligence which renders the company liable. Dennis Clements and Wife vs. Louisiana Electric Light Co., 44 La. Ann. 692, 11 South. 51; Potts vs. Shreveport Belt Ry. Co., 110 La. 1, 34 South. 103; Herbert vs. Lake Charles Ice Light and Waterworks Co., 111 La. 522, 35 South. 731; Whitworth vs. Shreveport Belt Ry. Co., 112 La. 363, 36 South. 414; Simmons vs. Shreveport Gas Electric Light and Power Co., 116 La. 1033, 41 South. 248; Elias vs. Mayor and Board, etc., of New Iberia, 137 La. 691, 69 South. 141.
+In Potts vs. Shreveport Ry., 110 La. 1, p. 7, 34 South. 103, the court said:
+“A company maintaining electrical.wires over which a high voltage of electricity is conveyed, rendering them highly dangerous to others, is under the duty of using the necessary care and prudence at places where others may have the right to go either for work or pleasure, to prevent injury. It is the duty of the company under such conditions to keep its wires perfectly insulated and it must exercise the utmost care to maintain them in this condition at such places (Joyce Electrical Law, Sec. 445-517), and a company maintaining such wires must see to it that their lines are safe for those who by their occupation are brought in close proximity to them,” quoting 44 A. 692 and other authorities.
+“The same authorities hold that the failure to maintain the insulation in good condition is tantamount to no insulation.”
+See also Moren vs. N. O. Ry. and Light Co., 125 La. 944, 52 South. 106.
+There remains the question of quantum. We have frequently had occasion to reduce as excessive the award of the trial court in personal injury cases because of our conviction that the evidence did not justify the amount of the verdict or judgment. But in this case we think our learned brother of the trial court was too conservative. Plaintiff’s skull, arm and knee cap were fractured. He remained in the hospital five months, during which time his sufferings were extraordinary. His knee had to be forcibly flexed to prevent rigidity of that joint, a most painful procedure. His right wrist is permanently deformed and his knee cap is held in place by wires.
+Under the circumstances we think the plaintiff entitled to seven thousand-, five hundred ($7500.00) dollars.
+The Cumberland Telephone Company, plaintiff’s employer, intervenes, claiming $571.00 for expenses paid plaintiff under the compensation act. This claim is conceded by plaintiff and will be allowed.
+For the reasons assigned the' judgment appealed from is amended so as to increase the amount awarded plaintiff to $7500.00, subject to a deduction of $571.00 to be paid to the Cumberland Telephone and Telegraph Co., intervenor. In all other respects it is affirmed.
