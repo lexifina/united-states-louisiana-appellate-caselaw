@@ -1,0 +1,50 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "4154"
+decided: "1907-03-25"
+citations: ["4 Teiss. 229"]
+reporter: "teiss"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SUCCESSION OF MRS. ATILANO BLANCO."]
+source_url: "https://static.case.law/teiss/4/cases/0229-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6759340
+cites_cases: ["106 La. 217", "11 A. 469", "2 R. 280", "52 A. 1495"]
+---
+
+# Succession of Blanco
+
+## Majority (MOORE, J.)
+
+MOORE, J.
+The question involved in this cause is whether the vendor’s lien is not subordinated to the costs of administering, including the attorney’s fees, the succession in which the property is sold, when the sole effects of the succession consist of a single piece of real estate, and there was no objection urged to the probate sale on the part of the creditor hloding a special mortgage and vendor’s lien on the. property.
+The fact's are that Mrs. Atilano Blanco died, intestate, on the 18th August, 1903, and her succession was thereafter duly opened, her surviving husband having been duly appointed and qualified as administrator. The inventory shows that the sole asset of the succession consisted of ‘‘the one half right, title, share and community interest of said deceased in and to” a certain piece of real estate situated in the City of Ne wOrleans, which had been acquired by the husband of the deceased and during the existence of the community, from the Teutonia Loan and Building Company, hereinafter called the Teutonia Company, on the 27th day of October, 1872, and on which the Teutonia Company had a mortgage and vendor’s lien to secure the sum of $1300.00, with interest and attorney’s fees.
+On the 5th October, 1903, upon application of the administrator, the property was ordered sold to pay debts and was duly sold on the loth November, 1903, and was adjudicated to one J. B. Darres, for the sum of $1482.00. The adjudicat'ee declined to take title on the ground that as the vendor of the vendor of the Teutonia Company had acquired this property from a married woman during coverture it became, presumably, community property, and as the husband had not joined in the subsequent transfer thereof the title on its face was apparently not good.
+After a protracted contest provoked by a rule sued out by the administrator of the instant succession on the adjudicatee to compel the latter to take title, the validity of the title was established by a final decree of this Court on the 6th Februtry, 1905. Thereupon a formal deed was made to the adjudicatee and the purchase price paid to the instant adjudicator. On the 7th June, 1904, seven months after the probate sale, the Teu-tonia Company filed its foreclosure proceedings tgainst Atilano Blanco on it's mortgage debt; but beyond the service of demand of payment npthing further was done thereunder. Two days prior to the filing of the executory process the administrator of the instant Succession filed his final account herein wherein he charges himself with the gross proceeds of sale,
+To-wit: ■.'..$1482.00
+And deduct’s therefrom the following charges:
+1 Clerk’s cost, Civil District Court. $14.30
+2 Advertising application Administration . 3.60
+3 M. S. Mahoney, Notary, for Inventory. 25.00
+4 Appraisers . 8.00
+5 Attorneys for Administrator for services rendered in
+District Court and Court of Appeal in liquidation matter of administration of Succession and in Civil rendered necessary by purchaser’s objection to title of real property . 200.00
+6 Reserved for future costs . 10.00
+7 Advertising this account . 3.60
+8 Denis, Danziger & Tessier, Auctioneers, advertising sale, $39.20; Commission, $29.64; Hospital tax,
+$7.41; Ex. fees, $1.48; Plan, $6.00. 83.73
+9 Administrators Commission 2 1-2 per cent . 45.00
+Total .$393-77
+Balance . .$1088.77
+which balance proponent proposed to pay over to the Teu-tonia Company on its vender’s lien.
+On the 19th June, 1905, the Teutonia Company filed its opposition to this account contesting- each and every item thereof so far as it proposes to subordinate its vendor’s lien to the payment of the debts and charges therein set forth and insisting: that the full amount of the vendor’s lien be paid by privilege and preference out of the gross proceeds of sale.
+There was judgment maintaining the opposition, except as to the item, $83.73, the Denis, D'anziger & Tessier account as auctioneers, and from this judgment the Administrator appeals. It is manifest from the above stated facts that the sole purpose of opening the Succession of Mrs. Blanco was to provoke therein a probate sale of the real estate belonging to the community— her community interest therein constituting the only asset of her succession — in order to- pay and discharge the mortgage and vendor’s lien thereon; and that all acts of administration not alone contributed to that end, but' were confined to the accomplishment of that purpose. ' There were no other acts of administration performed because there were no others to be performed and all that were performed were so performed because they were necessary to the sale of the 'property. It follows, therefore, that all judicial and law charges, legally made and incurred in the opening, in the administration and in the closing of the succession were, perforce, “necessary to procure the sale of the thing” at a probate sale, which, as we have said, was the purpose of the raort'uaria and the result accomplished. It is also equally manifest that if these proceedings were inaugurated without the knowledge or consent of the creditor holding the mortgage and vendor’s privilege — the Teutonia Company —the latter at least made no objection to the probate sale.
+As a mortgage creditor the Teutonia Company could have ignored the succession of Mrs. Blanco and proceeded by executory process against the property in a proceeding taken contradictorily with the creditor, the head of the community, and thus have averted, by a sale thereunder, contribution of the proceeds of sale to the payment of any of the succession charges. This the Teutonia Company did not choose to do for, although it did inaugurate such proceedings seven months after the probate sale it took no steps to prosecute the same, but on the contrary it, in effect, abandoned same by appearing in .the Succession twelve months later an dclaiming the proceeds of the probate sale. This, assuredly, is an acquiescence in that sale, and, as a consequence, all debts and charges incurred by the succession “which have been necessary to procure the sale of the thing in the succession, prime, in the order of preference ,the vendor’s lien. C. C. 3267.
+What debts and charges appearing on .the account “have been necessary to precure the sale of the thing” at probate sale? In view of the fact, that the sole purpose of opening the Succession of Mrs. Blanco was to sell the property at' probate sale and that no other expense was incurred except to accomplish that purpose, it follows as we have already said, that all the law charges appearing cn proponent’s account and necessarily incurred in opening, administering and closing the Succession, are charges which “have been necessary to procure the sale of the thing” in the manner in which, it may be said, all parties consented that it be sold.
+The charges opposed, and which the District' Judge rejected, ar'e all judicial and law charges and were necessarily incurred in the Succession; the amounts of which, by stipulation of counsel, are admitted to be correct. In Succession of Neguelona 52 A. 1495 and in Salaun vs. Creditors 106 La. 217, the vendor allowed the property to be sold, in the one case, in the Succession, and in the other in the Insolvency. In both cases the question arose as to the right of the attorney cf the respective succession and Insolvency to be paid by preference over the claim of the vendor, and in both cases that right was affirmed. In the former case the syllabus is: “In case a single piece of real estate is the only asset of a'succession, and it is burdened with a vendor’s lien and mortgage, the administratrix will be entitled to charge the fee of her attorney and pay same from the proceeds of sale, in case no executory proceedings have been commenced in the foreclosure of the mortgage of the vendor.” This case is cited and approved in Salaun’s case (106 La.) the Court, reviewing that case and discussing this question said: “Upon leaving the subject, we again state that the fee of the attorney for services rendered to obtain the sale of the property subject to the vendor’s or lessor’s privilege primes the privilege of the vendor or lessor.” p. 220.
+In that case the fees charged were reduced, however, “to the extent that the services were necssary in the matter of the sale of the property,” it being shown that the fee as charged included . services in the general administration of the insolvency. If the instant case the services charged for were confined to the matter of the sale.
+March 25, 1907.
+It follows that if the attorney’s fees prime the vendors’s privilege, a fortiori do the administrator’s commission, the clerk’s and notary and appraisers fees and the cost of advertising the administrator’s application and the final account. Marsh vs. His Creditors 11 A. 469; Monroe vs. Creditors 2 R. 280; Salaun vs. Creditors 106 La. at p. 219.
+For these reasons the judgment appealed from is error and must be reversed.
+It is therefore ordered, adjudged and decreed that the judgment appealed from be and the same is hereby avoided, set aside and reversed; that the opposition of the Teutonia Loan and Building Company t'o the final acount of the Administrator of the Succession of Mrs. Atilano Blanco be and the same is hereby rejected and that said final account and tableau of distribution as propounded be and the same is hereby approved, homologated and made the judgment of Court and that the administrator of said Succession be authorized to make the payments as therein proposed. The costs of both Courts to be taxed against the appellee.
