@@ -1,0 +1,54 @@
+---
+court: "Louisiana Court of Appeal"
+decided: "1925-12-08"
+citations: ["4 La. App. 10"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SUCCESSION OF SIMONETTE REASON FALLS"]
+source_url: "https://static.case.law/la-app/4/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5607036
+cites_cases: ["110 La. 760", "134 La. 133", "142 La. 673", "142 La. 676", "147 La. 337", "148 La. 610", "151 La. 82", "155 La. 145", "2 La. Ann. 98", "2 La. App. 759", "42 La. Ann. 158", "7 South. 449", "99 South 18"]
+---
+
+# Succession of Simonette Reason Falls
+
+## Majority (MOUTON, J.)
+
+MOUTON, J.
+Simonette Reason Falls, the illegitimate daughter of Mary Bingham and Washington Reason, died in June, 1913, intestate and without issue of her marriage with Joseph Falls, her surviving husband. At her death she left an estate in community with her husband, and some separate property. In an ex parte proceeding, Mary Bingham, the mother of deceased, and her children born of her marriage with Robert Bingham, now deceased, were placed in possession of the succession of Simonette Reason Falls.
+The lower court, on the opposition of Joseph Falls, surviving husband of Simonette Reason, and opponent herein, rescinded the decree putting Mary Bingham and her children in possession, and decreed that Joseph Falls was entitled to inherit, as surviving husband, the entire succession of his wife in the community and also all of her separate estate.
+From this judgment plaintiffs appeal.
+It is not disputed that the deceased was born out of wedlock, and was the natural illegitimate child of Mary Bingham, her surviving mother, and Washington Reason, now deceased. The proof shows that Simonette Reason was the child of Mary Bingham, was recognized by her mother as her child and was generally known as such in the community where they lived. It is equally well established that Simonette Reason, deceased, was never acknowledged by her mother, Mary Bingham, either by a declaration in a notarial act or by baptismal registry, as provided for in Article 203, Civil Code. The question presented for decision is as to whether or not the rearing of Simonette Reason as her child by Mary Bingham was such an acknowledgment as to entitle her to be called or classed as a natural child; and, upon her death, without posterity, whether her mother was vested with the right of inheritance, entitling her to claim the estate of her. deceased daughter under Civil Code, Article 922. This presents the vital issue in the case.
+As it has been shown by the evidence that Simonette Reason was the child of Mary Bingham and had always been recognized as such by the mother, such proof would have been sufficient to show an acknowledgment by her mother, and would have entitled her to inherit from her mother, without proof of an acknowledgment by a notarial act or baptism, as prescribed by Article 203, Civil Code. This is now settled by our courts! Briggs vs. McLaughlin, 134 La. 133, 63 South. 851; Taylor vs. Allen, 151 La. 82, 91 South. 635, Murdock vs. Potter, 155 La. 145, 99 South 18.
+Here, however, it is the mother who, claiming by way of inheritance from the child, and not the child. from the mother, as was the situation in the decisions above cited.
+In the Succession of Lacoste, 142 La. 673, 77 South. 497, where, as in this case, the mother was the claimant of the succession of an illegitimate child, the court said:
+“The mother of an illegitimate son who has died without posterity does not inherit his estate unless the child was legally acknowledged by her, either in the registering of the birth or baptism of the child, or by a declaration made before a notary public in presence of two witnesses, as required by Article 203 of the Civil Code.”
+In the course of the opinion in the case from which the above is quoted the court said: •
+“The fact of an informal recognition by the mother of an illegitimate child as her own could not have the effect of converting the:-status of a bastard into that of a natural child, thus conferring ,on the mother the • right of inheritance from such child under the' provisions of Article' 922, Civil Code.”
+In the instant case there was an informal recognition of the deceased as her child by Mary Bingham, and, as before stated, there was no compliance by her with the requirements exacted by Article 203, Civil Code. Simonette Reason Falls was, therefore, never legally acknowledged by her mother to entitle the latter to inherit her estate.
+The other claimants are the children born of the marriage of Mary Bingham to Robert Bingham, subsequent to the birth of Simonette Reason Falls, who, being an illegitimate child, could have no relatives in a legal sense in the ascending or collateral line. C. C. 328; Madame Felix Montegut vs. Bacas, 42 La. Ann. 158, 7 South. 449.
+The children of Mary Bingham, issue of her marriage with Robert Bingham, are the natural brothers and sisters of Simonette Reason Falls, and could inherit from her only to the exclusion of the state.
+tier surviving husband, Joseph Falls, has the right to inherit her estate to the exclusion of these claimants. Succession of Duclosange, 2 La. Ann. 98, cited approvingly in Madame Felix Montegut vs. Bacas, 42 La. Ann. 158, 7 South. 449. As surviving husband he is entitled to recover the entire estate of his deceased wife. We are in error in holding otherwise in our original opinion.
+It is therefore ordered and decreed that our original judgment be reversed and annulled; and it is further decreed that the judgment appealed from be reinstated .and affirmed with cost.
+
+## Dissent (ELLIOTT, J.)
+
+DISSENTING OPINION OF
+ELLIOTT, J.
+As above stated we first held, by a majority opinion, that Mary Bingham had been called by the law ■ to the succession of Simonette Reason Falls, her natural child, to the exclusion of Joseph Falls, her husband.
+That acknowledgment’ by “a declaration executed before a notary public in the presence of two witnesses” was not necessary; and that acknowledgment by the registration of the birth or baptism of her child was not necessary.
+The opinion was based on the belief that Taylor vs. Allen, 151 La. 82, 91 South. 635, and Murdock vs. Potter, 155 La. 145, 99 South. 18, had overruled Succession of Lacoste, 142 La. 676, 77 South. 497 and Perkins vs. Brownell-Drews Lumber Co., 147 La. 337, 84 South. 894; Minor vs. Young, 148 La. 610, 87 South. 472; and that the Supreme Court intended to adhere to the former jurisprudence on the subject, as stated in Succession of Vance, 110 La. 760, 34 South. 767, in which it was said:
+“We adhere to the jurisprudence authorizing methods of acknowledgment of illegitimate children, otherwise than as laid down in C. C., Article 203.”
+This court now holds that our first view as to the scope and result of the decisions, Taylor vs. Allen, 151 La. 82, 91 South. 635, and Murdock vs. Potter, 155 La. 145, 99 South. 18, were erroneous.
+That Succession of Lacoste and Perkins vs. Brownell-Drews Lumber Company had not been overruled as supposed, and were different from Taylor vs. Allen and Murdock vs. Potter in this: That in Succession of Lacoste and Perkins vs. Brownell-Drews Lumber Company, as in the present case, a mother by inheritance from her child, while in Taylor vs. Allen and Murdock vs. Potter, a child was claimed from its mother. Mary Shepherd vs. Robert Elfert, appealed from the Parish of Assumption and decided by this court in May, 1923, is in line with Succession of Lacoste, 142 La. 676, 77 South. 497, and Perkins vs. Brownell-Drews Lumber Company, 147 La. 337, 84 South. 894.
+I was not a member of this court at the time the Shepherd case was decided, and was not aware of the decision until it was called to my attention on this rehearing.
+In the Shepherd case and in Succession of Lacoste, 142 La. 676, 77 South. 497, and Perkins vs. Brownell-Drews Lumber Company, 147 La. 337, 84 South. 894, the court holds that under the law C. C., Article 922, when a mother claims by inheritance from her child, she must show an acknowledgment of her child in one of the ways required by C. C., Article 203, on the subject of legitimation.
+I am reluctant to hold that the Civil Code, Articles 918 and 922, contemplates a difference to be observed between the method of acknowledgment necessary to enable a child to inherit from its mother, and that necessary to enable a mother to inherit from her child; because, in my opinion, no difference is contemplated by the Code. And I am not clear that the Supreme Court means for the inferior courts and practitioners to understand that the child claims by inheritance from its mother, Taylor vs. Allen and Murdock vs. Potter must be looked to as guiding decisions on the subject; but when the mother claims by inheritance from her child, then Succession of Lacoste, 142 La. 676, 77 South. 497, and Perkins vs. Brownell-Drews Lumber Company, 147 La. 337, 84 South. 894, shall be such, because it is not so expressly held.
+The Articles 918 and 922 are in pari materia. The subject matter with which each deals is the same: “Inheritance by irregular heirs.”
+It seems to me that the two articles contemplate the same method cf acknowledgment; the language, of each is similar. Article 918 reads: “Natural children are called to the legal succession of their natural mother when they have been duly acknowledged by her”; and Article 922: “The estate of a natural child belongs to the mother — who has acknowledged him,” etc.
+The difference in the wording does not, to my mind, intend a distinction between the method of acknowledgment to the extent that if it is a mother claiming to inherit from her child, then Article 203 on the subject of legitimation governs the method of acknowledgment; but if it be a child claiming to inherit from its mother, then acknowledgment such as was shown by Mary Bingham in this case is sufficient.
+The fact that the mother can make an acknowledgment such as the Article C. C. 203 provides for, and the child cannot, does not appear to me to be contemplated by the Code as ground for such a fundamental difference in method.
+As soon as the intention of the Supreme Court is clear as to whether or not the two lines of decision are inconsistent, my adherence is ready; but as the latter cases, Taylor vs. Allen, 151 La. 82, 91 South. 635, and Murdock vs. Potter, 155 La. 145, 99 South. 18, appear to me to be just as applicable, whether a mother is claimant from her child, or a child from its mother, it is proper that I should dissent until such time as the Supreme Court shall leave no room for doubt on the subject.
+I therefore dissent, and contend that our first opinion herein is correct and should be reinstated ■ and -made the final judgment of this court.
