@@ -1,0 +1,38 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "3177"
+decided: "1928-02-03"
+citations: ["7 La. App. 496"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JARRELL v. CUMBERLAND TELEPHONE & TELEGRAPH COMPANY"]
+source_url: "https://static.case.law/la-app/7/cases/0496-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3311791
+cites_cases: ["3 La. App. 175"]
+---
+
+# Jarrell v. Cumberland Telephone & Telegraph Co.
+
+## Majority (WEBB, J.)
+
+WEBB, J.
+The plaintiff, Robert Jarrell, a young man, twenty-three years of age, employed by defendant, Cumberlind Telephone & Telegraph Company, was injured on July 27th, 1925, in an accident arising in the course and out of his employment, and he instituted this suit on January 18th, 1926, to recover compensation under the Employers’ Liability Statute, alleging that he had been permanently totally disabled to do work qf any reasonable character, and on trial of the cause on April 26th, 1926, judgment was rendered rejecting plaintiff’s demands, from which he appeals.
+The plaintiff, while engaged in clearing a right of way, fell from a tree, a distance of about thirty-five feet, and sustained injuries to his back, wrist and feet, the heel bones of which were fractured, and on trial plaintiff supported his demands by his own testimony, to the effect that his back and feet caused him pain to such an extent that he was unable to do work of any reasonable character, and his testimony was supported by that of two physicians, who were called by him, who stated that, from their examination, they found plaintiff’s feet in such condition he would suffer with pain while standing or walking, and expressed an opinion that the condition was permanent and that plaintiff was disabled to do work of any reasonable character.
+The defendant admitted that the injury had occurred as alleged by plaintiff, alleged that it had paid plaintiff during the period of his disability immediately follow ing the accident two hundred seventy seven and 81/100 dollars, and denied that he was disabled to any extent at the time of the trial, and evidence was offered showing the payments as alleged and that plaintiff had re-engaged in defendant’s em ployment on October 17th, 1926, where he had remained until January 2nd, 1926, in which employment he had driven a truck for about three weeks and then had dug post holes and done other work requiring him to stand and walk, which latter work was of a similar nature to that which he had performed prior to the accident, and for which he had been paid a slight increase of wages over that paid him prior to the accident.
+It was also shown that during the period from October 17th, 1925, to January 2nd, 1926, plaintiff had, after the day’s work, with his fellow employees, walked or stood on the streets of the town where they were working and played several games of pool.
+The evidence of the physician, however, who treated plaintiff, and ordered him to return to work, shows that he did not regard plaintiff as having completely recovered at that time, and the testimony of the witnesses who were called by defendant to show that plaintiff had worked, establishes that he complained of his feet paining him, and that he would rest at intervals, and we do not think the evidence as to plaintiff’s employment during the period from October 17th, 1925, to January 2nd, 1926, establishes more than that plaintiff was able to do some work by resting at intervals which required him to stand or walk on his feet.
+The defendant’s evidence as to the condition of plaintiff at the time of the trial, was the testimony of the physicians who had treated him after the accident, and while it appears that the physician was of the opinion that plaintiff was not incapacitated from doing work of any reasonable character, yet we do not gather from his testimony that he. was of the opinion that plaintiff had fully recovered from his injuries at the date of the trial, as to which his testimony reads in part as follows:
+“Q. Doctor, will you examine the plaintiff’s feet?
+“A. (After examining plaintiff’s feet.) For the injuries he has had he has had wonderful results.
+“Q. Is it your opinion that his condition will improve?
+“A. Fracture of the foot will improve until it is one and one-half years old.
+“Q. Is it your opinion that this man is able to do work of a reasonable character ‡
+“A. Yes, sir; except when the weight would go on the ball of the foot, maybe, or climbing, he couldn’t stand that, but he should be able to walk around, get around pretty good.”
+Plaintiff contends that the preponderance of the evidence shows that the injury was serious, and totally disabling him, and that the disability had continued for a considerable period, and that he was totally disabled at the time, of the trial, and should recover judgment for permanent total disability, citing Price vs. Gilliland Oil Co., 3 La. App. 175; however, while we find that plaintiff, had not entirely recovered from the injuries on the date of the trial, we do not find that he was totally disabled to do work of any reasonable character at that date, or even after October 12th, 1925.
+The reason which plaintiff gives for his inability to work, is that his feet are in such condition that he cannot stand or walk without pain. The evidence, however, shows that he performed work for more than two months which required him to stand and walk, and that during that time, after the day’s work, he had engaged in amusements which required him to Stand and walk, and we do not think the pain which he may have suffered could have been very severe, and as the evidence does not show that the fracture had been improperly aligned and was not healing, we are of the opinion that plaintiff at most was only partially disabled at the time of the trial.
+The record does not contain any evidence on which the earning capacity of plaintiff can be determined, unless reference be had to the amount received by him from October 17th, 1925, to January 2nd, 1926, which we do not think can be accepted as more than indicative of his ability to earn something, .and it may be said the cause should be remanded for further evidence as to the extent of plaintiff’s disability.
+However, a new trial will necessarily involve delay and considerable expense, and subject to the rights of the parties to ask for the cause to be remanded for a new trial, we feel that it is safe to say that plaintiff’s disability does not exceed one-half, and his wages at the time of the accident being shown to have been twenty-six and 80-100 dollars, we shall fix the amount of weekly compensation at sixty-five per cent, of thirteen and 40/100 dollars, or eight and 70/100 dollars.
+The evidence, however, shows that plaintiff had been paid full compensation from the date of the accident to October 17th, 1925, and from that time to January 2nd, 1926, he was given employment by the defendant, for which he was paid as much as he had earned prior to the accident, and we think that the period from the date of the accident, August 3rd, 1925, to January 2nd, 1926, or twenty-four weeks, should be deducted from the total period'.
+It is, therefore, ordered that the judgment appealed from be avoided and reversed, and that plaintiff, Robert Jarrell, have and recover judgment against the defendant, Cumberland Telephone & Telegraph Company in the sum of eight and 70/100 dollars per week during the period of his disability, not to exceed two hundred and seventy-six weeks, the first payment beginning on January 2nd, 1926, and all payments to bear legal interest from maturity, and all cost of suit.
