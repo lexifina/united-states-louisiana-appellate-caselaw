@@ -1,0 +1,25 @@
+---
+court: "Louisiana Court of Appeal"
+decided: "1927-02-12"
+citations: ["5 La. App. 609"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STOER v. PEARSON"]
+source_url: "https://static.case.law/la-app/5/cases/0609-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5613299
+---
+
+# Stoer v. Pearson
+
+## Majority (ELLIOTT, J.)
+
+ELLIOTT, J.
+Suit by real estate broker, claiming commission on sale, negotiated, but not consummated, due to a mistake on the part of the defendant as to the time during which a lease had to run.-
+Mrs. Polly Cole Pearson employed Newt B. Stoer by correspondence and exchange of letters to sell certain improved real estate belonging to her, situated in the city of Shreveport. The plaintiff is a real estate broker, duly licensed and authorized to engage in that business, and in this instance he engaged to find a purchaser on a commission basis.
+Mrs. Pearson states in her letters to Mr. Stoer on the subject that the property which she commissioned him to sell for $25,000.00 cash was under a lease, and more than once wrote him, stating about what time the lease had to run. It turned out that the time stated was about two years longer than was the fact. This was not intentional. The act of lease was in her hank at Lake Charles, about sixteen miles distant from her place of residence. At the time of writing she had not read the lease in about two years and, trusting to her memory as to the time it had to run, she made a mistake. The lease was not recorded. If it had been, it might be said that plaintiff should have looked at the record and that the prospective purchaser of the property must take cognizance of the time in which it had to run, by reference to the record. As it was, plaintiff was justified in accepting and acting on defendant’s statements as to the time in which it had to run and in representing that to be the case to the parties to whom he sought to sell the property.
+Plaintiff found a purchaser for $25,000.00 cash, the price which defendant agreed to take, based on defendant’s statements in her letters as to the time during which the lease had to run. The prospective purchaser entered into a written contract to buy with Mr. Stoer, based on defendant’s statements as to the time during which the lease had to run. A copy of the lease was then obtained from defendant and placed before the prospective purchaser as a preliminary to the sale, and the lease disclosed to him that it had two years longer in which to run than had been represented to him by defendant and Mr. Stoer. Upon this discovery the prospective purchaser took the position that the monthly rental of $100.00 stipulated in the lease, being a low return on a $25,000.00 investment, declined to carry out the contract unless defendant would make up his estimated earning by reducing the price by $2000.00. The defendant declined to do this and the prospective purchaser then withdrew from the agreement to buy. The plaintiff claims that he has earned his commission. That his commission agreed on amounts to $875.00. That the 'sale which he negotiated did not take place, due to the fault of defendant in the matter stated and that she should bear the loss.
+Mrs. Pearson contends in her answer and argument that plaintiff and his prospective purchaser should not have been guided entirely by her representations as to the period of time during \yhich the lease had to run. That her mistake was not sufficient to justify the prospective purchaser in declining to consummate the sale. That as the lease was not recorded the prospective purchaser did not have to notice it and could have bought the property free of encumbrance. We are unable to agree with defendant in that matter. The prospective purchaser was buying under a written contract with Mr. Stoer, which informed him that the property was under a lease and he was obligated to assume the lease, though her letters misinformed him as to the period of time during ■which it had to run. It is not only questionable, if he had bought, whether he would have been bound to permit the lesee to have the property at the monthly rental provided for in the lease for the full time of the life of the lease; but such a sale and purchase, if attempted, would have been a fraud on the lessee. If the lease had been cut short by a sale, as argued, the defendant might not have been able to defend herself against the demand of the lessee for damages caused by her act.
+We agree with the lower court that a monthly rental of $100.00 for a $25,000.00 cash investment was a poor return and that the prospective purchaser was justified in declining to consummate the sale. The sale failed through the fault of defendant and, although unintentional, she should bear the loss, due to her lack of information about a matter as to which she should have been properly posted. She was asked several times to state the period of time during which the lease had to run and should have stated it correctly.
+The judgment rendered in favor of plaintiff is correct.
