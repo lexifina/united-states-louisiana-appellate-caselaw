@@ -1,0 +1,30 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "3404"
+decided: "1928-12-19"
+citations: ["9 La. App. 490"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHILDERS v. POLICE JURY OF THE PARISH OF OUACHITA, LA., ET AL."]
+source_url: "https://static.case.law/la-app/9/cases/0490-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3327483
+cites_cases: ["109 Ala. 95", "116 La. 990", "16 L. Ed. 36", "19 So. 500", "21 How., 62", "3 La. Ann. 401", "3 La. App. 335", "5 La. Ann. 15", "55 Am. St. Rep. 915"]
+---
+
+# Childers v. Police Jury
+
+## Majority (WEBB, J.)
+
+WEBB, J.
+The plaintiff, J. H. Chil.ders, instituted this action against the Police Jury of Ouachita Parish to recover an amount alleged to be due his agent, W. L. Childers, under a contract entered into by the said agent with the Police Jury for the construction of a public road in the Parish of Ouachita.
+Plaintiff alleged that the contract had been completed," and that he was the principal of W. L. Childers, and prayed for service on W. L. Childers, as well as the Police Jury.
+Defendant, the Police Jury, excepted that the petition failed to state a right or cause of action^ which being referred to the merits, it then answered admitting that the contract had been made and completed and that a certain amount was due thereunder, which .was deposited in the registry of the Court, and W. L. Childers, having answered, admitting plaintiff’s allegations, and issue having been joined on interventions filed by other parties claiming to be creditors of W. L. Childers, the case was called for trial, and, after some evidence had been introduced, the exception filed by the Police Jury was sustained and judgment rendered dismissing plaintiff’s suit, from which he appeals.
+The contract entered into by and between the Police Jury and W. L. Childers, which was attached to and made a part of the petition, does not contain any reference to the plaintiff, J. H. Childers, and it shows that the work was undertaken on a unit cost basis, or at a fixed rate per measure for excavation, fills, etc., of which an estimate of the price was made, being, in the aggregate, the sum claimed by J. H. Childers to be due, and the basis of the exception of no right of action was that J. H. Childers, the alleged undisclosed principal, was not on the face of the contract a privy thereto, and the basis of the exception of no cause of action was that, as the contract did not call for a fixed price, and that 'the amount due therein was dependent upon the quantity of work done, it was essential to a cause of action that plaintiff should have alleged the quantity of work done and the price of same.
+Considering the question of the right of plaintiff, as' the alleged undisclosed principal, to enforce the contract, it is conceded that in jurisdictions where the common law prevails, an undisclosed principal may, as a rule, sue or be sued on contracts made by his agent. (Ford vs. Williams, 21 How., 62 U. S. 287, 16 L. Ed. 36; Powell vs. Wade, 109 Ala. 95, 19 So. 500, 55 Am. St. Rep. 915; A. L. R. vol. 55, p. 913 and note; C. J. vol. 2, p. 873, et seq.; R. C. L. Vol. 21, page 897 et seq.) And, while it is admitted that the undisclosed principal may be sued in this State (Valmont Service Station vs. Avegno, 3 La. App. 335; also Williams vs. Winchester, 7 M. (N. S.) 22; Ballister vs. Hamilton, 3 La. Ann. 401; Carlisle vs. Steamer Eudora, 5 La. Ann. 15; Drew vs. Coffall, 116 La. 990, 41 So. 233), it is contended that the converse of the rule,, that is that an undisclosed principal may sue on such a contract does not prevail here, the contention being apparently based on the sole ground that there is not any privity of contract between the undisclosed principal and the eo;contractant of the agent.
+We do not understand, however, that the rule under which an undisclosed principal may sue or be sued upon a contract made by his agent for his benefit considers so much the strict form of the contract as the equitable rights of the principal, as against his agent, and that a direct action by an undisclosed principal is permitted whenever the person contracting with the agent may not be injured.
+Considering the right of the plaintiff solely from the standpoint of the rights of the Police Jury, concededly the undisclosed principal, plaintiff herein, suing upon the contract made hy his agent, stands in the same position as the agent would have occupied had the suit been brought in his name, and the agent being made a party to the action, any judgment rendered in favor of the principal would afford full protection against any claim by the agent; and it is thus apparent that the Police Jury could not be prejudiced in any manner by permitting the undisclosed principal to sue for the amount which may be due under the contract made by the agent for his benefit, and we are of the opinion that the exception of no right of action should have been overruled.
+The exception of no cause of action, as stated, was based upon the theory that, as the contract did not call for a fixed price, but that the price was dependent upon the quantity of work, it was essential that plaintiff should have alleged what work had been done and the price.
+There was, however, attached to the contract an estimate of the work undertaken, on which the contractor based his bid, and the aggregate amount to be paid for the work, based upon the estimate was the amount claimed to be due by the plaintiff, and we are of the opinion that plaintiff could under his pleading introduce evidence to show that the work called for under the estimate had been done, and that the same was due and unpaid, and therefore, that the exception of no cause of action should have been overruled.
+It is therefore ordered that the judgment appealed from be annulled and avoided, and that the exception of no right and no cause of action be overruled; and, that the case be remanded for trial.
