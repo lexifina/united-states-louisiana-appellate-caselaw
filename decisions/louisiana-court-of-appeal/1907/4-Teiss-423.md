@@ -1,0 +1,63 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "4188"
+decided: "1907-06-21"
+citations: ["4 Teiss. 423"]
+reporter: "teiss"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M. S. DANIELS vs. JOHN TAUBENBLATT."]
+source_url: "https://static.case.law/teiss/4/cases/0423-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6760415
+cites_cases: ["12 La. 375", "20 A. 283", "27 A. 617", "30 A. 1112", "30 A. 511"]
+---
+
+# Daniels v. Taubenblatt
+
+## Majority (MOORE, J.)
+
+MOORE, J.
+The plaintiff sued .out a writ of sequestration herein against four car loads of staves on the ground that such staves are his property and that the defendant after selling 'hem to him was attempting to deliver them to other parties.
+Plugo Kastor, Sigmond Fleisher, and Xiques, Lemore & Co., by intervention, claimed the ownership of the staves, the first by purchase from John Benchina, and others by purchase from defendant.
+All the parties litigant are engaged in the business of buying-staves in the interior for purposes of export and all except I-Castor had from time to time large contracts with Tamben-blatt.
+The District Judge in his reasons for judgment says:
+“The intervention of Hugo Kastor must be considered in an entirely different light from that- of the other two interven- or s.
+“The staves claimed by him were not shipped by the defendant, but by a third person altogether, who accounts entirely satisfactorily for their manufacture by him and their sale to the intervenor. Even the presence óf the 170 staves -bearing plaintiff’s mark amongst the staves shipped by him can readily be accounted for as an error made by the laborers who loaded the car, f,;r by the way bill (freight bill) this car should have contained only 5,590 staves, whilst, by actual count, the car contained 5,760 staves, exactly the number of the marked staves. Plaintiff has no concern or interest in the 5,590 staves claimed by this intervenor.
+The interventions of Xiques Lemore Co. Ltd., and Sigmund Fleischer stand practically on the same footing, and, whilst there is, in my opinion, no reason whatever for impugning the 'motives or conduct of intervenors, the evidence establishes satisfactorily to my mind that the staves sold and shipped them by the defendant were the remnants lof the large lot of staves manufactured by him for the plaintiff, and on which he had received from the latter advances at the rate of forty-five dollars per thousand. Contrary, however, to the impression which I had gained during the taking of the oral testimony, I find, from an examination of the contract between plaintiff and defendant, that the taking up o fthe staves in the woods and the making of advances thereon did not convey to palintiff the property in the staves, but thait he was to have a first mortgage and absolute lien upon them, something he could not have, and would not need, were they his property. Indeed, the very terms of the contract were that the staves were to become the property of plaintiff only upon delivery and final settlement. Defendant could, therefore, convey a valid title to the staves, subject however to any valid existing liens thereon.
+Now our law recognizes no such mortgage or lien as that provided for in the contract between plaintiff and defendant and there is no evidence in the record as to the worth thereof in the State of Mississippi, where said contract was to be executed, and where the staves were lying when sold to these intervenors.
+Hence, I can grant plaintiff no relief in these proceedings, and have, therefore, whilst recognizing the ownership of the staves to be in the intervenors, reserved unto plaintiff the right, ■on a proper showing, to recover of them the claims secured to him under such lien, if any there be.”
+We concur with the conclusion of fact of the District judge that as to the staves claimed by Kastor, they were not shipped by defendant but by a third person altogether who accounts entirely satisfactorily for their manufacture by him and their sale to the intervenor Kastor. We also concur with his conclusion of fact that as to the staves claimed by the other intervenors resspectively, they “were remnants of a large lot of staves manufactured by the defendant for the plaintiff. This fact is conclusively established, and it is not questioned by these inter-venors that the plaintiff purchased and made payment in full for all the staves purchased by him of defendant.
+The contention of the intervenors, Fleischer and Xiques Lemore & Co., is that the staves claimed by them respectively are not “the remnants of a larger lot manufactured for plaintiff by the defendant and for which payment was made in full but that even if they were a part of this larger lot so manufactured, purchased and paid for and that thereby the sale was perfect between the parties the vendor and vendee — nevertheless the vendor in possession could transfer the ownership to a third person under a contract made in g-ood faith by the said third person without notice of the first contract. C. 'C. 1922.
+We have already stated that the “evidence establishes satisfactorily,” as expressed by the District judge, that the staves claimed by these intervenors were remnants of the large lot purchased by plaintiff fncm defendant. And it is equally as satisfactorily established that these particular staves were duly delivered to, remained the property of and were in the actual possession of the plaintiff at the ti me defendant attempted to deliver them to intervenors.
+These staves with the original lot of which they constituted a part were stacked in the swamp. They had all been duly counted by the employees of plaintiff sent out by him for that purpose, and, as is the custom, as many of them as could be conveniently reached were branded with plaintiff’s brand which was a Maltese Cross encircling- the letter “D.” It is established by the testimony of all the witnesses including those of the intervenors, that according to the custom of the stave trade the branding of staves in the swamp is notice to the world that the person to whom the particular brand belongs is the owner of the lot of staves so branded. The counting, and branding of the staves in the cribs in which cribs at the time, and included in the sale, were the staves claimed by intervenors, constitutes, in our opinion, a delivery to and a possession of them by plaintiff. The contract between plaintiff and defendant, it is true, stipulates for delivery elsewhere, 'and this did- not preclude a delivery in the woods or swamp where the staves were. This delivery, we find, was actually made and made in the usual manner and custom of the trade and is perfect in law.
+The sale thereof to plaintiff was perfect, even as to third persons, and their sale by the vendor to third persons was consequently null. C. C. 2452.
+But concede, for the argument, that there -had been no" delivery to plaintiff, and that although the sale was perfect between plaintiff and defendant it was not perfect, for this reason, as to the intervenors, third persons, the question then arises what superior title to the staves have the intervenors shown.
+It is not pretended that either of them paid a price in money for the staves. On the contrary the intervenors admit that the staves were to be delivered to them for the purpose of extinguishing and discharging, pro-tanto-, a pre-existing and eld debt due them by defendant.
+In the case of Fluscher the shipment is admitted by him to have been made in payment of a debt due him by defendant under a pre-existing contract from which he had released defendant. At most, therefore, .the transaction was not a sale, but a givng in payment. To constitute a valid giving in payment a fixed price, like in a contract of sale, and the actual possession by the creditor of the thing given in payment, are essential. 30 A. 511, and cases cited as to the necessity of a fixed price; and 27 A. 617; 3 M. 326, 269; 12 La. 375; 20 A. 283; and 30 A. 1112 as to the necessit yof actual delivery.
+In the instant case both of these essentials are lacking. The absence of either is fatal. No fixed price was agreed on and the staves claimed by Fluscher and Xiques Lemore & Co. never went into their actual possession as plaintiff seized them prior to this happening.
+Whatever view, therefore, be taken of these oppositions, is fatal to them. The judgment appealed from maintains the opposition of Kastor, this we affirm; but so far as it maintains the oppositions of Fluscher, and Xiques Lemore & Co. respectively and recognizes the mto be the owner of the staves claimed it is error and it will accordingly be amended so as to reject same and to declare plaintiff to be the owner thereof.
+It is, therefore, ordered, adjudged and decreed that the judgment appealed from so far as it maintains the oppositions of Sigmund Fluscher and Xiques Lemore & Co. Ltd., respectively and declares them the owners of the staves claimed by them to be and is hereby amended by striking out of the judgment all such portions thereof and substituting therefor the following: That the oppositions of Sigmund Fleischer and Xiques Lemore Co. Ltd. respectively loe entirely rejected and disallowed and that the plaintiff, M. S. Daniels, be and he is hereby recognized and declared to be the owner of the staves claimed by said two intervenors and seized herein. That the costs incurred by the intervener, Kastor, in the trial of his opposition be paid by the plaintiff and the costs of the lower Court as well as the costs of this Court to be paid by the intervenors Sigmund Fluscher and Xiques Lemore & -Co. Ltd., and as thus amended the judgment is affirmed.
+
+## Dissent (DUFOUR, J.)
+
+DISSENTING OPINION.
+x. The written 'contract in this case provides for delivery at plaintiff’s stave-yards in New Orleans.
+2. Under Art. 1920 R. C. C. the vendor in possession could transfer the ownership to a third person under a contract made in good faith by said third eprsons without notice of the first contract.
+DUFOUR, J.
+We concur with the conclusion of fact of the District judge so far as the shipment to Kastor is concerned; we may net set aside the positive testimony of Benchina and Kastor on vague suggestions of inferential fraud.
+As to the cthe rear loads, I do not think that the testimony shows that all of the staves came from the lot manufactured by Taubenblatt for Daniels.
+The evidence in behalf of the latter is to the effect that a number of the staves bore Daniel’s brand, a “D,” in a circle with a Maltese cross, and, that others had been sawed or painted, so as to obliterate the brand. The -witnesses, however, oculd only remotely approximate the number of the, staves alleged to have been tampered with.
+Taubenblatt, upon being asked if he shipped the staves to Xiques & Co., says:
+“Yes, first to Daniels an dthey were there where the car was standing and where the staves were piled, and there were two cars belonging to Xiques, Lemore & Co. and my man asked me if he could put two piles from the Xiques staves in the Daniels car and I said yes, and after a while he should take from Daniel’s staves and return the same to Xiques, Lemore & Co.”
+It cannot be presumed with any degree of justification that the presence in the shipment of a number of Daniel’s branded staves necessarily means that the whole shipment came from his lot.
+But, even if the contrary be assumed, the plaintiff’s case fails. Under the written contract between Daniels and Taubenblatt, the staves became the property of Daniels as soon as he had paid for them in full. As the evidence shows that such payment in full had been made, the sale was perfect as between the vendor and the vendee.
+But, the contract further provides that the staves were to be “all delivered f. o. b. cars at the stave-yards” of Daniels’.
+Under Art. 1922 R. C. C., the vendor in possession could transfer the ownership to a third person under a contract made in good faith by said third eprson without notice of the first contract.
+This is what 'Occurred in this case and the record clearly shows that the intervenors obtained possession of this shipment in good faith and for value received.
+It is admitted that intervenors hold at his disposal the staves bearing the trade mark of Daniels, which were found in the car consigned to them.
+June 21, 1907.
+Rehearing refused June 29, 1907.
+Writ granted by Supreme Court, Aug. 3, 1907.
+Nov. 4, 1907, decision Supreme Court, amending and affirming judgment.
+I am of the opinion that Daniels can recover only the staves which bear his brand, and therefore dissent.
