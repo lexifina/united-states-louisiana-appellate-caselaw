@@ -1,0 +1,24 @@
+---
+court: "Louisiana Court of Appeal"
+decided: "1924-12-30"
+citations: ["1 La. App. 242"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ESTATE OF CELESTIN MANUEL AND WIFE. OPPOSITION OF JOE AND ALEXANDER MANUEL."]
+source_url: "https://static.case.law/la-app/1/cases/0242-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3282949
+---
+
+# Estate of Manuel
+
+## Majority (MOUTON, J.)
+
+MOUTON, J.
+Leontine Briscoe died without descendants or accendants, leaving a small estate amounting to $836.92. A final tableau was filed in the succession by the administrator, distributing the funds of the estate among her collateral kindred. The tableau is opposed by Joe and Alexandre Manuel who claims $250.00 against the estate for supporting and nursing Leontine Briscoe during a period about two years preceeding her death. The court rendered judgment in favor of the opponents for $192.50 from which the administrator appeals. In this court the opponents are asking for an increase of the judgment’to the sum of $250.00 the amount demanded by them in their opposition to ‘the tableau.
+About fourteen months prior to her demise, Leontine Briscoe was living at Leontine. Joe Manuel, at her request, took her to the home of his son, Alex Manuel, a tenant on a plantation belonging to Mr. E. Boagni. Four people, including deceased were living in the house occupied by Alex Manuel, Leontine resided there for a period of about fourteen months to the time of her death. Food was furnished to the inmates of the house by Joe Manuel which was purchased by him at the commissary store on the plantation. The victuals furnished amounted to approximately $120.00 during the time the deceased lived there. The court found that she must have consumed one-fourth of the food furnished and estimated at $30.00. The value for the use of the house was fixed by the court at $50.00, and the housing of deceased at $12.50. The facts of the case support this finding of the trial court for this food and shelter.
+It is shown by the record that when Leon-tine came to live with Alex Manuel she was then an old woman suffering with rheumatism. It appears that she could “hardly get about,” as one of the witnesses expresses it, was often in bed, had bad eyesight and had to be helped up and down stairs. Obviously, she was not only suffering from rheumatism, but was also handicapped by the infirmities of old age. One of the witnesses, Mr. Dunbar, said his attention was attracted by the old woman because she was constantly standing on the turn row watching a decrepit old horse. Asked by Dunbar why she did that, her answer was because the horse was “old like herself” and needed attention. This answer is pathetic, needs no comment, and leaves no doubt that Leon-tine needed care, attention and assistance in her declining years. It was shown that she was properly nursed and cared for by these opponents during a period of fourteen months up-to the time of her death. It is quite difficult to fix the exact value of such services, which were doubtless demanded at most any hour of the day, considering the age of this old woman and the ailments with which she suffered. The court fixed their value at $150.00 which meets with our entire approval.
+The proof shows that the deceased was receiving at the time of her death, and for about two years prior thereto, a pension of $30.00 per month and had also realized $52.00 for the price of a mule a couple of months before she died. It is true, she received these amounts but there is no proof that these funds or portions thereof found their way into the hands of opponents by gift or unauthorized appropriation. The party who was running the commissary department on the Boagni plantation testified that the amount incurred by Joe Manuel for the house where deceased lived during the period under consideration, was paid by Joe Manuel with the money realized from his cotton crop. There is no evidence that this account or any other indebtness incurred by Joe Manuel or his son, Alexandre, in whose house the deceased lived, was ever settled from the pension money in question or from the sum realized from the sale of her mule.
+Judges are permitted to draw presumptions from a known fact to a fact unknown. C. C. 2284 — Such presumptions, however, should not be inferred by the court, unless they are weighty, precise and consistent. C. C. 2288. There are no facts in this suit which could authorize the presumption that opponents had received the pension money or price of the mule from deceased during the time she was lodging and boarding at the house of Manuel.
+As the evidence sustains the claim of opponents and there is no counter-claim by which it could be affected and destroyed. the judgment appealed from is affirmed with costs. The demand for an increase is ‘refused.
