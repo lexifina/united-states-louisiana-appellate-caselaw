@@ -1,0 +1,58 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "3134"
+decided: "1928-02-03"
+citations: ["8 La. App. 344"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EDWARDS v. CAPPEL MOTOR COMPANY, ET AL."]
+source_url: "https://static.case.law/la-app/8/cases/0344-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3316752
+---
+
+# Edwards v. Cappel Motor Co.
+
+## Majority (ODOM, J.)
+
+ODOM, J.
+This is a suit for damages growing out of a collision on a public highway between the automobile owned and operated by plaintiff and one owned by defendants and operated by Carl Olson.
+Plaintiff sues for damages to his automobile and for personal injuries to his five-year-old son resulting from the collision. He disclaims fault or negligence on his own part and alleges that the collision was the result of gross fault and negligence of Olson, the driver of defendants’ car.
+Defendants, in answer, denied liability and set up as a defence that the collision between the two cars was due solely to the carelessness and negligence of plaintiff in the operation of his car.
+The lower court found for plaintiff and gave him judgment against the Cappel Motor Company and the individual members of the commercial partnership, George Hollinshead and William Morros, and the Maryland Casualty Company, in solido, for $210.08 for damages to his car, and surgical bills, and the sum of $3,000.00 for personal injuries to and pain and suffering of the child.
+Defendants appealed. Plaintiff answered the appeal, and asked that the judgment for $3,000.00 for the use and benefit of the child, be increased.
+OPINION.
+The collision between the''two cars took place in the daytime on the gravelled highway between Alexandria and Lecompte.
+Plaintiff was driving his own car, and that of defendants was being driven by Carl Olsen.
+Edwards, the' plaintiff, was travelling from Alexandria towards Lecompte, and the other car was going from Lecompte to Alexandria. The two cars met and the collision took place about 75 or 80 feet on the Lecompte side of a bridge over a culvert.
+Near the bridge-and over on the extreme right hand side of the road going to Lecompte, there was a pile of sand and gravel in the road, which sand and gravel had been placed there by contractors employed to repair the road.
+The road at that place is approximately thirty feet wide from shoulder to shoulder or from ditch to ditch.
+The overwhelming preiponderaneé of the testimony shows that this pile of sand and gravel extended out into the road not more than four and a half feet and was on Edwards’ side. After he crossed the bridge he drove past the sand pile, the right wheels of his car going through the edge of it. The collision took place at the far end of the sand pile. His car was then within four feet of the edge of the road -or ditch bank on his side. When the cars collided they locked or “hung up” as some of the witnesses expressed it, and it was with considerable effort that they were detached.
+The fact that the two cars collided over on plaintiff’s side of the road or the right hand side going towards Lecompte, is attested by every witness who took the stand, including Olson, the driver of defendant’s car, and Nash, who was with him in the car.
+Other pertinent facts sworn to by the witnesses without a single exception are that the injury to plaintiff’s car was to the left front end and that the injury to the car driven by Olson was to the front and on the right side; that as the cars stood locked together in the road, plaintiff’s car was headed toward Lecompte and defendants’ car was standing across ■ the road with the front end toward the right side going towards Lecompte; and that as the cars thus stood there was room over on the other side, or Olson’s side of the road, for cars to pass, some three or four having passed while the two cars stood in the road.
+The plaintiff testified that he was driving slowly over on the right hand side of the road and that just before the two cars met Olson seemed to lose control of his car; that he first swerved to the right and then turned across the road toward him at an angle of about forty-five degrees and ran into his car. The skid marks made by the Olson car show it did turn across the road and Olson admits that it did, but he says his car turned after the brakes were applied and that the brakes were applied after he saw that a collision was impending. Olson’s testimony is corroborated by that of Nash, who was in the car with him.
+The fallacy of his theory is self evident. The cars collided over on plaintiff’s side of the road; Olson, Nash and all other witnesses say that and the physical facts demonstrate it.
+Plaintiff’s car being on the right hand side of the road, there was no danger of a collision if Olson had been on his side of the road.
+Olson and Nash both swore, as did all the other witnesses, that the injury to defendants’ car was on the right hand side, which shows conclusively that the car was turned out of its course; otherwise the injury would have been to the other side, the two cars having met in the road.
+Mr. Morros, the owner of the car, and Mr. Bailey, called by him, swore that they saw skid marks in the road about two feet from the edge over on Olson’s side, leaving the inference that the brakes were applied while the car was on its side. Crediting these witnesses with all sincerity, we think their testimony on this point is of no-weight, for the reason that according to all the testimony a number of cars had passed along the road on that side before these witnesses reached the scene, which would have obliterated the skid marks on that side. Not only that, other witnesses, contradict them.
+Morros and Bailey both swore that the pile of sand and gravel extended out to the middle oí the road. But their testimony-on the point is emphatically contradicted by Mr. Bliss, Jeff Collins, Otto Sartin, and others, as well as by the physical facts.
+Our conclusion is that Olson, the driver of defendants’ car, lost control, turned to the left across the road, and ran into plaintiff's car, and that he was guilty of the grossest kind of negligence, and our conclusion is further that plaintiff was guilty of no negligence at all. The testimony is conclusive on these points.
+In passing, we state that, in our opinion, Carl Olson, the driver of defendants’ car, was, at the time of the accident, wholly incapacitated to operate an automobile.
+The witnesses who detailed the circumstances and conditions under which Carl Olson was driving defendants’ car on the occasion, unfold a tale so remarkable and so astounding that we would be loath to believe it had it not been told under the sanctity of an oath in a judicial proceeding.
+Two of the defendants, William Morros and George Hollinshead, operating as a commercial partnership under the name of Cappel Motor Company, have the agency for the sale of Overland-Whippet automobiles. Carl Olson is a youth, twenty years old, who hails from Chicago, and was transiently in Bunkie in December, 1926. About that time defendants had received the new 1927 model Whippet car. In order to exploit the good qualities of that car they contracted with Olson for a consideration of $25.00 to make an endurance test of the car. Olson was to drive the car one hundred and forty-four hours without stop. The agreement was that he should be handcuffed, chained and locked to the steering wheel and should drive the car over the public highways in the vicinity of Bunkie,' Lecompte and Alexandria for one hundred and forty-four consecutive hours without a stop, without sleep or food, except liquids, during the entire time.
+Circulars were printed and distributed announcing:
+“WHIPPET ENDURANCE RUN.
+“144 HOURS NON-STOP DRIVE.
+“ ‘DARE-DEVIL’ OLSEN WILL BE HAND-CUFFED TO STEERING WHEEL OF NEW 1927 MODEL WHIPPET COUPE. HE WILL LEAVE FROM CAPPEL MOTOR CO. IN BUNKIE, LOUISIANA, 3 P. M. SUNDAY, DECEMBER 12TH AND FINISH DRIVE 3 P. M., SATURDAY, DECEMBER 18th, AT THE STARTING POINT. HE DOES NOT EAT — HE DOES NOT SLEEP.”
+The parties carried out the contract to the letter until the car driven by Olson collided with plaintiff’s on the highway. At that time Olson had driven one hundred and forty consecutive hours and was then and had been all the while hand cuffed, chained and locked to the steering wheel. He had not slept a moment, had not stopped, and had taken no food, except liquids. After the collision, the car which he was driving stood in the highway for about three hours, during which time he remained locked and bound to the wheel until Morros, one of defendants, came and released him. He was transferred to another car and drove the remaining four hours to complete his contract.
+The conclusion is irresistible that Olson, bound and shackled as he was, without rest, sleep or food, for nearly six days and nights, was so weakened and emaciated that he was incapable, mentally and physically, of operating an automobile with safety to himself and others who might be in the road.
+ON THE QUANTUM OF DAMAGES.
+The lower court allowed plaintiff, individually, $42.63 for damages to his car, and $167.25 for medical and surgical feds incurred for treating the child.
+It also gave plaintiff judgment for $3000.00 for the use and benefit of his five-year old child who was painfully injured as a result of the collision.
+The record discloses that the child was in the car with its father when the collision took place. The child received a punctured and lacerated wound on the left side of the neck over the back border of the muscle that runs from the back to the ear down to the top of the chest.
+The wound was more than an inch long long and an inch wide and about an inch deep. It bled profusely and the child would, according to Dr. Lett, have bled to death if the flow had not been checked promptly.
+The accident hapened on the road, seven miles from Lecompte, where the child was carried for treatment. In order to stop the flow of blood, the child’s father first pressed upon the severed veins and arteries, but he found that would choke the child. He then inserted his finger in the wound to the bottom and held it there until he got to Lecompte. About the time he got to Lecompte the child fainted and the father thought it was dying. Dr. Lett revived the child, performed two operations and stopped the flow of blood. The next day he carried it to Alexandria where it was placed in charge of Dr. Packer who treated it over a considerable length of time and still has it under observation. There was some infection in the wound as evidenced by puss. The child’s suffering during a considerable time was intense, according to all the testimony. As a result of the wound the child has a visible scar and an enlargement or lump on the muscle about two inches from the scar, due to the formation of scar tissue.
+All the witnesses testified that at the time of the trial the child carried its head turned slightly to the left as a result of the injury. Some said that was very pronounced — others that it was not very noticeable. Doctor Packer said the child’s left shoulder and arm were weakened and smaller than the right, .due, in his opinion, to the severing of certain nerves on that side. He was of the opinion that the child is permanently injured and deformed. Other reputable physicians expressed the opinion that the child is not permanently injured.
+The district judge, who saw and heard all the witnesses and probably saw the child, awarded $3000.00 for its pain, suffering and injuries. We think that amount ample, but not excessive.
+Judgment affirmed, with costs.
