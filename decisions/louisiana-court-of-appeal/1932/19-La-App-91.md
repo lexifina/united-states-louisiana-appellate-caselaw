@@ -1,0 +1,27 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "13,930"
+decided: "1932-01-11"
+citations: ["19 La. App. 91"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MELDE TILE ROOFING CO. v. MARTINEZ ET AL."]
+source_url: "https://static.case.law/la-app/19/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3363743
+---
+
+# Melde Tile Roofing Co. v. Martinez
+
+## Majority (JANVIER, J.)
+
+JANVIER, J.
+The Melde Tile Roofing Company, Inc., is engaged in the roofing business in New Orleans. Acting through its president, it entered into a contract under which it agreed, for the sum of $525, to install a red cementile roof on the double residence referred to in the contract as being “owned by J. P. — C. B. — A. B. Martinez.”
+The roofing company completed the contract and thereafter discovered that the land on which the said building had been erected was, owned by the Jose Land Company and not by J. P. — C. B. — A. B. Martinez as the contract stated.
+The contract was signed on behalf of the owners only by Dr. J. P. Martinez, who, it is admitted, is the “J. P. Martinez” referred to in the contract as one of the owners. The Jose Land Company is shown in the record to be a family corporation, the. stock of which is owned practically exclusively by Dr. J. P. Martinez, his mother, Mrs. J. P. Martinez, and his. sister, Mrs. Angela Martinez McNally.
+Plaintiff company made no effort to collect the bill from the corporation shown to be the owner of the property on the conveyance records, but sought a judgment against Dr. Martinez, his mother and his sister, alleging that when Dr. Martinez signed the contract he did so on behalf of himself and his two above-named relatives. It is thus contended that he was, acting as the agent of his mother and his sister and that thus all three were thereby made liable solidarily.
+Mr. Melde, the president of the roofing company, states that it is not customary to examine realty titles prior to entering into contracts for placing roofs, on buildings, and we see no reason why a roofing company should do so. When Dr. Martinez made the contract with the Melde Company, the contract itself shows that he represented himself and two other persons to • be the owners of the property, and he thus made himself liable and also rendered liable such other persons as he had authority to represent.
+There is no proof in the record as to the authority of Dr. Martinez to represent his sister and but little as to his authority to represent his mother, but we find that Mr. Melde states that Mrs. Martinez, the mother, admitted to him that she was one of the owners; that her son had authority to represent her; and that everything he did was satisfactory to her. Dr. Martinez denies that he had such authority, but in the absence of any denial by the mother that she made such an admission the testimony of Mr. Melde on this point is sufficient to warrant a judgment against her. The record, however, is, entirely barren of any proof as to the authority of Dr. Martinez to represent his sister. The mere fact that he, in signing the contract, inserted her initials as one of the owners, cannot render her liable.
+The trial court rendered judgment against all three defendants, but we think the judgment was erroneous in that it included as one of the parties cast, Mrs. Angela Martinez McNally, and to that extent it must be amended.
+It is therefore ordered, adjudged, and decreed that the judgment in so far as it is against Mrs. Angela Martinez be and it is annulled, avoided, and reversed and that plaintiff’s suit as against Mrs. McNally be dismissed. In all other respects the judgment is affirmed.
