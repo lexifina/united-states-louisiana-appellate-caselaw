@@ -1,0 +1,40 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "353"
+decided: "1929-01-09"
+citations: ["9 La. App. 720"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["OPELOUSAS FINANCE CO. v. REDDELL ET AL."]
+source_url: "https://static.case.law/la-app/9/cases/0720-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3325720
+cites_cases: ["132 La. 264", "141 La. 235", "146 La. 698", "150 La. 104", "83 So. 902", "90 So. 528"]
+---
+
+# Opelousas Finance Co. v. Reddell
+
+## Majority (LECHE, J.)
+
+LECHE, J.
+On September 16, 1926, Jeff Reddell signed a notarial' act containing a conventional and special mortgage on his immovable property, and containing also a chattel mortgage on certain of his movables, in favor of Lee Reddell, passed before Ortego, Notary Public, and on the 24th day of September, 1926, the one act containing the two mortgages was brought to the Clerk of Court and Recorder of the Parish of Evangeline, and the following endorsement was written thereon:
+“Piled September 24, 1926, at 3:10 P. M. and same day recorded in chattel mortgage book No. 11 at page 320 et seq. Signed L. Demoruelle, Dy. Clerk.”
+The law concerning the registry of chattel mortgages was complied with to the letter. Entry was made at the time in the index, and the act was recorded in the chattel mortgage book as indicated by the written certificate. But the Clerk failed to record the act in the book of mortgages, failed to index it in the index to the book of mortgages, and the act was then placed in the archives of the Recorder’s Office.
+On March 14, 1928, or thereabout, the act was endorsed as having been received and filed and as having been recorded in the book of mortgages, which endorsement and certificate of registry although only written and signed about March 14, 1928, were antedated as of September 24, 1926.
+On December 31, 1926, the same Jeff Red-dell signed another notarial act, this time passed before Lahaye, Notary Public, wherein he specially mortgaged the same property in favor of H. J. Richard, which act was duly recorded in the book of mortgages of Evangeline Parish on January 5, 1927.
+The question in the case is whether the endorsement hereinabove recited truly dated September 24, 1926, is sufficient compliance with the provisions of Act 215, ,p. 351 of 1910, as to give effect to the act of mortgage of September 16, 1926, as against third persons from the date of said endorsement. The answer to that question decides the • right of priority in rank between the two mortgages, that given oh September 16, 1926, and that given on December 31, 1926.
+The present proceeding is by rule on the part of plaintiff, holder of the mortgage of December 31, 1926, against the holder of the mortgage of September 16, 1926.
+The trial judge was of the opinion that the mortgage of September 16, had precedence in rank over the mortgage of December 31, 1926, and plaintiff has appealed from this ruling.
+Registry of mortgages is a matter of sub-substance and not merely of form and the action of the Clerk and Recorder of Evangeline when he attempted to obviate the result of his omission, by antedating a certificate of deposit of the act and its registry in the month of March, 1928, can have no effect against plaintiff. The Clerk’s action need not be discussed, except to the extent of expressing the opinion that when on March 14, 1928, he antedated the certificate of deposit for registry in the mortgage records, and also the certificate of registry on the act of September 16, 1926, as of date September 24, 1926, he did so in good faith.
+The law in this State, has for many years been that an act of conveyance is effective against third persons as soon as deposited for record in the Recorder’s Office. C. C. 2266. Schneidau vs. New Orleans Land Co., 132 La. 264, 61 So. 225. In regard to mortgages however, merely depositing the act of mortgage in the Recorder’s Office, was not deemed sufficient and third persons were not affected with notice until such act of mortgage was actually recorded.
+It was presumably to place acts of mortgage on the same footing as acts of conveyance, that the Legislature adopted Act 215 of 1910, which provides:
+“That all acts or instruments of writing which import mortgage or privilege shall, when deposited with the Recorder of Mortgages for record, be immediately endorsed, by him with the date, hour and minute of filing; which'endorsement shall be recorded with the registry of such instrument. That all such instruments shall be effected (effective) against all persons from the date of their filing.”
+The endorsement in this case, which the Recorder placed upon the act of September 16, 1926, evidences the fact that it was deposited, and mention of the date, hour and minute is also therein made, but the endorsement goes further, and states that the act was on the same day, recorded in Chattel Mortgage Book No. 11 at page 320 et seq. In point of fact it was not recorded in the book of mortgages where it should have been recorded, until March 14, 1928.
+It must be conceded that such endorsement is misleading, for any one reading it could only conclude that the act was deposited for registry in the Chattel Mortgage Book and that it was deposited solely for that purpose. The conduct of the recorder in not recording it anywhere else than in the Chattel Mortgage Book, confirms that construction of his endorsement, and a fortiori would such construction be adopted by innocent third persons.
+There can only be one purpose by the lawmaker in requiring such endorsement to be written by the Recorder and that purpose is to give notice to third persons, and when the endorsement states that the registry is made or more specifically speaking, is about to be made in the book of chattel mortgages, third persons are thereby induced into error.
+Another question logically suggests itself and that is, suppose, although properly endorsed, would an act of mortgage which never was recorded, be effective against third persons? Obviously, it would not, for registry is sacramental under the provisions of the Civil Code to render an act of mortgage effective against third persons.
+From this discussion we conclude that the endorsement which the Recorder is required to make under the provision of the Act of 1910 is merely preliminary in the process of registry; that it is not equivalent to registry, but that when registry is promptly and actually made in its proper order, where other acts are already deposited and awaiting to be recorded, then registry retroacts to the date, hour and minute when the act was deposited. This construction of the Act of 1910 appears to be sound, reasonable and logical. In the present case the act of mortgage of September 16, 1926, was only recorded on March 14, 1928, long after the act of mortgage of December 31, 1926, had been recorded, and we are therefore of the opinion that the latter act primes in rank that of September 16, 1926.
+We did not mention the fact advanced by the defendants that the mortgagee may have been aware on December 31, 1926, that Jeff Reddell had previously mortgaged the same property on September 16, 1926, as it is elementary that notice is not equivalent to registry. Soniat vs. Whitmer, 141 La. 235, 74 So. 916; Nilson vs. Brinkerhoff et al., 146 La. 698, 83 So. 902; Gonsoulin vs. Sparrow, 150 La. 104, 90 So. 528.
+For these reasons the judgment appealed from is avoided and reversed, and it is now ordered that the rule herein taken be made absolute; that the Clerk and Recorder o,f Evangeline Parish be ordered and directed to erase and annul the dates inserted by him in his endorsement of receipt of registry and of actual registry of the act of mortgage of Jeff Reddell to Lee Reddell and others, and to insert therein the true dates of said endorsement and registry, and that plaintiff’s mortgage of date December 31, 1926, be recognized as being prior in rank to that given to Lee Reddell of date September 16, 1926.
+It is further ordered that defendant pay all costs.
