@@ -1,0 +1,33 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "4486"
+decided: "1908-05-04"
+citations: ["5 Teiss. 202"]
+reporter: "teiss"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SUCCESSION OF CHARLES MEYERS"]
+source_url: "https://static.case.law/teiss/5/cases/0202-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6759143
+cites_cases: ["18 A. 64", "3 A. 115", "32 A. 947", "4 A. 150", "46 A. 437", "7 A. 233"]
+---
+
+# Succession of Meyers
+
+## Majority (MOORE, J.)
+
+MOORE, J.
+This is a motion to dismiss an appeal taken from a judgment approving and homolgating a final account and tableau of distribution propounded by a succession representative.
+The motion is based upon several grounds, one among the number, being that appellants have acquiesced in the judgment by executing it voluntarily.' As we find this fact to be sustained by the record, it is not necessary to, nor will we consider the other grounds urged.
+The facts are that the Public Administrator for the Parish " of Orleans, duly appointed to administer the estate of one Chas. Meyers, filed on the 4th of April, 1906, his final account and tableau of distribution, showing the total assets of the estate, re•duced to cash, to be the sum of $200.00; the debts of the de-, ceased to be $232.00 and the cost of administering the estate, including all legal charges, attorney’s fees, fees of the attorney of absent heirs, notary’s fees, etc., to be $928.00, making a total Liability of $1x60.00 and thus leaving the net sum of $840.00, as a balance for distribution which the proponent proposed to pay to the State, in default of heirs. No opposition was filed to this account and tableau, which, upon due compliance with .all the forms of law, were approved and homolgated on the 18th day of April, igo6.
+Thereafter, to-wit: on the 19th day of May, 1907, Willis J. Roussel, alleging himself to be the duly appointed attorney in fact of eight named persons residing in the City of New York, in the State of New York, and whom he averred were the brothers and sisters of the deceased Charles Meyers, and as such his sole and legal heirs, and specifically alleging that the succession of Charles Meyers was opened by the public administrator after “all legal proceedings were complied with by the said administrator” and “that all debts against the said estate were duly paid by said Adolpho Dugue Public Administrator, and that there still remains in the hands and keeping cf the- Public Administrator the sum of eight' hundred and forty dollars, as will more fully appear by reference to the account and tableau of distribution filed by said Public Administrator, same having been duly advertised and homolgated. “prayed the Court that his principals, the said eight named brothers and sisters be recognized as the sole hcfrs of the said Charles Meyers, deceased, and sent into possession of his estate, “and more particularly the sum of eight hundred and forty dollars now in the hands and keeping of the Public Administrator, Adolpho Dugue.”
+After due hearing there was judgment in favor of these petitioners recognizing them as the sole heirs of the said deceased Charles Meyers, “and as such that they be put in possession of the fund now in the hands of the Public Administrator, amounting to the sum of eight hundred and forty dollars, as per account filed April 4th; 1906, in the above suit.” This Judgment was signed on the 26th day of November, 1907.
+At. once this Judgment was final' the Public Administrator proceeded to pay and did pay all the debts and charges appearing on his account, which were approved and homologated, - as stated, on the 8th day of April 1906, like paying over to the heirs of the deceased the balance of $840.00 as required to do by the Judgment of 26th, Nov. 1907, supra. On the 17th Dec. 1907, after making due proof of all these payments, the Public Administrator was discharged from his trust in this succession and his bond as its administrator cancelled. Within one month of two years from the date of the approval and homolgation of the final ac-coitnt and tableau filed herein on the 4th, April, 1906, and four months after the Judgment recognizing them as the heirs and decreeing them entitled to receive the residium of eight hundred and forty dollars after the payment of the debts and charges appearing on the final account and tableau homologated as stated, on the 18th April, 1906; and after they had received and receipted for 'that residium without protest or obligation, the said heirs on the 1st day of May, 1908, applied for and obtained an order of appeal from the judgment of homologation of April 18th, 1906, supra, in so far as it concerned the fixation of the fees charged by and ordered paid to the Attorney of the Succession, the attorney for absent heirs; the Notary and the claim of one Streuby an only creditor of the deceased. Art. 567 C. P., provides that the party against whom judgment has been rendered cannot appeal if such judgment has been confessed by him, or if he have acquiesced in the same by executing it voluntarily.
+A person acquiesces in a judgment when he makes it the basis for a subsequent suit or demand, or when he receives payment in part or in full under the judgment. 3 A. 115; 4 A. 150; 7 A. 233; 18 A. 64; 32 A. 947; 46 A. 437. In the .instant cause the appellants have done both of these things. They have acquiesced in the judgment by making it the basis of their demand to be sent into possession, as heirs, of the balance of $840.00 which that Judgment alone fixed and determined as the amount due and coming to the heirs after the payment of the debts and charges placed on the account and tableau, and which that judgment approved and homologated. In their petition, they refer to this amount as being thus fixed by “the account and tableau filed by said Public Administrator on the 4th April, 1906.” and that this balance is exigible by reason of the fact of the said account and tableau: “having been duly advertised and homologated.”
+They have likewise acquiesced in the judgment by receiving payment in' full under the judgment of homologation appealed from and which payment was made under a judgment of Court so ordering and which, as shown supra, was provoked by the appellants themselves.
+A more unconditional, voluntary and absolute acquiescense in the judgment rendered on the part of appellants, can be scarcely conceived.
+May 4, 1908.
+Rehearing refused June 8, 1908.
+Writ refused by Supreme Court, August 4, 1908.
+The motion to dismiss must prevail and accordingly the appeal is dismissed.
