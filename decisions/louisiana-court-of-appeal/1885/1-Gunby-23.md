@@ -1,7 +1,8 @@
 ---
 court: "Louisiana Court of Appeal"
 decided: "1885"
-citations: ["1 Gunby 23", "1 Gunby 19"]
+decided_precision: "year"
+citations: ["1 Gunby 23"]
 reporter: "gunby"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["G. F. Bernhardt vs. Ed. Wentz."]
 source_url: "https://static.case.law/gunby/1/cases/0023-02.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4802283
-cites_cases: ["12 R. 99", "14 L. 100", "2 R. 82", "3 R. 371"]
+cites_cases: ["12 R. 99", "3 R. 371"]
 ---
 
 # Bernhardt v. Wentz
