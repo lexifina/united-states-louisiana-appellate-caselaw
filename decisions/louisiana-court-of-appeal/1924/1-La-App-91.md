@@ -1,0 +1,48 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "1776"
+decided: "1924-11-21"
+citations: ["1 La. App. 91"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MISS E. T. KALMBACH v. P. J. BECKER, ET AL."]
+source_url: "https://static.case.law/la-app/1/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3284760
+cites_cases: ["11 South. 35", "27 South. 107", "36 La. Ann. 144", "44 La. Ann. 726", "52 La. Ann. 460"]
+---
+
+# Kalmbach v. Becker
+
+## Majority (CROW, J. ODOM, J.)
+
+CROW, J.
+Plaintiff caused the record in this case to be sent up to this Court on an appeal taken by her counsel from a judgment rejecting her demands. On close examination of the record,' we are unable to find in the record any written judgment signed by the Judge or Judges of the District Court. From a certificate of the Clerk of the District Court, we note no minute entry • that any judgment was ever read, signed and- filed in this case. This Court, therefore, cannot entertain the appeal, as we have no jurisdiction thereof unless and until a final judgment has been read, signed and filed, followed by the necessary application, order and bond for appeal in the lower Court.
+The appeal is, therefore, dismissed at the cost of appellant.
+OPINION
+ODOM, J.
+Plaintiff is a licensed real estate dealer in the city of Shreveport. She brings this suit against the 'defendant to recover a commission of $800.00 which, she alleges, is due her for making a sale of a stock of groceries in the city of Shreveport for the defendant Jouett to the defendants P. J. Becker and William T. McElroy.
+She alleges that the "defendant Jouett, during the latter part of the year 1920, was the owner of a grocery business in the city of Shreveport and that he listed and placed the same in her hands to be sold under the conditions that he was to receive $8,000.00 for said stock of goods and that he would protect her for a commission of 10 per cent thereon; and she alleges that she interested the defendants P. J. Becker and William T. McElroy in said property and that she brought the owner, Jouett, and the prospective purchasers, Becker and McElroy, together and that the sale was finally consummated; and that she is entitled to her commission but that none of the said parties has ever paid her anything.
+The defendants P. J. Becker and William T. McElroy filed answers in which they denied the allegations of plaintiff’s petition in so far as any indebtedness by them to her is concerned, but they admit that they had some conference with the plaintiff about the property, and deny that any meeting was arranged between themselves and Jouett, and denied that the plaintiff told them that she was to receive any commission for making the sale.
+The defendant Jouett denied any indebtedness whatever to the plaintiff and especially denied that he listed the property with the plaintiff and especially denied that he ever agreed to pay her any commission for making the sale.
+The District Court rendered judgment against the plaintiff, rejecting her demands at her cost. •
+Miss Kalmbach, the plaintiff, as a witness in her own behalf, stated that she had some conferences with the defendant Jouett with reference to the sale of his building and stock of goods in the city of Shreveport. According to her testimony, Jouett told her that he desired to sell his property, both the store building and the stock of goods, at the price of $50,000.00 for both properties. She says that she had a thorough understanding with Jouett, and we infer that she did because she goes into details with reference to the price and the commission she was to receive in case she sold both the real estate and the stock of goods. She states specifically that Jouett told her that if she sold the building and the stock he would pay her a regular commission of 10 per cent on the stock and 5 per cent on the first $5,000.00 on the building and 2y2 per cent on the balance.
+She states specifically that Jouett told her that in case she sold only the stock of goods that she would receive no commission. She reiterates that statement a number of times in her testimony. And in a letter which she wrote to the defendant, P. J. Becker, dated November 6; 1920, she says, among other things: “Price of stock and goods will be $8,000.00 net to owner; with .building, two-story brick, for $50,000.00 net to owner. Purchaser to pay all commission.”
+Her testimony on this point is the same as that of Jouett, who says that he did not agree to pay her any commission for making the sale.
+With reference to the commission which she claims the defendants, Becker and McElroy, should pay, who states that not only did she write Becker on November .6, 1920, that the purchaser should pay the commission, but that at a conference between herself, Mr. Becker and Judge Wallace in the City of Shreveport she specifically told them that the owner, Jouett, would not pay her a commission but that the purchasers would have to stand for the commission.
+She says that Judge Wallace, who seems to have been representing the defendants, Becker and McElroy, told her that she could rest easy, that he would see that she got her commission. She does not state that either Becker or McE,lroy ever promised to pay her a commission, but she says that she gave them to understand that they would have to pay her a commission.
+Becker, as a witness in his own behalf, states that he informed plaintiff at the conference, that under no condition would he pay her a commission for making the sale; that it was not customary for the purchaser of property to pay the commission; and that if she received a commission for the sale she would have to look to Jouett for the same.
+Judge Wallace, who was present at the conference, went into details as to what took place between them with reference to this sale. He says that he personally informed Miss Kalmbaeh, the plaintiff, that under no conditions would the purchasers of the stock pay her a commission. He says that he told her that they would have-to buy the stock of goods on an. inventory and pay the market price for the same, and that inasmuch as they would have to do so, it was out of the question for them to pay a commission. He further testified that the plaintiff told them that if that were the case they might proceed with the negotiations and that she would look to Mr. Jouett for her commission.
+The defendant, McElroy, as a witness in his own behalf, stated that he had never met the plaintiff, was not personally acquainted with her and, of course, did not promise to pay her any commission for making this sale.
+Judge 'Wallace states that the negotiations for'the sale of the real estate failed, and that he informed plaintiff that the negotiations had been broken off. The plaintiff says that she dismissed the matter from her mind, thinking that the negotiations were at an end, and that she did not know that the stock of merchandise had been sold until she saw the contract on record at the Clerk’s office.
+It seems that at some time shortly after the conference between the plaintiff and parties, Jouett sold his stock of goods to Becker and McElroy for the sum of $8,850.00.
+In our opinion the testimony of the plaintiff herself disposes of the case. She specifically states that the defendant Jouett informed her at the very beginning of the negotiations that he would not be responsible for any commission on the sale of the personal property alone. It is her contention, however, as we understand it, that inasmuch g,s she found a purchaser for the property and inasmuch as he profited by her industry in finding these purchasers and received $850.00 more for the stock of goods than he had told her- he would take, that as a matter of equity he should pay her a commission of $800.00.
+Her counsel, in brief, cites decisions of the Supreme Court to the effect that in a spirit of justice where the services of an agent are onerous and toilsome and beneficial to a vendor, the court will sometimes allow remuneration even though no agreement was made for the payment of any specific sum.
+Beugnot vs. Tremoulet, 52 La. Ann. 460, 27 South. 107.
+N. O., Etc., Packet Co. vs. Brown, 36 La. Ann. 144.
+Succession of Krokeler, 44 La. Ann. 726, 11 South. 35.
+But that line of decisions is not applicable to a case of this kind. In this case it was distinctly understood that the defendant, Jouett, was not to pay any commission.
+Plaintiff says that he profited by her industry in finding a buyer for his stock of goods, as appears by the fact that lie sold it for $850.00 more than he had priced it to her originally. However, we are not informed as to whether' the stock of goods had been added to between the time • that he made her the original proposition and the day on which the sale was made in January following. It may well be that he had added to the stock of goods, and we think we are warranted in concluding that he had, because Judge Wallace states that the understanding was that the stock should be sold on an inventory at the market price of the goods. So it may well be that the defendant, Jouett, did «not profit by the activities of the plaintiff.
+Insofar as any commission being due by the other two defendants, the purchasers of the stock, the very decided preponderance of the evidence is that they gave her to understand, before they met the owner of the goods, that they would not be responsible for any commission under any condition.
+Our conclusion is that the judgment of the lower court is correct and it is, therefore, affirmed.
