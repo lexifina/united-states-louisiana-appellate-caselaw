@@ -1,0 +1,65 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "2423"
+decided: "1926-02-08"
+citations: ["3 La. App. 402"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JESSIE NIX v. J. L. LANCASTER AND PEARL WIGHT AS RECEIVERS OF THE TEXAS & PACIFIC RAILWAY COMPANY"]
+source_url: "https://static.case.law/la-app/3/cases/0402-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3294692
+cites_cases: ["113 La. 872", "125 La. 883", "133 La. 644", "140 La. 507", "145 La. 583", "83 South. 43"]
+---
+
+# Nix v. Lancaster
+
+## Majority (ODOM, J.)
+
+ODOM, J.
+This suit was filed in the District Court at Alexandria o'n April 2, 1917. The minutes of the court show that a preliminary default was entered on April 27 following and that the case was set for trial May 17; that the case was reset for July 17, and that on July 2 the assignment for July 17 was stricken out on motion of counsel, and that on July 13 counsel for plaintiff filed an amended and supplemental petition; that on October 2 the case was set for November 6, and on October 18 an answer to the supplemental petition was filed, and that on November 2 the assignment of November 16 was stricken out and the case reset for December 3.
+All of the above minute entries were made in the year 1917.
+On December 17, 1918, the case was, by order of the court, placed on the “dead” docket.
+While the extract from the minutes of the court filed in evidence does not show it, counsel for plaintiff, in brief, say, and we accept their statement as true, that, on March 21, 1925, plaintiff ruled defendants to show cause why the case should not be revived and placed on the ordinary docket.
+In answer to said rule the defendant filed an exception and plea of prescription, setting out that further prosecution of the suit is barred by the prescription of five years under the provisions of Article 3519 of the Civil Code, as amended by Act 107 of 1898.
+The suit was brought by Robert F. Liebler, attorney representing the plaintiff, under a contract which provides that in case it should be necessary to bring suit the attorney should receive as compensation for his services rendered and to be rendered fifty per cent of whatever amount might be recovered; neither party having the right to settle the suit by compromise or otherwise without the consent of the other.
+Robert F. Liebler, the attorney, died on November 21, 1919, leaving a widow and three minor children.
+In answer to defendant’s plea of prescription and motion to dismiss the suit, plaintiff, who in the meantime had employed other counsel to prosecute the suit, and J. N. Shea, tutor of the mino» children of Robert F. Liebler, moved to dismiss the plea of prescription on the grounds, first, that the suit was brought under the provisions of Act 124 of 1906, and that:
+“The obligations of said contract were and are heritable under the laws of this state, and devolved, with the interest of the said Liebler in said suit, upon the forced heirs of the said Robert F. Liebler.”
+And that as to Jessie Nix, on account of the interest of the said minors in the suit, they having no tutor, he could not prosecute the suit or make any disposition thereof.
+Second, and in the alternative only, in case the court should hold that said article of the Code does apply to him, then he:
+“Alleges that said Article 3519 is unconstitutional, null and void in that it would deprive him of his property without due process of law.”
+And third, that in case the court should hold:
+“That the contract between the said Robert F. Liebler and Jessie Nix is a personal one, and not heritable, and therefore that said minors are without interest therein, then the said Shea, as tutor of said minors, alleges that Article 2000 of the Revised Civil Code of the State of Louisiana is unconstitutional, null and void, insofar as the same should be held by the court to defeat the interest of said minors.”
+The plea of prescription was tried on May 1, 1925, and sustained.
+From the judgment sustaining the plea and dismissing plaintiff’s suit, the plaintiff, Jessie Nix, appealed.
+OPINION
+It is undisputed that from Friday, November 2, 1917, the day on which counsel in open court had the case fixed for trial for December 3, 1917, until March 21, 1925, the day on which counsel moved in open court to have the case reinstated and placed on the ordinary docket—a period of seven years and four months—the plaintiff took no steps in the prosecution of the suit, nor was there any pleading filed or step taken by the defendant therein.
+Article 3519 of the Civil Code, as amended by Act 107 of 1898, reads in part as follows:
+“Whenever the plaintiff, having made his demand, shall at any time before obtaining final judgment allow five years to elapse without having taken any steps in the prosecution thereof, he shall be considered as having abandoned the same.”
+In the case of Lockhart vs. Lockhart, 113 La. 872, 37 South. 860, the syllabus, written by the eouyt, reads as follows:
+“Under Act 107 of 1898, amending and re-enacting Article 3519 of the Civil Code, a suit is considered abandoned when, at any time before obtaining a final judgment, the plaintiff allows five years to elapse without taking any steps in its prosecution, and, at the suggestion of any party in interest it may properly be stricken from the docket or dismissed.”
+In that ease the court said that the purpose of the amendment referred to was to substitute certainty for uncertainty, inasmuch as prior thereto the matter of abandonment of a suit was one of interpretation, depending upon circumstances and conduct and subject to no fixed rule. The amendment, however, declared under what circumstances a suit shall be considered abandoned.
+Under the plain letter of the law and under the above cited decision and many others which might be cited, the plaintiff in this case abandoned his suit by his failure to take any steps in its prosecution for more than five years, and it was properly dismissed by the district judge.
+But counsel for plaintiff urge that the rule does not apply in this case, for the reasons, first, that, previous to the filing of the suit the plaintiff entered into a contract with his attorney, Robert F. Liebler, by which said attorney, in consideration of services rendered and to be rendered by him, was to receive, as a fee, one-half of whatever might be recovered on final judgment, and stipulating that neither he nor his attorney could compromise or dismiss the suit without the consent of the other, and that his attorney having died, leaving minor children, without anyone to represent him, he, the plaintiff, could do nothing towards the prosecution of the suit.
+This contract was entered into under the provisions of Act 124 of 1906, which provides that by written contract signed by the client, attorneys may acquire as their fee an interest in the proposed suit or claim, and that it shall be lawful to stipulate in such contract that neither party shall have the right to settle, compromise, release or discontinue or dispose of such suit or claim without the written consent of the other.
+There is nothing in the law nor in the contract which plaintiff made with his attorney to prohibit plaintiff from prosecuting his suit in case the attorney died or neglected to continue his services. The law provides and the contract stipulated that neither the plaintiff nor the attorney could compromise, settle or dispose of the suit without the written consent of the other.
+But it could not be reasonably inferred that in case the attorneys so employed should refus'e or decline for any reason to continue his services the plaintiff could not procure other counsel to represent him therein. It is true that under the contract the attorney acquired an interest in the suit, but that interest was purely contingent. He was employed, according to the wording of the contract, to “take all necessary legal steps in establishing the right or claim that the party of the second part (the plaintiff) may have against the Texas & Pacific Railway Company”; for which services plaintiff agreed to pay him “the amount hereinafter stipulated”. Then follows a sentence stipulating the conditions under which he is to receive compensation and the amount thereof, as follows:
+“Should it become necessary for the party of the second part (the attorney) to file suit and contest the same through the courts, in this event the party of the first part (the plaintiff) agrees to pay to the party of the second part an amount equal to 50 per cent of whatever amount may be recovered.”
+In the case of Roe vs. Caldwell, 145 La. 583, 83 South. 43, it was held that Act 124 of 1906 was intended as “a means of protection to the attorney with respect to his contingent fee”.
+See Andirac vs. Richardson, 125 La. 883, 51 South. 1024.
+It was never intended, we think, to deprive the plaintiff of the right to prosecute his suit in case the attorney so employed failed for any reason to continue to represent him.
+In the case at bar, the attorney employed brought the suit. Whether he concluded to. discontinue his services is not clear, but we think the inference that he did is strong, for the record shows that the last step he took as attorney was on November 2, 1917, when the case was set for trial on December 3, following. On December 17, 1918, more than a year later, the case was, by order of the court, placed on the dead docket. There elapsed thereafter more than two years prior to his death in which he took no action. The inference, therefore, is strong that he had concluded to abandon the case.
+But whether he did so conclude or not, the fact remains that it was plaintiff’s case and he was not prohibited under the law or the contract which he had entered into from prosecuting this suit. ' The attorney employed by him was not the plaintiff.
+In the case of Rae vs. Caldwell, supra, the court held that Act 124 of 1906 was not intended:
+“As a basis upon which a defendant can require a plaintiff to bring his attorney into a suit as co-plaintiff.”
+The attorney employed was not the plaintiff nor was he a co-plaintiff.
+In the cases of Loftin vs. Frost-Johnson Lumber Co., 133 La. 644, 63 South. 252, and Smith vs. Lyon Cypress Lumber Co., 140 La. 507, 73 South. 312, the court refused to consider an attorney employed on a contingent basis under the said act as a co-plaintiff and held that where it is shown that the plaintiff is not able to pay the costs he should be permitted to litigate without such payment even though the attorney with whom he had contracted might be able to advance the costs.
+The Code provides in specific language that:
+“Whenever the plaintiff, having made his demand, shall at any time before obtaining final judgment allow five years to elapse without having taken any steps in the prosecution thereof, he shall be considered as having abandoned the same.”
+The burden, therefore, of keeping the suit alive is laid upon the plaintiff and not upon the attorney he employs. If he allows five years to elapse without taking any steps, he is considered as having abandoned his case. If we should hold that a plaintiff is not responsible for such neglect on account of the death of his attorney we would read into the law something which is not there. Where the law is plain courts cannot deviate from it.
+Counsel next contend that Act 107 of 1896, page 155, amending and re-enacting Article 3519 of the Civil Code, is unconstitutional in that it deprives plaintiff of his property without due process of law. As this point is merely referred to and not discussed in plaintiff’s brief, we conclude that it is not seriously urged. However, we can see no reason for holding that the statute is unconstitutional. If a plaintiff abandons his suit there is no reason why it should not be stricken from the docket. There was always a question as to what constitutes abandonment of a suit, and in order to make clear and certain that which was theretofore uncertain the Legislature specifically declared what should be construed as abandonment. That was the purpose of Act 107 of 1898, and that Act no more deprives plaintiff of his property without due process of law than do the laws fixing prescriptive periods for actions on debts.
+Counsel’s last contention is that the minor children of the deceased attorney had an interest in the suit and that prescription did not run against them, is disposed of by the holding that their father was not a party to the suit and that under the law it devolves upon the plaintiff to prosecute the suit and keep it alive, and if he fails to do so the suit may be dismissed at the instance of any party interested.
+The only question presented in this suit is whether, under the circumstances, the suit should be considered as abandoned.
+For the reasons assigned it is therefore ordered, adjudged and decreed that the judgment appealed from, dismissing plaintiff’s suit as having prescribed and been abandoned, is affirmed with costs.
