@@ -1,0 +1,49 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "5231"
+decided: "1911-03-20"
+citations: ["8 Teiss. 247"]
+reporter: "teiss"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGE H. KAUL vs. LEOPOLD WEIL BUILDING & IMPROVEMENT COMPANY."]
+source_url: "https://static.case.law/teiss/8/cases/0247-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1058558
+---
+
+# Kaul v. Leopold Weil Building & Improvement Co.
+
+## Majority (ST. PAUL, J.)
+
+ST. PAUL, J.
+This is an action for damages for al - leged malicious trespass by defendants’ agents upon plaintiff’s property. The defendants reconvene, like-' wise claiming damages for an alleged trespass by plaintiff upon their property.
+The claim and counter-claim arise'out of the following’ circumstances.
+Plaintiff and defendants own adjoining properties. On' defendants’ lot is a one-story cottage occupied by tenants and situated about two and one-half feet from the dividing line between the two properties, thus leaving an alleyway for the use of said tenants.
+Plaintiff occupies his own property as a grocery store and residence. His building is two stories high and occupies nearly the whole width of the lot. The windows of his -second story give out over defendantisi’ property, but above the roof of the cottage.
+Plaintiff has no servitude of 'any kind upon defendant’s property, but he had made no improper use of his windows, or made any other use thereof than to leave them open, which he had a right to do; nor have defendants’ tenants complained thereof in any manner.
+For a long time prior to the occurrence hereinafter' mentioned plaintiff’s premises were ¡supplied with illuminating and fuel gas through a service pipe which entered from the street near the dividing line between the two properties, and ran under ground alongside of, and near the foundations of plaintiff’s building.
+At a point about twenty feet inside the property line-this pipe rose from the ground and ran up a few feet on the side of the building to which it was attached; then it passed through the wall and into the building.
+Some few days before April 4,1910, plaintiff desired to make ¡siome change in the place of 'his meter, and called upon the Gas Company to effect the change.
+In making this change the Gas Company condemned the old service pipe and laid a new one. To do this they entered into defendants’ 'alley-way, dug up ‘the old pipe and put down the new one. When the work was finished conditions were restored the, same as they had been before.
+This having come to the knowledge of defendants they conceived that the pipe had been laid upon their property, and accordingly the Gas Company was notified 'on April 4th, to remove the same within 24 hours. Two days later the Gas Company replied that the pipe had been laid at the suggestion and under the direction of plaintiff, and the defendants should look to him; that the company would so notify plaintiff and transmit to him a copy of ■defendants’ notice.
+There was not the slightest evidence that the work was ■done at the suggestion of plaintiff, or under his direction. The Gras Company never communicated with plaintiff nor does it seem to have taken any further notice of defendants’ complaint. Defendants’ themselves never . mentioned the subject at all to plaintiff either verbally or in writing.
+On April 8th, without further notice to the Gras Company or warning whatsoever to plaintiff, one of defendants’ employees, accompanied by a plumber, and acting under direct instructions from defendants’ general manager, proceeded to the premises and entering the alleyway emit and plugged the gas pipe which supplied plain ■ tiff’s premises.
+A few days later defendants erected a large and unsightly screen in front of plaintiff’s windows, completely closing the same.
+Plaintiff then had his property surveyed by a competent surveyor and the survey showed that plaintiff’s building was removed fully five inches from the line of his property ,leaving that much clear space between his building and the dividing line between the two properties.
+Plaintiff then notified defendants to remove the screens from in front of his windows claiming that they stood upon his (plaintiff’s.) property. To this notice defendants paid no attention, and plaintiff then had the screens removed at his own expense.
+* On June 6th, plaintiff filed this suit. On June 13th, defendants 'had their property surveyed, and this survey also showed that plaintiff’s property was removed about five inches from the dividing line. On June 17th, defendants filed their answer and reconventiional demand herein, praying among other things that plaintiff be enjoined from interfering with them
+“in erecting any screens on the property line and entirely on the property of the Leopold Weil Building and Improvement Company in front of -the windows of the sladd George Kaul, so long as the said screens -and 'the structure supporting them, do not trespass on the property of George Kaul.”
+On July 14th defendants again had the dividing line marked by a surveyor “with stakes and string about four feet above ground,5 ’ and then proceeded to erect on their own property, and about one inch from said line, a solid wooden wall forty feet long and twenty-four feet high closing every window in plaintiff’s building.
+Of this last construction plaintiff does not complain, nor has he any right to do so, it being entirely on defendants’ land. .It i© mentioned 'here merely ias tending to show the feeling which defendants had toward plaintiff; for until this case was actually on trial defendants had never deigned to furnish plaintiff with any reason for their acts, or vouchsafed to take notice of any communication from him. Indeed when plaintiff demanded of those who cut the pipe,, why they did so, the only answer which he received was a vulgar gesture indicative of ‘gross 'contempt.
+Of course -defendants were within their rights when they cut the pipe and erected the first screens, and no explanation whatever was due plaintiff; that is to say no explanation was due in law, but if in point of fact -defendants were trespassing upon his property, when they did these things, their behavior then assumes a totally different aspect. And the question in this case is, whether the pipe was cut and the screens erected upon their own property or on the plaintiff’s land and premises.
+On this point there is some conflict, but the overwhelming preponderance of the evidence is that the pipe was cut entirely upon plaintiff’s property, right off the side of plaintiff’s building; and that the supports for the screens rested upon plaintiff’s land, next to and partly upon, the foundations of his building, and leaned upon his wall, against which they were closely pressed.
+Thus must the jury have thought when they found for plaintiff; and their verdict, though not unanimous, was approved by the district judge who saw and heard the witnesses, and promptly refused defendants’ 'application for a new trial.
+It is urged that in any event, plaintiff should not recover herein, because he was the first trespasser, when defendants ’ alley-way was entered for the purpose of laying the pipe. Even if he were, defendants’ right was an action for damages, but they were not thereby justified in retaliating by a new trespass. But in point of fact plaintiff never trespassed on defendants’ property. As we have said he had nothing to do with the laying of the new pipe. If there was an trespassing it was done by the Gas Company and not' by plaintiff. But there is no proof in this record that -there was any trespassing by anyone; for although it was undoubtedly necessary, in order to lay the pipe, to go into defendants’ alley-way, yet if the pipe was laid in plaintiff’s land, and the Gas Company’s employees had permission 'from defendants’ tenants to pass into and through the alley-way for that purpose, they were not trespassers so long as they did no injury to the property.
+And it is not pretended that any injury was done to the property, or the Gas Company entered the premises against the wishes of the tenants. For mere purposes of entry and passage throug’h leased premises, the permission of the tenant suffices, that of the landlord is wholly unnecessary. Indeed he can grant no permission to anyone to enter the leased premises against the will of his tenant invites or permits to enter the premises, peaceably tenant invites or permits to enter the premises peacably and without damage thereto. So that any entry by the. Gas Company or its employees without permission would have been a trespass against the tenant’s possession and not against the landlord, so long as no damage was done, to the property, and the pipe was not laid on defendants’ ground; and there is no evidence herein that it was; none, at least, that satisfies us of the fact.
+March 20, 1911.
+Rehearinig refused, April 17, 1911.
+"Writ denied by Supreme Court, May 23, 1911.
+Defendants were, therefore, the only trespassers, and their conduct was actuated by pure malice and revenge, for an imaginary wrong, of which plaintiff was wholly innocent, but for which he was made to suffer. He was deprived of gas light and fuel for a number of days; also of ventilation and the day light. He was treated contemptiousl-y; he had to suffer the questioning of neighbors who thought he did not pay his gas bills. His premises were made unsightly and ridiculous. He was inconvenienced, annoyed and humiliated, just as defendants intended he should be, and is entitled to substantial damages. ,
+The jury fixed the amount of these damages at one thousand dollars, which the district judge approved. The amount is not unreasonable, and we will not disturb their finding.
+Judgment affirmed.
