@@ -1,0 +1,29 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "2348"
+decided: "1927-11-10"
+citations: ["7 La. App. 129"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. W. PAGE & SON v. RUSSELL"]
+source_url: "https://static.case.law/la-app/7/cases/0129-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3319227
+cites_cases: ["130 La. 100"]
+---
+
+# W. W. Page & Son v. Russell
+
+## Majority (WEBB, J.)
+
+WEBB, J.
+Plaintiff brought this action to recover judgment for a balance of two hundred thirty-one and 48/100 dollars alleged to have been due on open account for goods sold and money furnished defendant during the years 1920 to 1923, inclusive; and the defenses interposed were that certain charges for merchandise and cash shown on the statement of account and amounting to thirty-seven and 35/100 dollars were erroneous, and that other charges for interest, amounting to ninety-eight and 33/100 dollars, -were illegal; and, further, the credit of one hundred seventy-nine and 03/100 dollars for cotton delivered, to plaintiff should have been two hundred fifty-five and 75/100 dollars, and that on the allowance for such deductions and additional credits the balance due would be forty-six and 88/100 dollars.
+The judgment appealed from struck the interest charges, amounting to eighty-one and 83/100 dollars, from the account and allowed the amount claimed, less such charges, with five per cent interest on the judgment from judicial demand, from which judgment the defendant appealed, and plaintiff answered the appeal, praying the interest charges stricken from the account should be allowed and that the judgment should include interest from October 19, 1923, the date on which the last item on the account appears to have been entered, and in accordance with the prayer of the petition.
+As to the disputed items, amounting to thirty-seven and 35/100 dollars, one of the partners of plaintiff testified as to the items and produced the original sales slips which had been made at the time of the sale, about five years prior to the date of the trial, and while the defendant stated the charges were erroneous, it clearly appears that his statement was based upon memoranda of the transactions between plaintiff and defendant which did not show the disputed items. However, the memoranda appeared to have been made by defendant’s wife on reports made to her by him, and we do not think the evidence was sufficient to overcome the showing made by plaintiff, and the disputed items were correctly allowed. Horton vs. Harrelson, 130 La. 100, 57 South. 643.
+Relative to the interest charges, it appears that plaintiff sold the defendant merchandise at cash ¡prices plus ten. per cent for credit, which was added at the time the Sales were made and thus entered ■upon the account, and that plaintiff also furnished defendant some money which was entered on the- account at the exact amount furnished, and at about the end of the calendar year the plaintiff entered a charge of ten per cent on the balance due at that time which would be carried forward to the succeeding year and at the end of that year plaintiff would enter another charge of ten per cent as during the preceding year.
+There were four charges of such interest, amounting to eighty-one and 33/100 dollars, which were stricken from the account by the judgment and the defendant claims there was an additional charge for interest amounting to sixteen and 50/100 dollars. We do not find the latter item or items for interest on the. account and we presume that such amount must refer to the difference between the cash and credit prices of the goods sold and if so we think the court properly refused to allow credit therefor.
+The plaintiff admits that the' charge of ten per. cent interest, as shown' by the account, amounting to eighty-one and 33/100 dollars, was illegal, but contends a charge of five per cent on balances due at the end of the year should have been allowed. The account, as made, however, shows that the interest charge was illegal, not only as to the rate but also that the interest was compounded, and conceding the right of plaintiff to charge interest on the balance due at the end of the year, the evidence does no't show that any such settlement was made and it is impossible for us to determine from the evidence the balance due at the end of any calendar year ¡prior to the last, .and we find that the judgment striking the .charges for interest from the account was correct under the evidence.
+As to the claim for additional credit for cotton sold, defendant claims he left the cotton with plaintiff under an agreement that it would not be sold until he gave instructions to sell. It appears, however, that defendant was indebted to plaintiff for an amount which was in excess of the value of the cotton at the time it was delivered to plaintiff, and plaintiff denies that there was any agreement that the cotton would not be sold until defendant instructed him to sell, and says that it was delivered to be sold by plaintiff when plaintiff thought best. As it appears that plaintiff acted for defendant as he would have done for himself and obtained the best price he could, we find that the court properly refused to allow any additional credit.
+On the question of the date from which the judgment should bear interest, .the course of dealing between the parties shows the indebtedness became due not later than the end. of the calendar year of 1923, and under the provisions of Article 2924 C. G. the judgment should bear interest from the maturity of the debt sued upon rather than from judicial demand..
+It is therefore ordered, adjudged and decreed that the judgment appealed from he amended so as to allow interest at the rate of five per cent per annum from January 1, 1924, until paid, and, as thus amended, the judgment is affirmed.
