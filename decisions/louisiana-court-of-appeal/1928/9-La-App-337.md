@@ -1,0 +1,29 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "10,479"
+decided: "1928-11-13"
+citations: ["9 La. App. 337"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARTINO v. PHOENIX FIRE INS. CO."]
+source_url: "https://static.case.law/la-app/9/cases/0337-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3328218
+cites_cases: ["118 Ala. 308", "121 Ala. 258", "160 La. 683", "18 So. 86", "20 Tex. Civ. App. 147", "23 So. 759", "25 So. 912", "48 Am. St. Rep. 535", "50 S. W. 180", "7 La. App. 20", "72 Miss. 53"]
+---
+
+# Martino v. Phoenix Fire Ins.
+
+## Majority (WESTERFIELD, J.)
+
+WESTERFIELD, J.
+This is a suit for $900.00, on a policy of insurance. There judgment for defendant and plaintiff has appealed.
+The plaintiff, an illiterate Italian, operated a “soft drink” business at No. 1115 Murat Street, New Orleans. His place of business and its contents were completely destroyed by fire on October 23, 1923. He had a policy with the defendant company which described the property insured to be' “one stock of soft drinks, candies, cigars, cigarettes, and all other articles usual to his line of business not more hazardous.”
+The defendant relies upon plaintiff's breach of the iron safe clause, which requires that the assured shall keep a set of books, take a periodical inventory and keep the books and the inventory in a- fireproof safe. There has been a feeble effort made to show, that plaintiff substantially complied with this clause in his policy, to the extent held necessary in the case of Block vs. Detroit Fire & Marine Insurance Company, 7 La. App. 20, but it is q/uite clear, that plaintiff has not complied with the iron safe clause, substantially or otherwise. In the first place, he kept no brooks, took no inventory and had no safe, his business being one of the simplest, was conducted by himself, and he did not possess the ability to read or write. But in the view we have taken of the case, the iron safe clause is of no importance.
+There was in the building, at the time it was destroyed by fire, four pool tables, one piano, one ice box, chairs, glasses and tables, of an aggregate value in excess of the principal sum mentioned' in the policy. The evidence in ‘ the record clearly establishes that these articles were usual to plaintiff’s line of business and it is obvious that they were not more hazardous than soft drinks, candies, cigars, etc. The iron safe clause, by; express provision of the policy itself, applies only to stock in trade and it has been held, that, a failure of warranty in respect to this clause, does not result in a forfeiture of the entire policy, so as to prevent recovery for the loss of other items covered by the policy. Thompson vs. State Assurance Company, 160 La. 683, 107 So. 489. See also Hanover Fire Insurance Company vs. Crawford, 121 Ala. 258, 77 American State Reports, 55, 25 So. 912; Manchester Fire Assurance Company vs. Feibelman, 118 Ala. 308, 23 So. 759; Mitchell vs. Mississippi Home Insurance Company, 72 Miss. 53, 18 So. 86, 48 Am. St. Rep. 535; Sun Mutual Insurance Company vs. Tufts, 20 Tex. Civ. App. 147, 50 S. W. 180.
+Defendant’s counsel contends that nothing was insured under plaintiff’s policy, except his stock in trade and that the language quoted cannot be construed as embracing other property of plaintiff. If the policy had read “one stock of soft drinks, candies, cigars, cigarettes and all other articles usually carried in stock by persons in the assured’s line of business not more hazardous,” it would have been perfectly clear that the stock alone was covered by the policy, but since the provision read “one stock of soft drinks * * *, and all other articles usual to his line of business * * *, we must give the usual effect to the words employed, and we cannot interpolate words not found in the text.. The use of the word “and” would imply that something in addition to what is previously described as insured, is included in the policy, and in this case, the additional coverage embraces “all other articles usual to his line of business.” The record clearly establishos, a custom prevailing with the proprietors of soft drink establishments, to maintain pool tables and pianos for the entertainment of their customers, to insure their presence in the establishment, and stimulate the sale of cigars and drinks, the usual stock in trade. Moreover, the record clearly shows, that, the plaintiff kept a very small stock of goods, his weekly purchases of cigars, as established by the dealer with whom he transacted that feature of his business, amounted to $22.50. His total loss, as it is described in his petition, amounts to $1,155.00, of which amount the sum of $155.00 represents the entire loss due to the destruction of his stock in trade.
+In view of the small amount of stock carried by plaintiff, it would be absurd for him to insure his stock for the sum of $900.00, and it is almost unbelievable that a competent agent of an insurance company would permit him to do so.
+We are of the opinion that plaintiff is entitled to recover from the defendant the sum of $900.00, plus 12% penalty and a reasonable attorney’s fee, as provided by Act 168 of 1908. We fix the fee at $150.00. See Bloch vs. Detroit Fire Insurance Company, and authorities there cited, 7 La. App. 20,
+For the reasons assigned, the judgment appealed from is reversed, and it is now ordered that there be judgment in favor of plaintiff, Joseph Martino, and against the defendant, Phoenix Fire Insurance Company of Paris, France, in the sum of $900.00, plus 12% thereof, with interest thereon from judicial demand until paid, and in addition thereto, the sum of $150.00 as attorney’s fees, and all costs.
+Judgment reversed.
