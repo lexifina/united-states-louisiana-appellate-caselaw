@@ -1,0 +1,37 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "10,526"
+decided: "1926-10-18"
+citations: ["5 La. App. 131"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ITTMAN, Appellant, v. KRACKE & FLANDERS CO. On Rule of WM. D. SEYMOUR COMPANY, INC., Against CANAL-COMMERCIAL TRUST & SAVINGS BANK, (NOW CANAL BANK & TRUST COMPANY), RECEIVER OF KRACKE & FLANDERS COMPANY."]
+source_url: "https://static.case.law/la-app/5/cases/0131-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5610604
+cites_cases: ["11 South. 935", "125 La. 719", "140 La. 674", "2 South. 52", "39 La. 289", "39 La. Ann. 289", "45 La. Ann. 89"]
+---
+
+# Ittman v. Kracke & Flanders Co.
+
+## Majority (WESTERFIELD, J.)
+
+WESTERFIELD, J.
+Wm. D. Seymour Company, Inc., whom we shall hereafter refer to as plaintiff, prosecutes this appeal from a judgment dismissing a rule taken by it against the Canal-Commercial Trust and Savings Bank, as receiver of Kracke & Flanders Company, wherein plaintiff claimed $420.57, which amount, it was alleged, was collected by the Canal Bank, its receiver, in error, and, as partial payment of a note of the Cordes Ayrault & Company, Inc., of Tonawanda, New York, belonging to plaintiff.
+The judgment, complained of, maintained a plea of res judicata based upon the homologation of the first provisional account of the receiver.
+The plea of res judicata was, with another exception filed by the receiver, referred to the merits, and after a trial upon the merits maintained. We can only consider the ruling on the exception.- Gordon vs. Business Men’s Racing Assn., 140 La. 674, 73 South. 768. Counsel, in argument, and in their briefs, have made frequent allusion to the testimony developed on the trial on> the merits, and, at the same time, with a little inconsistency, we are admonished by counsel for the receiver to bear in mind our inability to determine the controversy on the merits. We shall limit our consideration to the rule of plaintiff as presenting his cause of action and to the provisional account of the receiver as the basis of the plea of res adjudicata.
+The allegations of the rule are, in effect, that plaintiff owns a note which the maker partially paid to the receiver, in the mistaken belief that the note belonged to the receivership.
+The provisional account shows total collections of $17,040.68. One item collected, amounting to $107.68, is described as “Cordes, Ayrault & Co., Inc. — Notes Receivable”.
+It is proposed to disburse all of the money collected to .creditors except $961.04 which is retained by the receiver for the reason that “there are numerous other claims asserted on behalf of the receivership in litigation and this amount may be needed to meet the expenses incident to such litigation”. Among the creditors listed the name of plaintiff appears as an ordinary creditor in the sum of $5526.33. It is argued that because plaintiff’s name appears on the account as a creditor and because the name of the maker of the note, which plaintiff claims to own, appears as the source of a collection of $107.68, plaintiff’s present claim, must succumb to the plea of res judicata, no opposition having been filed in plaintiff’s behalf to the homologation of the provisional account.
+We are referred to the Succession of Triche, 39 La. Ann. 289, 2 South. 52, where it was said:
+“When in a contested provision account, the amount and rank of various charges and privileged claims have been settled by final decrees of court, the same claims cannot be again contested when presented in a final account of distribution.”
+And to the Succession o'f Conrad, 45 La. Ann. 89, 11 South. 935, holding that:
+“An account filed by an executor, which purports a partial distribution of the proceeds of sale and of rents collected among creditors of the succession he is administering, when duly homologated according to law, after due publication, is final and conclusive as to all the world — heirs as well as creditors — in respect to the amount and validity of the claims opposed; and, as to heirs as well as creditors, such judgment of homologation constitutes res adjudicata in respect to the amount and validity of said claims — thAigh they have not been personally cited.”
+Succession of Triche, 39 La. 289, 2 South. 52:
+In the case of Villere vs. New Orleans Pure Milk Co., 125 La. 719, 51 South. 699, it was held that a judgment homologating a provisional account is res judicata to the extent of the funds distributed in such account and no further and that consequently a creditor non-suited in his opposition to the provisional account may prove his claim on homologation of the final account in which other funds are to be distributed.
+But, in the case at bar, plaintiff is mentioned with the other creditors of the receivership as the holder of a claim against the receivership. The rule to which the plea of res adjudicata is addressed, based on the provisional account, does not present a claim against the receivership but in a sense against the receiver, which is said to have collected money which did not belong to the receivership. In other words the receiver has some of plaintiff’s money which came into its possession, under circumstances beyond criticism, but nevertheless without any legal title thereto. The creditors of the receivership are not entitled to divide plaintiff’s money received by their representative in error.
+It can not be said that this issue has been adjudged because plaintiff was recognized as an ordinary creditor in a different amount, a much larger amount, than is claimed in the rule, which amount so far as appears on the face of the papers is in no way connected with the note alleged to have been partially collected by the receiver.
+. Nor does the fact that the account contains an item among the receiver’s collections described as “Cordes Ayrault & Co., Inc. — Notes Receivable, $107.68”, have the effect of estopping plaintiff from claiming $420.57 alleged to have been paid by the Cordes Ayrault Company to the receiver as partial payment on a note belonging to plaintiff in the erroneous belief that the note belonged to the receivership. It might well have been that the receivership also held a note of the Cordes Ayrault Company.
+Finally, we find no merit in the argument that the provisional account proposes to distribute nearly all the money collected by the receiver, including plaintiff’s money, and that there is therefore no means of paying plaintiff’s claim should it be recognized. In the first • place there remains in the receiver’s hands under the distribution proposed by the account, a sum more than sufficient to pay plaintiff’s claim. It is true the receiver expects this money to be used as expense in defending or prosecuting litigation, in which it *is interested, but such expression by the receiver is not conclusive. Besides, little or none of the amount so withheld may be required and in addition further sums may be collected by the receiver as the provisional account intimates. In any event the plea of res adjudicata can not be maintained under the circumstances of this case.
+It is therefore ordered that the judgment appealed from be reversed and it is now ordered that the plea of res adjudicata be overruled and this case remanded for trial upon its merits -and according to law.
