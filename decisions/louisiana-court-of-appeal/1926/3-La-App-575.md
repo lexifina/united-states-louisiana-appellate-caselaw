@@ -2,7 +2,7 @@
 court: "Louisiana Court of Appeal"
 docket: "2457"
 decided: "1926-02-08"
-citations: ["3 La. App. 575", "3 La. App. 648"]
+citations: ["3 La. App. 575"]
 reporter: "la-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["MRS. ANNA C. MOORE v. DAY BUILDERS SUPPLY COMPANY, INC., ET AL."]
 source_url: "https://static.case.law/la-app/3/cases/0575-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3297340
-cites_cases: ["1 La. 612", "12 La. Ann. 60", "12 South 508", "2 La. 130", "2 La. 392", "21 La. Ann. 461", "27 La. Ann. 715", "3 La. App. 575", "3 La. App. 648", "45 La. Ann. 333", "9 Rob. 79"]
+cites_cases: ["21 La. Ann. 461", "3 La. App. 648"]
 ---
 
 # Moore v. Day Builders Supply Co.
