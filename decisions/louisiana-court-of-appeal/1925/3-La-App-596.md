@@ -1,0 +1,25 @@
+---
+court: "Louisiana Court of Appeal"
+decided: "1925-12-09"
+citations: ["3 La. App. 596"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BROWN v. WEBER KING LUMBER COMPANY"]
+source_url: "https://static.case.law/la-app/3/cases/0596-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3302244
+cites_cases: ["140 La. 380", "159 P. 715", "168 P. 890", "74 South. 239"]
+---
+
+# Brown v. Weber King Lumber Co.
+
+## Majority (MOUTON, J.)
+
+MOUTON, J.
+This suit is brought under the Employers’ Liability. Act by plaintiff, widow of J. D. Brown, for their minor children.
+The case comes up on a statement of facts.
+This statement shows that defendant company had entered into a verbal contract with J. W. Brown, the father of J. D. Brown, deceased, whose widow is plaintiff in this suit. Under this contract J. W. Brown was to select the ties from timber belonging to defendant company and haul them to the tram road of the company. J. W. Brown furnished his own tools, was to charge twenty-five cents per tie, but there was no specification as to the number of ties he was to get out. There was no foreman or superintendent appointed by the company to control J. W. Brown as to his time or manner of work, the company reserving the right of rejecting such ties as did not come up to the standard. J. D. Brown was working with J. W. Brown when, he suffered the injury to his knee from which he died some time after.
+The defendant company had no knowledge of the employment of J. D. Brown by J. W. Brown, whose name, obviously, was not carried on the payroll of the company. The above synopsis of the admitted facts brings this case clearly within the ruling in the case of Clark vs. Tall Timber Lumber Company, 140 La. 380, 74 South. 239, where it was held in conformity with many prior decisions that under a contract of the character above detailed, the party who enters into such an agreement is in law an independent contractor. It is also admitted in the statement of facts that the collections under the contract were made every two weeks by J. W. Brown, “which he divided equally with J. D. Brown”. This last quoted clause embodies the vital issue presented for decision in this case. There are no decisions of our court that we have been referred to or. that we are aware of that have passed on this question. In the case of Fidelity and Deposit Company vs. Brush, 168 P. 890, the father, an independent contractor, entered into an agreement with his son in which it was stipulated that the amount he would receive for his work would be equally divided between them. The only difference here is that the son was to divide with his father. In that case the court held that the son was not an employee, but had to be considered in the light of an independent contractor, and was not entitled to compensation for the injury. This was likewise held as the correct doctrine in Donlon Bros. vs. Industrial Accident Commission, 159 P. 715.
+Counsel for plaintiff refers us to Sec. 6, Act 20, 1914, as amended by Act 38, 1918, in support of his contention that the widow and minors are entitled to recover in compensation. This section, as we understand its provisions, refers to a' case where the contractor employs another contractor to execute the work undertaken by the original contractor, termed the principal, in the statute. Such principal, says this section, shall be liable to pay to any employee employed in the execution of the work any compensation he would have been liable to pay if the employee had been immediately employed by him. The following words used in this section, viz.: “Shall be liable to pay to any employee employed in the execution of the work”, has reference to “contracts with any person” the second contractor has contracted with to execute the work undertaken by the original contractor, designated as the principal in Section 6 of the Compensation Act. The original contractor here or the principal was J. W. Brown. There was no other “person” or contractor employed by him to execute the work originally undertaken by him with defendant company; and as there was no such 'contractor or. subcontractor employed by J. W. Brown, no employee could have been employed by a second or sub-contractor. The conditions intended to be covered by the provisions of Section 6 of the Act are not present here, but conceding that such conditions exist, defendant could not be affected thereby, as it did not know that J. W. Brown, the original contractor, had entered into an agreement with J. D. Brown. If by a forced construction this section could be made to apply to the issues submitted herein, plaintiff could not, however, obtain the relief sought, because the deceased, J. D. Brown, was, according to his agreement with J. W. Brown, entitled to half of the profits the latter was to receive under his contract with defendant company, was therefore not an employee, but was also an independent contractor.
+The claim was properly rejected.
