@@ -1,0 +1,32 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "5288"
+decided: "1911-04-17"
+citations: ["8 Teiss. 307"]
+reporter: "teiss"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DR. T. S. ADAMS vs. LIVERPOOL AND LONDON AND GLOBE INSURANCE COMPANY. (In Re Petition of Woodville & Woodville, Attorneys.)"]
+source_url: "https://static.case.law/teiss/8/cases/0307-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1058427
+---
+
+# Adams v. Liverpool & London & Globe Insurance
+
+## Majority (GODCHAUX, J.)
+
+GODCHAUX, J.
+T. 3. Adams filed suit against the Liverpool and London and Globe Insurance Company to recover a loss under a fire insurance policy, and the insurance company having in its answer charged Adams with arson, he thereupon filed suits for damages against it, based upon this libelous defense.
+The attorney who represented Adams in the preparation and filing of these proceedings withdrew from the cases before the time of trial, and his successors, Messrs. Woodville & Woodville, prosecuted the insurance suit to a judgment in their client’s favor which was affirmed in this court.
+Adams vs. L. & L. & G. Ins. Co., 5 Ct. of App. 301.
+The attorneys collected for their client the amount of this judgment and rendered him an account thereof, charging him with the sum of $500 for services rendered in that particular suit,, and the further sum of $500 for attorney’s fees in the damage suits, which were then pending and which have not, as yet, been tried on the, merits. Adams disputed these charges, and the present proceeding, to test their correctness, is one filed by these, attorneys, wherein they have deposited in court and seek to compel Dr. Adams to accept, in full settlement of his. claim, the sum of $105.49, being the amount of the judgment collected, less the amount of these two disputed items and less sundry disbursements and payments concerning which there is no controversy. The lower court ordered Dr. Adams to accept the sum above named in full settlement and he prosecutes this appeal.
+The fee of $500 for services rendered in the insurance suit is claimed by the attorneys upon a quantum meruit and is resisted by Dr. Adams upon the ground that when they took charge of the case they expressly assumed and agreed to carry out a contract as to fees made by the attorney whom they succeeded and which provided for the payment of a cash fee of $50, an additional fee of $25, at the termination of the litigation whether the suit was won or lost, and a still further and additional fee, in the event of success, based upon the amount of recovery, the whole aggregating the sum of $234.50, of which $50 had already been paid to the original attorney before Messrs. Woodville & Woodville were employed.
+Dr. Adams knows nothing about the transaction, for with Ms consent, the negotiations covering the employment of Woodville & Woodville were conducted by the attorney originally engaged'. The latter testified simply that he disclosed to Messrs. Woodville & Woodville the terms of his employment, but his testimony does not indicate that the latter agreed to continue the case upon these terms. On the other hand, these attorneys deny that such a disclosure was made to them and testify that they knew nothing about the terms upon which the original attorney was employed until the present dispute as to fees arose. It devolved upon the client, who set up the contract as a defense, to establish its existence and this has not been done in the present instance. The testimony of the atorneys as to the non-existence of the contract is practically uncontradicted; and, moreover, it is hardly conceivable that they should have agreed to handle a case of such grayity and importance to their client upon the paltry basis claimed. The court concludes that there was no contract and is satisfied that the amount allowed upon a quantum meruit, namely $500, is reasonable compensation for the services rendered.
+The item of $500 for attorney’s fees in the damage suits presents greater difficulty because of the obscurity of the testimony and pleadings in regard thereto.
+In the pleadings the attorneys claim this fee upon a quantum meruit for services performed; in their account, annexed to their pleading,-they charge it up as a “retainer” and in their testimony they seek to recover upon the ground that Mr. Adams, while the insurance suit was pending, -repeatedly promised them that, if he recovered judgment upon the policy, he would allow them to retain out of the amount realized, a “handsome” fee in that suit as well as in the damage suits. It is clear that their right to retain muist be based solely upon the existence of this promise, for the right would not otherwise obtain.
+The testimony of the attorneys does not attempt to establish what amount of fee it was intended that they should be permitted -to retain land the record does not disclose what standard should he adopted in fixing, the amount, that is, whether it should be based upon -services performed, or upon -services to be performed, or by the adoption of an arbitrary sum as a. retainer. In fact the terms of the promise are too uncertain, since, from a consideration of all the circumstances nnder which it was made, the court is unable to ascertain the true intent of the parties as to the amount intended to be paid, or as- to the nature of the services intended to be compensated» The claim of the attorneys on this score will be rejected as in case of non-suit and the right will thereby be reserved them to demand compensation for their service-through proper and timely proceedings. The view tafeen of the case requires- an amendment of the judgment and for that purpose it will be recast.
+April 17, 1911.
+Rehearing refused, May 15, 1911.
+It is accordingly ordered- that tlie judgment appealed from be amended and to that end -it is recast -so as to read that there be judgment in favor of Dr. T. S. Adams, appellant, against Messrs. Woodville & Woodville, appellees, in the sum of $605.49 with five per cent, interest thereon from December 3, 1909, said judgment be satisfied in part out of amount deposited' in the registry -of the lower court; that the claim of appellees for -compensation for services án the damage suits, above referred to, be r< jecte-d as in case of non-suit, and that the costs of the lower -court be paid by appellant and the costs of the appeal by the appellees.
+Judgment amended.
