@@ -1,0 +1,34 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "347"
+decided: "1928-11-10"
+citations: ["9 La. App. 180"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MORRIS ET AL. v. YOUNG & DE BRITTON"]
+source_url: "https://static.case.law/la-app/9/cases/0180-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3324321
+---
+
+# Morris v. Young & De Britton
+
+## Majority (LECHE, J.)
+
+LECHE, J.
+Lee Morris was shot and killed on August 23, 1926, and the present suit is by Mrs. Tessie Morris, as widow, acting for herself and her three minor children. to recover compensation under the Employer’s Liability Act, from the defendants . in whose employ Lee Morris was at the time of his death.
+It appears that another suit on the same cause of action, was also brought against the defendants by Mrs. Tom East, who also claims to be the lawful widow of Lee Morris, but that cause it not pending in this Court, and therefore it requires no expression of opinion on our part as to its merits. We mention this for the reason that some question arose during the trial of the present case, as to the right of the plaintiffs herein to obtain compensation for the death of Morris. It seems that Morris was lawfully married to Mrs. Tessie Morris, one of the plaintiffs, and the mother of the other ¡plaintiffs, in the Parish of Calcasieu, February 3, 1910; that although a resident of Louisiana, he went to Texas and obtained a divorce from Mrs. Tessie Morris. Mrs. Tessie Morris says she was not notified in any manner of Morris’ demand for divorce, and that she only heard of it about four months before the death of Morris. Mrs. Tom East says that she was married to the deceased on the 17th of May, the same summer that he got his divorce. It does not appear clearly in what year this took place.
+The validity of the divorce obtained by Morris is raised in £he argument of the case. Mrs. Tessie Morris intimates that it was obtained by false swearing or through fraudulent practices, and she contends that she and her children were dependents of Lee Morris, who paid her alimony, in obedience to a judgment of the District Court of the Parish of Calcasieu, from 1923 to within a few months before his death. She says that the last time she heard from Morris was in June, 1926.
+Another defense presented in the case is that at the time Morris was killed he was not engaged in any hazardous trade, business or occupation.
+The third and the main defense in the case is: 1. That the killing was caused by the said Lee- Morris’ wilful intention to injure the negro (Curley Williams) who killed him.
+2. That the said injury was caused by the said Lee Morris’ deliberate breach of statutory regulations affecting safety of life and limb.
+3. That the said injury was due to the wilful misconduct of the said Lee Morris, and to his illegal and criminal actions.
+The case was tried and all these defenses were properly presented at one and the same time.
+The District Court rejected plaintiffs’ demand and they have appealed.
+At the time Morris was killed, the defendants Young and DeBritton were engaged in the performance of a road-building contract, entered into by them with the Louisiana Highway Commission. They were building a highway in the Parish of St. James, near Union Post Office, where they had brought a road-building outfit consisting of wagons, scrapers, mule teams and other paraphernalia generally used for the purpose.. Morris was employed by defendants to perform the duties of foreman of a small squad of levee laborers. Young, one of the defendants, terms him as “a small team foreman over 16 head of mules.”
+Morris and the laborers who worked under him lived in tents, erected near the road which was under construction. Morris and his second wife, who is now Mrs. Tom East, lived in one tent, a short distance from the tents occupied by the negro laborers. On the morning of the killing, Morris got up and went out. Mrs. Tom East says that he took his pistol and placed it about his person. A short while later, Morris came back to his tent to drink a cup of coffee and again left the tent. He then went towards that occupied by Curley Williams and the shooting began. There are four witnesses who testified to the manner in which the shooting was done, but a fair preponderance of the evidence shows that Morris approached Curley Williams’ tent with his pistol in hand, cursed and abused Williams, and was attempting to force him to go on the work where the other laborers had already gone. Williams came out of his tent, said that he was hungry and that he would go to work later or in the evening. Morris advanced towards him, jabbed him with his pistol, threatened, cursed and abused him; Williams then backed away and warned Morris not to advance any more, and it was then that Morris deliberately shot the negro.
+Williams was also armed- and only pulled out his pistol-after he had been shot. He fired at Morris and killed him on the spot. Curley Williams then started away and he, also, fell dead from the shots he had received from Morris. There are other unimportant details as to what occurred at the time, recited by the witnesses, in which there is some variance between them, hut the facts as stated and as we said before, are well established by a preponderance of the testimony and are sufficient for a proper application of the law pertinent to the case.
+The defense that plaintiff was not entitled to compensation, if any was due, and that Morris was not engaged in any hazardous trade, business or occupation need not be noticed or passed upon, as the third defense is abundantly sufficient to support the judgment rendered by the District Court.
+It is shown that defendants had warned Morris who was known to be of violent temper, not to go armed while performing his duties as foreman. They had expressly informed' him that the laborers who would be placed under his orders, were from the locality where the defendants lived, were well known to them, were, as they expressed it, their pet negroes, and should be treated gently and not. abused or harassed. Morris also knew that he was violating a criminal statute of this State in carrying a concealed weapon and that he had no right to coerce the laborers under him at the point of a pistol. We went out armed, for the deliberate purpose of cowing Williams, shot him without legal excuse or justification but was himself shot and killed by Williams who acted in absolute self-defense. The testimony presents a case covered by Section 28 of the Employer’s Liability Act and Morris has by his conduct debarred his dependents, if any, from recovering any compensation for the loss of his life.
+The judgment appealed from is affirmed.
