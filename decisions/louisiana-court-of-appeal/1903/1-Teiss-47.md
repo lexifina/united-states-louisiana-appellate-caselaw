@@ -1,0 +1,40 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "3262"
+decided: "1903-11-23"
+citations: ["1 Teiss. 47"]
+reporter: "teiss"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES A. CORBETT, Appellee, vs. J. W. THOMPSON, Appellant."]
+source_url: "https://static.case.law/teiss/1/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6758586
+cites_cases: ["45 A. 920"]
+---
+
+# Corbett v. Thompson
+
+## Majority (BEAUREGARD, J.)
+
+BEAUREGARD, J.
+Plaintiff and Appellee, with accompaning writ of attachment in the hands of the Texas & Pacific R. R. Co made garnishees, sued to recover an alleged indebtedness of $548.74; obtained .judgment therefor, with maintainance of his writ, and the dismissal of the reconventional demand for' $600 of the defendant, who appeals.
+The indebtedness claimed arose for the value of work done by the plaintiff with his marine pile driver in the driving of a certain number of piles for the defendant to construct a wharf in front of the Westwego Elevator in Jefferson Parish at the price per piling of 4 1-2 cents per foot1; and for the price due by the defendant for the leasing of plantiff’s said Marine Pile Driver fully equipped and its use for 30 1-2 days at $15 per day. And plaintiff asks either that the lease be recognized or that he should recover under a quantum meriut. And, he annexes to his petition an itemized statement of account and bill of particulars, showing the number of piles driven by his pile driver; the amounts he received; and the list and value of the various tools and other appliances forming his pile driver equipment which were turned over to the lessee, but which were either lost or destroyed and were never returned to him.
+The defendant, on the other hand, admits existence of the contract, but urges its violation by plaintiff's’abandonment of his work; thus compelling the defendant to undertake and complete said work at a cost of 6 1-2 cents per foot per piling; or a difference of 2 cents, or a total loss of $600, which he prays for in reconventiqn.
+He further denies the existence of any agreement for the lease of plaintiff’s Marine Pile Driver; but admits its use at no stioulated price. And urges that Plantiff’s demand for $15 per day for its use is extortionate and should not exceed $10 per day.
+The items of plaintiff’s statement and account are specifically proven and there is no countervailing prooí in this respect.
+He urges and is sustained by a number of witnesses that, according to the usage of the Port of New Orleans, the piling which should have been furnished him for his work should have been what is called “ floating timber.” That he consumed (or used) up to the extent of those enumerated in his statement, all of those which the defendant had furnished him and that when he saw that he would have been compeled to fish for what is termed “ sunken or water soaked timber” he demurred; and seeing that the carrying out of the contract would have been in violation of what he expected, an onerous one, he notified the defendant or his superintendent and agent that he (plaintiff) refused to proceed further.
+Defendant in substance says that if he went on with the work, plaintiff could have done the same; that he raised the sunken piling or timber, which sank owing to the delay in going on with the work granted to the plaintiff, who, whilst at work on the wharf, obtained his permission to suspend it for a few days to do other piling work for some other party, the coal fleet, where the marine pile driver was towed, and where it remained in spite of defendant’s earnest entreaty to the plaintiff to bring it back, which defendant was compelled to do, seeing that plaintiff would no longer proceed with the work, and that then, beng unable to obtan elsewhere any marine pile driver, he was compelled to use plaintiff’s; for the use of which he demanded at first $10,'then subsequently $15, and that his superintendent and agent refused to sign the project of lease submitted to him without his (the principal’s) authorization to that effect.
+As it is true, as in this case, that where the parties omit tc stipulate in their contract the methed of its execution, the custom of the place or business will govern. 45 A. 920. Plaintiff could not otherwise expect but thatTSoating timber would have been furnishec. him by the defendant; whereas the evidence shows that nearly 80 per cent, of that timber was sunken timber.
+His execution of such a contract would have been one onerous and which did not enter into his contempllation. Lumber sinks, say some of the witnesses, where it is full of sap, otherwise it will float for an indefinite time. So it could hardly have been a delay in the work of eight or ten days, when plaintiff undertook work elsewhere, which could have so affected that timber as to cause its sinking and necessitated the additional work for which the contract did not provide. Furthermore, the del'av was attributable to the defendant’s agent who gave to plaintiff the permission to suspend his work for work somewhere else.
+However this may be, as to defendant's own fault in contributing to this delay, he urges that plaintiff’s failure to proceed under his contract was an active violation of same; that no putting in mora was a prerequisite,1 and that the loss sustained by the defendant in completing the wharf at a difference of 2c more per foot per piling is recoverable.
+A contract may be violated says the C. C. either actually by doing something inconsistent with' the obligation proposed or passively by not doing what was convenated to be done; or not doing it at the time or m the manner stipulated or implied from the nature of the contract. R. C. C. 1931.
+There can be no question, it seems, that on plaintiff notifying the defendant that he had stopped, that he conveyed to the knowledge of the defendant that he (the plaintiff) would no longer dc what was covenated to be done.
+That this amounted to a pássive violation of contract, and called either for a protest, or a notice, or a putting in default, or a notice that the work be done at his expense.
+This putting in default is lacking in the answer and the claim for damages is not entertainable.
+Furthermore, and as mentioned by appellee in his brief, two substantial objections exist as to defendant’s recovery; 1st, defendant’s claim for damages is stated in globo and depends on hearsay evidence; 2nd, the testimony of the witnesses was heard by the Judge aquo, (except as to that of the defendant under commission and in St. Louis) and his appreciation of its value concords with that of this Court. Credence must be given to that elicited from the witnesses for plaintiff with regard to the usage of the Port of New Orleans; the condition of timber for pile driving purposes, and furthermore, to the renting of a marine pile driver, and to which reference will be had hereinafter.
+It is immaterial, in this case, whether or not the lease fixing the price for the marine pile driver was signed by the detenaant or agent who had, as he stated in one of hiá letters to plaintiff, ful control of the- matter for which he wished to engage the former’s services; notwithstanding the plaintiff’s alleged default on his contract, this agent secured the use of this marine pile driver, with which he brought his wharf to completion.
+The value for the use of such a pile driver is almost unanimously fixed by the witnesses at $15 per day. And the lower Court accepted their estimate.
+It would be well to- mention that, inasmuch as the amount garnisheed in the hands of the railroad company, was bonded by the de' fendant, the garnishees were, on their exception, put out of court.
+November 23, 1903.
+From a' careful consideration of tihe record, the appreciation of the evidence by the lower Court a qua and the very helping briefs ol counsel1, this court fails to detect any error in the conclusion reached by the' Court' a qua. It is, therefore, ordered that the judgment appealed from be and it is herein affirmed.
