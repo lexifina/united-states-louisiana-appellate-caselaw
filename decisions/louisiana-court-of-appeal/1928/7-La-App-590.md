@@ -1,0 +1,60 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "11,165"
+decided: "1928-02-27"
+citations: ["7 La. App. 590"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HOLMES CO., LTD., Appellant, v. HILLER"]
+source_url: "https://static.case.law/la-app/7/cases/0590-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3315617
+cites_cases: ["109 La. 302", "109 La. 303", "109 La. 524", "121 La. 683", "130 La. 100", "144 La. 571", "150 La. 196", "151 La. 254", "160 La. 407", "2 La. App. 317", "2 La. App. 376", "30 La. 392", "30 La. Ann. 392", "33 So. 585", "90 So. 566"]
+---
+
+# Holmes Co. v. Hiller
+
+## Majority (CLAIBORNE, J.)
+
+CLAIBORNE, J.
+This is a suit for $158.36 balance due on an account for merchandise sold and delivered.
+The plaintiff alleged that on January 5th, 1926, the defendant admitted that he owed plaintiff one hundred and fifty-six and 36-100 dollars; that he agreed to take care of said debt within a reasonable time but that he has failed so to do.
+By a supplemental petition the plaintiff filed a statement of accounts with the defendant showing the items of merchandise sold and delivered to the defendant from September 30th, 1920, to May 26th, 1922, inclusive, together with the payments made on account, the last payment having,been made on May 18th, 1923, by which statement it appeared that on that date, May 18th, 1923, there remained a balance due of one hundred and fifty-eight and 36-100 dollars.
+It thus appears that a period of two years seven, months and seventeen days intervened between the last payment on account, May 18th, 1923, and the alleged acknowledgment of the debt, January 5th, 1926.
+The defendant pleaded the “prescription of three years, as provided by Article 3538 of the Civil Code”, and a general denial.
+There was judgment maintaining the plea of prescription and dismissing plaintiff’s suit.
+Plaintiff has appealed.
+Upon the trial of the case on the exception and the merits, Robert Leinhard, assistant secretary and treasurer of the plaintiff company, testified that in the early part of January, 1926, a few days after they filed suit against Mr. Hiller, he called at his office at D. H. Holmes & Co. and told him he had filed an answer to their suit, but the reason that he did it was to gain a little time as he was expecting some money, and that money would reach him in a short time, but by filing an answer he would gain a little time; his intention was to pay the debt; he promised to pay it when the money came in which he was expecting; the amount sued for is correct because the accounting and credit department is under his direct supervision; he acquires his knowledge from the books, and if any complaints had been made about the account being incorrect, 'he would know about it.
+The defendant, Edwin J. Hiller, did not testify; therefore the testimony of the witness, Leinhard, remains uncontradicted and must be taken as true and establishing the correctness of plaintiff’s claim. The law requires only a preponderance of evidence and not moral certainty. X Starkie 514; Rose vs. Shaw, 144 La. 571, 80 So. 727; Dunn vs. Fire & Marine Ins., 109 La. 524, 33 So. 585; Goepper vs. Lusse, 30 La. 392.
+In the case of Horton vs. Haralson, 130 La. 100, 57 So. 643, which was a suit on open account, of merchandise sold, the defense was that the accounts were not sustained by sufficient proof. The Court said:
+“The testimony made out at least prima facie proof, and it was then for the defendants to prove wherein the testimony was not sufficient for the purpose offered.” Goepper vs. Tusse, 30 La. Ann. 392.
+But the defendant contends that neither partial payments on account set forth in the itemized statement annexed to the petition nor the verbal acknowledgment of the account made by defendant to Leinhard are sufficient to operate as an interruption of the prescription of the account, because the law requires an acknowledgment in writing of the debtor. He relies upon Article C. C. 3538, as amended by Act 78 of 1888, p. 8’6, which reads as follows:
+“The following actions are prescribed by three years:
+“That on the account of merchants, whether selling for wholesale or retail * * *. That on all other accounts. This prescription only ceases from the time there has been an account acknowledged in writing, a note, or bond given or an action commenced.”
+The last item sold by the plaintiff as appears hy the itemized account annexed to its petition is May 26th, 1922. This suit was filed January 11th, 1927, or four years, seven months and twenty-five days thereafter. Therefore, on the date of the filing of this suit the claim sued on was prescribed, unless the several partial payments made by the defendant in the years 1921, 1922, and May, 1923, or the verbal acknowledgment made by the defendant in January, 1926, proven by the above testimony operated an interruption of the prescription.
+In the case of Bennett vs. Wakeman, 2 La. App. 376, the court said on p. 379:
+“It is true also that a payment on a debt liquidated and certain interrupts prescription thereon; the payment being equivalent to an acknowledgment of the correctness of the account or debt.” C. C. 3520; 6 La. Dig., S. 167, p. 184; Whitworth vs. Ferguson, 18 Ann. 602; Walker vs. Cruikshank, 23 Ann. 252, 703; Lewis vs. Am. Creosote Works, 150 La. 196, 90 So. 566.
+This statute of 1888 has been the subject of various and varying, interpretations although apparently so plain in language.
+In the case of Sleet vs. Sleet, 109 La. 302, 33 So. 322, (1903), the court said on page 308:
+“The only change that the statute makes in the article amended is in substituting for the wards, ‘all other open accounts,’ the words, ‘all other accounts,’ and the effect is that the prescription denounced is now made to apply to accounts stated or rendered, and verbally and tacitly acknowledged, as well as to open accounts not so acknowledged,” while the prescription of ten years only would apply to accounts acknowledged in writing.
+In the case of Block vs. Papania, 5 Orl. App. 88, decided in 1908, the court said:
+“Since the enactment of Act 78 of 1888 amending Art. C. C. 3538 a verbal promise before prescription has accrued is not sufficient to interrupt prescription.” Judge Moore dissenting.
+On a writ of review, Block vs. Papania, 121 La. 683, 46. So. 694, the Supreme Court decided in April, 1908, that:
+“The object and effect of Act 78 of 1888 is not to prohibit proof of an interruption of 'the prescription running upon accounts sued on which are governed by that prescription by reason of parol evidence, but to prevent such evidence, when received, having the effect of shifting the prescription of three years applicable to those accounts to a prescription of ten years.”
+The present decision in no wise departs from that of Sleet vs. Sleet, 109 La. 303, 33 South. 322.
+This decision was followed by 'this court in 1913 in Ludwig vs. Sussman, 10 Ct. App. 169, when the court said:
+“Oral acknowledgments of open accounts serve only to interrupt the three years prescription, which thereupon begins to run anew; but from the time of an acknowledgment in writing said prescription (of three years) ceases to run, and a new and longer prescription begins to-wit: the prescription of five or ten years, according to the form given to such acknowledgment, by mere writing, or by a note, or bond.” 151 La. 254 (262).
+In the case of Harper vs. Barton, 2 La. App. 317, Second Circuit (June 6th,, 1925) the court said:
+“Under Article 3538 of the Civil Code, as amended by Act No. 78 of 1888, items in an account over three years old at the time suit is brought are prescribed.”
+In that case the court disregarded partial payments made on account, ruling that a written acknowledgment alone could interrupt prescription, under the decision in Sleet vs. Sleet.
+But in Bennet vs. Wakeman, 2 La. App. 376 (June 13th, 1925) the same court decided (p. 381) that it “must be governed by the settled jurisprudence as announced in Block vs. Papania,” 121 La. 683. In an exhaustive and lucid opinion the court said that the Question before it was as follows: “We are to pass only upon the Question as to whether prescription on an open account can be interrupted otherwise than by a written acknowledgment of the account or by the giving of a note or a bond for the indebtedness.”
+The court said: “It is our conclusion that the act referred to (1888) has no reference whatever to the interruption of prescription on open accounts. The Code does not say, nor does it imply, that prescription cannot be interrupted except by writing.” The court then proceeds to decide that in case of a written acknowledgment of the account, it becomes prescribed by the ten years prescription instead of the prescription of three years which applies to all other accounts acknowledged otherwise than in writing. The syllabus reads as follows:
+“A written acknowledgment of an open account is not necessary to interrupt prescription under Article 35'38 of the Civil Code. A verbal acknowledgment of the debtor will suffice.”
+But whatever fluctuations might have existed, the case of Bennett vs. Wakeman, 160 La. 407, 107 So. 286, anchors the jurisprudence. In that case, decided in January, 1926, the court affirmed Bock vs. Papania, 121 La. 683, 46 So. 694, and said:
+“Parol acknowledgment of account interrupts three years prescription, but it does not shift prescription of three years to one of ten years.”
+But it is contended that inasmuch as all partial payments on account must be Imputed under Article C. C. 2166 “to the debt which has been longest due,” the partial payments made by Hiller must be presumed to have been made by him as an acknowledgment alone of the items “longest due” and as a payment of them “pro tanto leaving unacknowledged and prescribed all other subsequent items which the partial payments did not extinguish. The argument refutes itself. If correct, it would have this result that a partial payment on an account composed of sundry items, some prescribed, and others not prescribed, the debtor’s partial payment would be imputed to an item prescribed leaving the others outstanding. But we are of the opinion that a partial payment made on an acknowledged account is an acknowledgment of indebtedness of each and every item ojf the account and of the balance due on said account on the date of the partial payment. It is not the payment on account of any particular item composing the account, but a partial payment and acknowledgment of the account as a whole for the balance due on the date of said partial payment. If the debtor intended to extinguish any particular item it was for him to designate it. He can no more restrict his acknowledgment to the debt longest due than to the one he had “most interest in discharging”.
+But in addition to the above, the allegation and the proof in this case are that Hiller acknowledged awing the amount sued for, which was the balance of the account he had contracted with the plaintiff and that he promised to pay the same. There is no question of imputation of payment involved in .this acknowledgment. It is an acknowledgment of the correctness of the account sued upon as a whole, and not divided into items. That acknowledgment interrupted the prescription of the balance due upon the account, as an account, whatever might be said of the items composing it.
+The plea of prescription was ’embodied in the answer on the merits and both tried together.
+This enables us toi pass upon the merits, and we find that the plaintiff has established the correctness of his demand.
+It is therefore ordered that the judgment herein be reversed and annulled. It is further ordered that the plea of prescription of three years filed herein be overruled, and it is now ordered that the defendant, Edwin J. Hiller, he condemned to pay to the plaintiff herein, D. H. Holmes Company, Ltd., one hundred and fifty-eight and 36-100 dollars with five per cent per annum interest fro(m January 5th, 1926, till paid and all costs.
