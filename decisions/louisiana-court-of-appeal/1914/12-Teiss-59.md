@@ -1,0 +1,40 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "6192"
+decided: "1914-11-09"
+citations: ["12 Teiss. 59"]
+reporter: "teiss"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MRS. ELIZABETH McCUE, WIDOW OF WM. C. McCOWEN, vs. W. M. BARNETT, ET AL."]
+source_url: "https://static.case.law/teiss/12/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 666428
+cites_cases: ["12 A., 246", "14 A., 327", "2 A., 496", "39 A., 397", "41 A., 209", "49 A., 114"]
+---
+
+# McCue v. Barnett
+
+## Majority (His Honor, CHARLES F. CLAIBORNE,)
+
+His Honor, CHARLES F. CLAIBORNE,
+rendered the opinion and decree of the Court, as follows:
+Plaintiff alleges that by act before Woulfe, notary, dated June 1st, 1911, she mortgaged her property for $1,500, to represent which she subscribed a note for said amount dated June 1st, 1911; that she signed only one note for said amount, but that she has been informed that there are outstanding four notes of the same amount and date purpurting to have been signed by her and to be identified with the above act of mortgage, and that these notes are held by 1, Mrs. Walter M. Barnett, 2, Emile L. Schlieder, 3. Thomas J. Kilbridge, and 4. Demcy D. Colley; that only one of said notes is genuine, and the other three are therefore forgeries; that plaintiff cannot tell which one of said four notes is the genuine one; that she is entitled to an injunction to restrain the seizure and sale of her property until it be judicially ascertained which is the genuine note; she deposited in Court the sum of $1,500.00 with interest, causes the four holders of the four notes to be cited, and she prays for judgment in favor of the holder of the genuine note.
+Kilbridge claimed to be the holder of the genuine note, but afterwards abandoned his claim. His testimony, p. 7.
+Colley asked to be declared the holder of the genuine note, but subsequently abandoned his demand. Admission, p. 23.
+Two defendants alone remain, Mrs.- Barnett and Schlieder. Both claim to be holders of a genuine note and ask judgment accordingly.
+As to the note held by Mrs. Barnett:
+The plaintiff swears that Schlieder holds the genuine note; she is 70 years old; she signed the $1,500 note on June 1st, she did not see Mr. Titche at Woulfe’s office on that day; she did not sign the note at the same time •as the act of mortgage; she signed the act in the morning, but in the afternoon of June 1st Woulfe came up to her house and told her that the gentleman from whom he was getting' the money would not accept it until he saw her sign the note, and she came down town with Woulfe to his office and signed the note in Schlieder’s presence; that was on June 1st, and not in October, 1911; she does not remember that Titche called on her with Barnett at her house; she handed' the note to Schlieder on June 1, on the day she signed it; being handed the three notes, she cannot tell which one she signed; being shown a docu-' ment attested by Loomis, notary, as having been signed by her on May 12th, 1912, she denies having signed it.
+Loomis, the notary, testifies that a woman introduced to him .as Mrs. MeCowen did sign the document in his presence.
+Bernard Titche, attorney for Mrs. Barnett, testifies that on June 1st he called at the office of Woulfe, who introduced him to Mrs. MeCowen; on being shown the act of mortgage and note, she acknowledged that it was her signature affixed to them; he saw Mrs. MeCowen afterwards at her house, and he has no reason to believe that she is not the person he met at Woulfe’s office; the next day Mr. Barnett gave Woulfe a check and took up the note; Mrs. MeCowen admitted that Woulfe had her to sign “another” note and was puzzled to know why it was. Mr. Barnett testified that he purchased this note for account of his wife on June 2 from Woulfe by check which, he produced. Mr. Schlieder testified that he purchased his note on October 31st, by check which he produced; that Mrs. Mc'C'owen signed the note in his presence .and that he took it from her hands; that he had refused to take the note unless it was signed in his presence; that Woulfe drew up another note of same date June 1st, .and had Mrs. McCowen to sign it, and in his presence and in the presence of Mrs. McCowen destroyed a note which he represented to be the original note, and he paid capital and interest of that note up to October 31st, say $1,543; he saw the original note in Woulfe’s hands; he made his check to Woulfe’s order at Mrs. McCowen’s request.
+Mrs. McCowen’s testimony is contradicted by that of Titche and Schlieder in many respects. While she declares she signed only one note she says she signed it on June 1st. Schlieder swears positively that she signed it on October 31st, in his presence, and she says she signed it in Schlieder’s presence. In the presence of this conflict of testimony between the plaintiff on one side, a confiding and inexperienced person, .and Titche and Schlieder, on the other, men of established business abilities and recognized integrity, we believe the weight of evidence is in favor of the latter, and that in reality, the plaintiff signed two notes, the one held by Mrs. Barnett and the .other held by Schlieder. Although she testifies that Schlieder had the genuine note she was unwilling to testify which of the four notes was genuine or that the note held by Mrs. Barnett had not been signed by her.
+Mrs. McCowen practically admits this when she testifies that she went down to Woulfe’s office to sign a note in the presence of Schlieder, who would not take her note unless he saw her sign.
+We think that Mrs. Barnett is also entitled to the attorney’s fees provided by the act.
+39 A., 397; 41 A., 209 (216); 49 A., 114 (158) 1731.
+She is also entitled to interest and costs until paid fox-two reasons; 1. The tender was not made for a sufficient amount, and, 2, it was not made to her, and it did not authorize her to withdraw the money.
+C. P., 407; 2 A., 496; 14 A., 327; 12 A., 246; C. C., 2168.
+It is therefore ordered that the judgment of the District Court be affirmed, in so far as it decrees that Mrs. Faxmie Lion, wife of Walter M. Barnett, have judgment against the plaintiff and her co-defendants recognizing her .as the exclusive owner of the original .note of fifteen hundred dollars dated June 1st,-1911, drawn by Elizabeth McCue, Widow of William McGowexx, secured by mortgage act of James J. Woulfe, notary, of same date, on the property described therein, and of the sum of one thousand seven hundred and one 87/100 dollars deposited in the registry of the Court, and that the clerk .of the District Court pay the same over to her on demandj and that the demand of Demcy D. Colley and Thomas J. Kilbride be rejected and dismissed at their cost, and that in all other respects said judgment be reversed.
+It is further ordered that there be judgment condemning the plaintiff, Elizabeth McCxxe, Widow of William McCowen, to pay the defendant, Fannie Lion, Wife of Walter M. Barnett, the sum of fifteen hundred dollars with seven per cent, per annum interest from June 1st, 1912, until paid, with five per cent, attorney’s fees thereon and all costs of both Courts, subject to a credit of whatever amount she may receive from the Clerk of the District Court in capital and interest from the sum deposited in the registry of the Court, together with a first mortgage on the property described in the act of Jas. J. Woulfe, notary, dated June 1st, 1911.
+Opinion and decree, November 9th, 1914.
+Rehearing refused, December 7th, 1914.
+It is further ordered that there be judgment condemning the plaintiff, Elizabeth McCue, Widow of William C. McCowen, to pay the defendant, Emile L. Schlieder, the sum of fifteen hundred dollars with seven per cent per annum, interest from June 1st, 1912, till paid, with five per cent attorney’s fees thereon and all costs of both Courts, together with a second mortgage on the property described in the act of Jas. J. Woulfe, notary, dated June 1st, 1911.
