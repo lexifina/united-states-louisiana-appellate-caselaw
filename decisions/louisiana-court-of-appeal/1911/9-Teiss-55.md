@@ -1,0 +1,38 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "5482"
+decided: "1911-11-20"
+citations: ["9 Teiss. 55"]
+reporter: "teiss"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE ex rel. METROPOLITAN BUILDING COMPANY vs. E. K. SKINNER, Judge."]
+source_url: "https://static.case.law/teiss/9/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2812878
+cites_cases: ["108 La. 204", "109 La. 491"]
+---
+
+# State ex rel. Metropolitan Building Co. v. Skinner
+
+## Majority (GODCJIAUN, J.)
+
+GODCJIAUN, J.
+This is an 'application for a writ of mandamus to compel the lower Court, to grant in the matter therein pending', entitled, “Metropolitan Building Company versus Mrs. Electa Boyle, wife of Joseph B. Cabell,” a suspensive appeal to relator from an order permitting the defendant to dissolve on bond a writ- of injunction issued at the instance of relator, plaintiff below. "
+The motion to bond the injunction was heard, submitted and decided below on the face of plaintiff’s petition, the substantial allegations of which are to the following effect;
+That plaintiff, the Metropolitan Building Company, was engaged, as building contractor, in constructing a residence for’ defendant, Mrs. Electa Boyle, under a written contract which provided that payments should be made at periods fixed according to the progress of the work in installments of $1,416.25 each; that the first installment had been earned by plaintiff and had been duly paid; that such progress in the work had now been made as to entitle plaintiff to its second payment, but that defendant, wrongfully and erroneously conténdíng that the work done was defective and that the second installment was not due and had not been earned, not only refused to pay same, but, pretending that plaintiff had violated its contract, had ordered plaintiff’s workmen to “quit work and leave the building” and had taken possession of same and has posted large signs thereon'“notifying the public that the owner had.taken charge of same.”’ The petition then alleges that, unless prevented' by writ of injunction, plaintiff will suffer irreparable injury, not compensable in money, because defendant “will destroy and tear down the work erected by plaintiff, thus changing the status quo and preventing an inquiry into petitioner’s rights in the premises,” and will endeavor to “complete the house at great expense which will be charged against petitioner,” and, by employing workmen and completing the residence, “after posting the public notices herein referred to * * *” defendant will completely “discredit petitioner in the contract world, ruin petitioner’s business and destroy its credit as contractor with surety companies.” The petition concludes with a prayer for judgment for the amount of the second installment, and for a writ of injunction restraining defendant from doing the things complained of.
+I.
+•Relator first contends that it is entitled to a suspensive appeal because the foregoing allegations disclose that the acts of defendant sought to be restrained and which the bonding of the injunction will authorize the defendant to perform, are such as will cause it irreparable injury.
+In matters pertaining to the bonding of injunctions, it is well settled that no injury is irreparable which is compensable in money.
+See Feitel vs. City of New Orleans, 4 Court of Appeal, 144 and other authorities therein cited.
+Accordingly the pertinent inquiry is whether or not the anticipated injuries complained of are compensable in-money. In this connection it is clear, that if, as alleged, the completion of the building and the posting of the public notices by defendant will serve to “discredit petitioner in the contract world, ruin petitioner’s business and destroy its credit as contractor with surety companies, ’ ’ whatever damage plaintiff will suffer in these respects -can be amply compensated by a monetary judgment.
+So, also, it is difficult to perceive how the completion of the building at a greater expense than the facts would justify can result in damage to plaintiff; for if the expenditure for completion extends beyond the necessities of the case and are consequently not justifiable, plaintiff cannot be taxed with the burden thereof, and even if so taxed, defendant’s damage could certainly be measured by a monetary standard.
+It is equally difficult to understand how “an inquiry into relator’s rights in the premises” will be prevented-should the defendant “destroy and tear down the work erected by plaintiff,” for it does not appear from the petition that this concrete evidence of the performance of plaintiff’s contract will furnish the sole means of establishing the fact of sunk performance. The usual and normal manner of establishing the performance of the contract obligation is by the testimony of witnesses acquainted with the fact, and, in the present instance, it is not shown that plaintiff’s workmen and artisans who participated in the erection of the work will not be avail-' able for the purpose of testifying to the manner in which this work was performed. Incidentally, it may be noted that the probabilities of this concrete evidence being destroyed are remote, for the reason that such destruction would operate as effectively and as adversely against defendant in her-effort to establish that the work was improperly or defectively executed, as it would against relator in its effort to prove its proper- • execution. Finally it may be said upon this score, that the failure.to establish the proper performance of the contract can result in no greater damage to the plaintiff than its inability in this suit to establish its right to recover, in whole or in part the amount sued for, and this damage is fixed and calculated in the petition itself and is clearly compensable in money.
+II.
+Eelator bases his right to an appeal upon the further ground that the conditions expressed in the bond upon which the injunction was dissolved are not in accordance with the requirements of C. P. 307.
+This variance is immaterial, for judicial bonds are constructed by the laws under which they are executed and the bondsman is held, not as he has bound himself, but. as the law under which the bond is given requires that he should be held.
+Speyrer vs. Miller, 108 La. 204, 211.
+St. Charles Street R. R. Co. vs. Fidelity & Deposit Co., 109 La. 491.
+Nor is the complaint as to the insufficiency of the bond well founded. We do not understand that the amount of the bond is to be measured or controlled by plaintiff’s claim on the main demand, that is, by the amount of the second installment. On the contrary, as tersely stated in counsel’s brief in support of the return of the respondent Judge; “Plaintiff cannot expect to improve his condition by an injunction, for the purpose of the injunction is to prevent an injury to an existing right and not to create a new right by creating a new security for the payment of the claim.” The plaintiff does not' attempt in its petition to estimate the amount of damage that has been or will be suffered by it by the commission .of the acts sought to be enjoined, nor does the record otherwise disclose any data upon which an approximation could be made, or which would furnish a basis for the conclusion that the bond provided is insufficient in amount to fully protect the parties at interest. Under such circumstances, the exercise by the lower Court of ■the discretion vested in it in fixing the amount of the bond should not be disturbed.
+November 20,1911.
+It is accordingly ordered that the rule nisi be recalled and that relator’s application be dismissed at its cost.
