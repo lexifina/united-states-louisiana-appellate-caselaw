@@ -1,0 +1,35 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "8928"
+decided: "1925-04-27"
+citations: ["2 La. App. 150"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PENICK & FORD, LTD., INC., Appellant, v. JAMES C. DAVIS, DIRECTOR GENERAL OF RAILROADS, AGENT OF THE UNITED STATES."]
+source_url: "https://static.case.law/la-app/2/cases/0150-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3291177
+cites_cases: ["155 U. S., 610", "203 U. S. 390", "206 U. S. 314", "250 U. S. 135", "264 U. S. 456", "265 U. S. 257", "294 Fed. 362"]
+---
+
+# Penick & Ford, Ltd. v. Davis
+
+## Majority (BELL, J.)
+
+BELL, J.
+On February 27, 1922, plaintiff brought suit in the Civil District Court for the Parish of Orleans, for $417.95 for loss from or damage to two shipments of molasses made by it from New Orleans, La., one on March 30, 1918, to. New York City, and the other on February 27, 1918, to Boston, Mass. These shipments, it was averred, were delivered to the Director General of Railroads for transportation by steamers of the Southern Pacific System, whose property was then in the possession of, and was being operated by, the Director General as a common carrier for hire. Federal control having terminated on February 29, 1920, the action was brought against the Agent appointed by the President in accordance with Section 206 (a) of the Transportation Act, 1920 (Act of February 28, 1920, 41 Stat. L., 461).
+The Federal Agent appeared and pleaded the two-year prescription provided by Act No. 223 of the General Assembly of the State of Louisiana, passed at the Regular Session of 1914:
+“All actions for loss of or damage to shipments of freight shall be prescribed by two years, said prescription to run from the date of shipment.”
+The plea of prescription was maintained by the District Court and suit dismissed. Plaintiff appeals.
+This appeal presents but one question, that is, whether the Louisiana Statute, Act 223 of 1914, applies in barring an action admittedly brought as to both shipments more than two years after dates of shipment, against defendant as agent of the United States, in accordance with Section 206 (a) of the Transportation Act, approved February 28, 1920.
+Section 206 (a.) of the Transportation Act provides that:
+“Actions at law, suits in equity and proceedings in admiralty, based on causes of action' arising out of the possession, use, or operation by the President of the Railroad or system of transportation of any carrier (under the provisions of tifa Fed- • eral Control Act, or of the Act of August 29, 1916) of such character as prior to Federal Control could have been brought against such carrier, may, after the termination of Federal control, be brought against an agent designated by the President for such purpose, which agent shall be designated- by the President within thirty days after the passage of this Act. Such actions, suits, or proceedings may, within the periods of limitation now prescribed by State or Federal Statutes but not later than two years from the date of the passage of this Act, be brought, in any court which but for Federal control would have had jurisdiction against the cause of action had it arisen against such carrier.”
+It is contended by counsel for plaintiff that, under the correct interpretation to be given the above-quoted section of the Act of Congress that the State Statute (223 of 1914) if at all applicable, cannot be so applied as to prescribe the action of plaintiff in this case; that while Congress, with the return of carriers to private control, intended by the Transportation Act to provide methods by which all claims arising during the period of Federal control should be thenceforth disposed of, that it did not intend by said section of the Act to adopt all of the States’ Statutes of limitation which were then in existence; that “Congress (quoting from plaintiff’s brief) did not disregard this entirely, nor did it adopt them wholly, but it did adopt the periods provided for in such statutes, conditioning such adoption on this — that such periods should run only from the date of the adoption of the above-quoted section of the Transportation Act. In other words, if we •understand counsel’s contention, it is argued that it was the intent of Congress to extend, wherever extension was possible, the period of limitation designated under a particular statute, to some additional period, not, however, beyond two years from the date of passage of the Act. We are of the opinion that such construction would do the greatest violence to the expressed language found in the Act. It should be noted that while granting consent to the bringing of actions therein designated against the Federal Agent, the consent is given 'on the definite contingency ■or condition that such suits be brought within the period of limitation, where designated; that is, within the periods of limitation now prescribed by State or Federal statutes, but not later than two years from the date of passage of this Act.
+The argument of counsel for defendant, supported by highest authority, is to the effect that the condition under which the United States Government consents to be sued through its Federal Agent, is a condition the language of which should • be strictly construed. With this view, we are in entire accord.
+In Davis vs. Donovan, 265 U. S. 257, 263, the United States Supreme Court held as follows:
+“During the year 1919 the United States were in possession and complete control by the Director General of the important railroad systems throughout the country. Northern Pacific Ry. Co. vs. North Dakota, 250 U. S. 135. As the representative of the United States he was subject to be sued for the purposes, to the extent and under the conditions prescribed by statute and orders issued thereunder — and not otherwise. DuPont De Nemours & Co. vs. Davis, 264 U. S. 456.”
+See also Davis vs. O’Hara, 206 U. S. 314-317, in which it was held in an action against the United States that the railroads were taken over and operated by the United States in its sovereign capacity, and that the sovereign’s immunity from suit was waived only to the extent indicated by statutes and orders of the Director General.
+Prescription on actions against carriers for loss of, or damage to, shipment of goods is that which is provided by the law of the forum in which the action is brought. (17 Ruling Case Law, 694, 695; Campbell vs. Haverhill, 155 U. S., 610, 613; Chattanooga Foundry Co. vs. City of Atlanta, 203 U. S. 390, 397; Boman vs. Southern Menhaden Corporation, 294 Fed. 362.
+Applying Act 223 of 1914 to the facts of this case, as previously discussed, we' are of the opinion that the judgment maintaining the exception of prescription herein pleaded is correct and should be affirmed.
+It is, therefore, ordered, adjudged and decreed that the judgment herein appealed from be and the same is hereby affirmed, at plaintiff’s costs in both courts.
