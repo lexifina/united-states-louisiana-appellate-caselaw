@@ -1,0 +1,53 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "4733"
+decided: "1909-05-31"
+citations: ["6 Teiss. 348"]
+reporter: "teiss"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN BROGAN VS. BLACK & LAIRD ET AL."]
+source_url: "https://static.case.law/teiss/6/cases/0348-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6759877
+---
+
+# Brogan v. Black
+
+## Majority (ESTOPINAL, J.)
+
+ESTOPINAL, J.
+Plaintiff sued to recover of the defendants the siim of Three Hundred and Eighttv-eight Dollars and Seventy Cents ($388.70), averring in his petition that his residence, situated at the corner of Chestnut and Third Streets, was damaged to that extent as a result of an excavation in front thereof, for the purpose of laying sewerpipe, made by direction of the Sewerage and Water Board by the defendants, Black & Laird, contractors for said work of installing sewer pipes.-
+Plaintiff alleges in his petition that the contracting firm, made defendants herein under direction of the Sewerage and Water Board, made a deep excavation in said street under the sidewalk immediately adjacent to petitioner’s property and extending along the entire front thereof on said street, and that in making said excavaion no proper precautions were taken by either of the defendants to prevent injury or damage to his property; that the work was done so negligently as to remove the lateral support of the soil upon which his house and other improvements rested, causing his ground to settle and causing him great damage, etc.
+Defendants contend first, that the damage was not the result nf their acts, and second, that they exercised due care in laying! the sewer in order to* avoid damage to property, and that the damage if any, is damunum absque injuria.
+The judgment below was for defendants, and it appears to us to be correct, at least in so far as it absolves the present defend ants of liability for the damage done plaintiff’s property, but it was error to have dismissed absolutely the demand of plaintiff. His suit should have been dismissed as in case of non-suit.
+We have examined the record carefully and our conclusion is that the plaintiff ha snot made out his ease with the legal certainty which is required.
+He has failed to support by sufficiently positive evidence several of the crucial allegations of his petition. The averment that the excavation made by the defendants was under the skleiualk is shown by the evidence not to be the fact.
+The excavation on the front of the properties was so made. i. e., under the sidewalk, but when the work of excavation was being done some distance away from his house, plaintiff warrem the contractors that they must be careful when performing their work in front of his premises, because he feared injury and damage would result to his house. These fears were not groundless, for in 1903 the National Contracting Company tinder a contract with predecessors of the Sewerage and Water Board, constructed a drainage canal on Third Street, alongside of p^intiff’s house, and there resulted from the excavation then made, which was deep and extended the whole width of the street, a settlement of the grounds on which plaintiff’s improvements rested, and his house was damaged to the etent of Two Thousand Three Hundred. Dollars (02,300.00). Plaintiff sued the National Contracting Company and the Drainage Company for more than double this amount, alleging- negligence. The trial of the ease was gone into, but before it was concluded a compromise was effected and 'the suit discontinued. The plaintiff was paid Two Thousand Three Hundred Dollars ($2,300.00) by the National Contracting. Company, which action by said company amounted to an acknowledgment of the charge of negligence.
+It was shown that the drainage was built of concrete and extended the entire width of the street. The defendant contractors, Black & Laird, upon reaching plaintiff’s property and heeding his warning, change dthe line of excavation from under the sidewalk to a line next and parallel with the concrete -wall of the old drainage canal. A short distance from the concrete wall and towards the house, and twelve feet from it, was a line of sheet piling, and it was between the concrete wall and the sheeting that the excavation which provoked the present controversy was made.
+So far it is certainly not shown that the defendant contractors failed to exercise proper care. It is shown by the record that this sheeting, designed to retain the soil, is driven very much deeper than the bottom of the drainage canal constructed in 1903, which in turn is much deeper than the late excavation made for the sewer pipe. The latter excavation is said to have been something from 4 to' 6 feet. i
+Considering the established' fact, absolutely uncontroverted, that the excavation made between the concrete wall and the sheeting was dry and that there was an entire absence of oozing of water or soft mud into the excavation through the sheeting from the direction of the house, it seems clear that there "was, no appreciable disturbance of the quiescent condition to which is attributed the cause of the damage. Even though it be conceded that the sheeting was loosened at the top or surface by the digging of a trench 5 or 6 feet deep, the efficiency of the sheeting to retain the earth could not have been impaired, for the reason that the stress or pressure was not at the surface.
+It is shown that prior to the digging of the trench for the sewer, the cement sidewalk which had been built anew after the damage resulting from the drainage canal in 1903, was cracked and out of level, and the plastered wall in the house, in that portion of it repaired after the damage of 1903, was cracked.
+These facts are not seriously disputed and only serve to strengthen the theory that after the repairs following the construction of the drainage canal there had been a farther and continuing subsidence of the soil.
+The engineers in charge of the work for defendants, from a close and constant observation of conditions near plaintiff’s house, came to the conclusion and so testified, that the damage to it was not caused by the small excavation made for installing a comparatively small sewer pipe, 18 inches, but resulted from conditions brought about by a former work.
+It is in evidence, and not contradicted, that there were washouts and cavities found in the line of the trench being made for the sewer, indicating a weakened and undermined condition of the soil upon which plaintiff’s house rested, concededly not caused by the acts of the defendants. As against the positive testimony by the defendant’s experts and other employees, that the subsidence of the soil was not caused by their work, we find the testimony of the plaintiff, himself familiar with this character of work, to this effect.
+Q. But, is it not a fact that when the sewer trench was opened, that there was evidence of a cavity under your sidewalk resulting most probably from the old drainage!
+A. Well, I didn’t make examination and keep it up from day to day ; I was away from home when they were doing the work.
+Q. Didn’t you know that that- was the fact?
+A. I knew it was very weak.
+Q. You knew that the drainage canal had weakened the soil adjoining your property? Don’t you know that?
+A. We didn’t suffer from it.
+Q. No, but you knew that it was weakening?
+A. Well, it was weak, all right.
+Q. I want to ask your sincere opinion in this matter: Any damage to your property, to what do you, as an engineer, attribute it ? Do you attribute it to that little 2 1-2 foot trench, or to the deep and wide drainage trench?
+A. I can’t say.
+When pressed for a categorical answer, the plaintiff voueh-safed the information that when the plank boards on which the gravel had first been placed preliminarily to putting cement for the walk, were moved, the trouble began. This statement has no merit, in imt is unreasonable, to say the least, from the fact that these boards were only a few inches below the surface, were cut of irregular lengths, and did not, as asserted by plaintiff, extend from the house to the wall of the drainage canal, and hence serve as a bracing.
+The testimony of Mr. Williams, an architect, for the plaintiff, is far from convincing. At the outset of his examination he shows ignorance of a fact admitted by the plaintiff himself, to-wit: That the sidewalk was cracked and uneven before the coming of the sewer trench. This witness, who repaired the Brogan house in 1903, admits that he never saw or inspected the house between that period and 1906, and knew nothing of its condition in that interim. He is not sure that the boards under the cement sidewalk were of one length, and therefore effective braces. He contends, however, that even though they were not of one length, they still served as a support. This we cannot believe. .
+The trial judge evidently believed the theory to be extraordinary, for the witness was thereupon interrogated by the court as to the depth of these boards below the roadway. Witness said they were from 6 to 12 inches.
+It is plain that the disturbance or removal of these boards could not cause such a disturbance of the quiescent conditions as to precipitate a settling of the soil.
+Prom the record, aided by the clear, fair and concise briefs of counsel for both sides, We have reached the conclusion that the subsidence which caused the damage to plaintiff’s house was the result of the drawing or draining of the water under and about said voids by the drainage canal, the effect of which was the creation of voids or cavities which were a constant and continuing menace to plaintiff’s property. No lack of care has been shown by the defendants. The Sewerage Board had a right to make a trench and lay pipes at this point. If the mere digging for such work precipitaded a condition damaging to the plaintiff, which was subsequently discovered must come sooner or later from some other cause, then the principle dmnum absque inftiria applies.
+The plaintiff has not made out his case, but the .judgment against him should he without prejudice to his right to proceed against the proper parties.
+May 31, 1909.
+The authorities cited by plaintiff do not apply in view of the facts of this case.
+It is therefore ordered, adjudged and deereed, that the judgment appealed from be, and it is hereby reversed and set aside, and it is now ordered, adjudged and deereed that there be judgment in favor of defendant and ágainst the plaintiff as in case of nonsuit, plaintiff to pay the eosis of the lower Court, and defendant those of this Court.
+Reversed.
