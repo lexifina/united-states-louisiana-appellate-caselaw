@@ -1,0 +1,27 @@
+---
+court: "Louisiana Court of Appeal"
+decided: "1925-12-22"
+citations: ["4 La. App. 14"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["VEILLON v. ESTATE OF PREVAL LAFLEUR"]
+source_url: "https://static.case.law/la-app/4/cases/0014-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5604414
+cites_cases: ["108 La. 544", "11 South. 95", "23 South. 933", "32 South. 559", "44 La. Ann. 725", "50 La. Ann. 1228"]
+---
+
+# Veillon v. Estate of Preval Lafleur
+
+## Majority (LECHE, J.)
+
+LECHE, J.
+Plaintiff was lawfully married to the deceased, Preval Lafleur. They were, at the time of their marriage, over sixty years of age, and had- long previously passed the halfway post in the course of average human life, the husband being somewhat older than the wife. They lived together after their marriage for about two years, the evidence as to the length of their cohabitation, as well as to many other important facts, being vague and uncertain. About eighteen months after the marriage, Mrs. Lula Lafleur, a daughter by Preval Lafleur by a previous marriage, a young woman, possibly twenty-five years of age, came to live with her father and stepmother. Some six or eight months thereafter, while Mrs. Lula Lafleur was a member of the household, plaintiff departed from the matrimonial domicile, abandoned her husband, and severed all relations with him, although the friends to whose house she removed lived only some four or five miles from her husband’s home. The evidence is to the effect that she thus lived apart from her husband for about four years, when he became ill and died. Under these circumstances she makes demand for the one-thousand-dollar homestead, allowed out of the husband’s estate to the surviving widow left in necessitous circumstances, under Article 3252, C. C.
+The plaintiff is shown to be penniless and both her memory and her eyesight have become impaired, and, as described by her counsel, she is truly an object of pity. Yet there is little doubt that she abandoned her husband voluntarily, deliberately and without justification, remained away from him during the four last years of his life, absolutely ignoring him and forgetting him, until the occasion presented itself when she could make claim to part of his estate,- said to be worth about two thousand dollars.
+In justification of her departure, she says that her husband once threatened to strike her, and that he wanted her to leave. There is no evidence of any assault upon her by her husband, and it is shown by several witnesses that when she left the matrimonial home she did so of her own free will, her husband telling her that he was not driving her away, that if she left him she would lose her rights. She admits elsewhere in her testimony that she does not remember clearly the circumstances under which she left her husband. Again she intimates that the reason she went away was that Mrs. Lula Lafleur, her stepdaughter, had caused disagreement between herself and her husband, but she also says that she and Lula were on cordial and friendly terms when she left. Her testimony is replete with apparent contradictions and varies materially from that' of three other witnesses who were present when she separated from her husband. She accounts for this by acknowledging that her memory is defective.
+We have no doubt, after considering all the testimony, that plaintiff left her husband because of trivial differences and petty quarrels that arise frequently between husband and wife in the best regulated households. We are further convinced that no grounds are shown in the record to justify plaintiff in her conduct.
+The “vexata quaestio” in the case is whether a court of justice moved by sympathy and in a spirit of benevolence should place the stamp of approval upon the conduct of this unfortunate woman by acceding to her request, or coldly track the law as interpreted in the jurisprudence and refuse the same. It is truly said that the province of a court of justice is “jus dicere, non jus dare”.
+It was held in the Succession of Justus, 44 La. Ann. 725, 11 South. 95, involving a claim for the marital fourth under Article C. C. 2382, and in Richard vs. Lazard, 108 La. 544, 32 South. 559, wherein there was a demand for the $1000.00 homestead allowed by Article C. C. 3252, that these laws are in pari materia and controlled by the same rules of interpretation. In the latter case a wife who had abandoned her husband for several years and who had been guilty of gross misconduct towards him, was refused the benefit of the widow’s homestead. In the Succession of Rogge, 50 La. Ann. 1228, 23 South. 933, the surviving husband had left the wife without cause or reason and had parted from her for eight years when she died. His demand for the • marital fourth was refused in an elaborate and logical opinion by Mr. Justice Blanchard. The facts as they appear in the present record are very similar to those in the Succession of Rogge and the reasons for judgment, as therein stated, apply with equal force in the present case.
+The leaving was not caused by the husband’s death, as contemplated in the statute, but it was the result of plaintiff’s own deliberate and unjustifiable act.
+We are of the opinion that the judgment herein appealed should be reversed and plaintiff’s demand refused at her costs, and it is so ordered.
