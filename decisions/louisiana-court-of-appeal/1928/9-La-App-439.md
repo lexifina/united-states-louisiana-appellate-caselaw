@@ -1,0 +1,29 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "3424"
+decided: "1928-12-19"
+citations: ["9 La. App. 439"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TRUE v. CLOVERDALE, SHERIFF"]
+source_url: "https://static.case.law/la-app/9/cases/0439-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3327953
+---
+
+# True v. Cloverdale
+
+## Majority (ODOM, J.)
+
+ODOM, J.
+On November 27, 1926, the Sheriff of Ouachita Parish seized under a writ of fieri facias four wagons and twelve head of live stock belonging to Bud O’Donley, in the suit styled “Walter W. Simpson vs. Bud O’Donley.” The Sheriff appointed A. F. True, plaintiff herein, keeper of said property. True kept said property until February 26, 1927. He brings this suit against the Sheriff to collect $475.17, keeper’s fees and for amounts expended by him for feed for the stock.
+The defense is that the said True agreed to act as keeper and to take care of the property while under seizure, and to make no charge, either for his services as keeper or for feed for the stock, it having been understood, so. the Sheriff alleges, that True might use the stock and wagons while under seizure, and that he need not account to the Sheriff or to anyone else for the earnings of the teams and wagons; in other words, that he should have charge of and use the stock for their feed.
+As we understand the issue involved in this case, the only question to be determined is whether the- plaintiff agreed to act as keeper- without charge. It seems that the District Judge was of this opinion also, for, in- the course of the trial, in one of his rulings, he said:
+“The only question here is was or was not an agreement made with the Sheriff’s office to use these mules for their keep. On that depends the whole question.”
+And again he said:
+“* * * it is the keeper’s contract with the Sheriff’s office and nobody else.”
+The property was seized by the Sheriff’s deputy, Childers. Childers testified positively that True agreed to keep the stock and the wagons without compensation, with the understanding that the ^ defendant, O’Donley, who at that time was employed by True, might work the stock and use the wagons in order to complete his contract with True. Childer’s testimony to this effect is denied by Mr. True. But the testimony of True that he made no such agreement with the Sheriff’s office is destroyed, we think, by the testimony of Thornhill. R. L. Davis and' Meredith, another deputy connected with the Sheriff’s office. Thorn-hill testified that during the time the stock was under seizure, Mr. True told him that he had made an arrangement with the Sheriff’s office by which he was to keep the stock and the wagons without compensation. Mr. Davis testified that on one occasion Mr. True came to his office in the City of Monroe with O’Donley, and that the matter of the seizure of the stock was discussed, and testified that whereas he was not able to repeat Mr. True’s exact words, yet the substance of the conversation on the particular point at issue was that True was to keep the stock without compensation. Mr. Meredith, the other deputy, testified that on one occasion, sometime after the property had been seized and True had been appointed keeper thereof, True came to the office, talked the matter over with him and stated, in substance-, that he was acting keeper for the property for what he could make out of it, and that the teams and the wagons, up to that time, had been used by O’Donley and had earned a considerable credit. Meredith testified that he told True that'he need not account for the earnings of the animals, as he was acting keeper for whatever he could make from the use of the property.
+The testimony of Mr. True, on cross-examination, greatly weakens, we think, his own position. Asked about the conversation which he had with Mr. Thornhill, he would not deny that he had had such a conversation, but said he did not remember it, and he did not remember making any statement to Mr. Davis or to Mr. Meredith to the effect that he was to keep the property without compensation; and he admits that the understanding was that O’Donley should continue to work the stock and that he was trying to help O’Donley out. His position is further weakened by the fact that whereas the stock and the wagons were seized on November 27th, he made no charge whatever for keeper’s fees or for feed until after December 22nd, during which time O’Donley was using the property in carrying out his contract with True. His position is further' weakened, we think, by the fact that the feed was not charged to the Sheriff, but was charged to True and the bill was rendered to, him. It is further weakened, we think, by the fact that on or about December 22nd, O’Donley wanted to remove the stock to .another job and was informed by the Sheriff’s office that he would not be permitted to do so, after which the stock was left with Mr. True, and he, himself, used the mules and wagons for hauling logs.
+There is no evidence that the original contract entered into by Childers, the deputy, and True, was ever changed, but, to the contrary, the testimony of Meredith, the deputy, is to the effect that it was continued in full force. The contract between the parties is the law between them. The testimony shows to our entire satisfaction that True, the plaintiff, agreed to keep the stock and the wagons without compensation, and he is bound by that agreement. There was judgment in the District Court in favor of the plaintiff and against the defendant for $194.50. We think the judge erred.
+It is therefore ordered, adjudged and decreed that the judgment appealed from be reversed and that plaintiff’s demands be rejected at his costs; and his suit dismissed.
