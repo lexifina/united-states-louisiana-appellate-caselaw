@@ -1,0 +1,69 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "3045"
+decided: "1928-02-03"
+citations: ["8 La. App. 555"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TREMONT LUMBER CO. v. DAVIS BROS. LUMBER CO., LTD."]
+source_url: "https://static.case.law/la-app/8/cases/0555-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3325212
+---
+
+# Tremont Lumber Co. v. Davis Bros. Lumber Co.
+
+## Majority (ODOM, J.)
+
+ODOM, J.
+Plaintiff owns the NE% of NE% of Section 32 Township 12 North Range 3 West.
+Defendant owns the forty acres adjoining it on the north, or SE% of SE% of Section 29, same township and range.
+While cuttirig timber, on its forty acres in Section 29, the defendant crossed over the line into Section 32 and cut 13,858 feet of cypress and 40,635 feet of gum and oak from a strip running east and west on the north side of the NE% of NE% of Section 32 belonging to plaintiff.
+Plaintiff brought this suit for $955.98, alleging that defendant cut the timber in bad faith and that it should pay for timber at $25.00 per thousand for the cypress and $15.00 per thousand for the gum and oak, this being the alleged manufac-' tured value.
+Defendant denied that it had cut any timber across its line on plaintiff’s land.
+The lower court found for plaintiff and awarded judgment for the stumpage value of the timber which it found was $8.00 per thousand, holding that defendant cut the timber in good faith.
+Defendant appealed, and plaintiff answered the appeal asking that the judgment be increased to the amount prayed for.
+This suit is the sequel to a dispute between these lumber companies over the correct location of a land line. If the line is located where plaintiff thinks it is, defendant is due the amount claimed, provided the timber was cut in bad faith. If it is located where defendant thinks it is, then nothing is due. So we must determine from the evidence which party is correct as to the location of the line.
+We have read the voluminous record and conclude, as did the District Judge, that plaintiff’s contention as to the location of the line is correct. We also concur in his holding that the timber was cut by defendant in good faith and that it is due to pay only the stumpage value, and that a valuation of $8.00 per thousand, as found by him, does justice to both parties.
+The main" controversy in this suit is over the location of the east and west line between the SEÍ4 of SE14 of Section 29, owned by defendant, and the NE14 of NE1^ of Section 32, owned by plaintiff.
+Plaintiff contends that the correct line is the one established by Mr. W. F. Duffy, a civil engineer and licensed surveyor, while defendant relies on a line established by Mr. J. L. Dark, another surveyor.
+This is not an action of boundary. Neither side asked the court to have the boundary line between their respective properties fixed according to the rules laid down in the Code, Articles 823, et seq. But they rely upon lines fixed by surveyors who were called as witnesses and who testified.
+We must decide the case therefore upon the record as we find it.
+The line relied upon by plaintiff was established by Mr. W. P. Duffy. Mr. Duffy is a graduate engineer from the University of Wisconsin and has had twenty-two years experience as a surveyor. In 1910 there was a suit between the Winn Parish Lumber Company and the Little River Lumber Company involving the location of certain lines and corners in the vicinity of this land and especially the location of the common corner of Sections 28, 29, 32 and 33.
+In that suit the court appointed Mr. Duffy, Mr. Cookston and Mr. McCain, two other surveyors, to locate the lines and corners. They located the common corner of Sections 28, 29, 32 and 33, and made report to the court. Mr. Dark, whose line is now relied upon by defendant, was with the surveying party at the time, and while Duffy testified in the present suit that Mr. Dark agreed with him that the corners and lines then found and established were correct, yet Dark testified that he did not.
+It seems that Mr. Cookston, now parish surveyor of Winn Parish, did not altogether agree with Duffy as to the location of the corners, but we find from Mr. Cookston’s testimony in the present suit that he did not seriously disagree with Mr. Duffy on any material point involved in the present suit.
+After this suit was filed Mr. Duffy was employed by plaintiff to resurvey the land 'and especially to locate the line between the SE1^ of SE% of Section 29 and the NE% of NE% of Section 32.
+In making the original survey in 1910 he had before him the original field notes and plat made by John Densmore who made the survey for the Government in 1813. The Densmore survey and field notes are referred to and apparently relied upon by all the surveyors. When Mr. Duffy made his resurvey in 1925, he had before him his survey and note's made in 1910, which he followed.
+In making the survey of 1910, Duffy and the others could find no evidence of the establishment of the common corner between Sections 28, 29, 32 and 33. In order to establish that corner they began on the township line between townships 11 and 12, which is the south boundary line of Sections 32 and 33 and one mile south of the common corner of Sections 28, 29, 32' and 33. They found evidences of the town township line as established by Bensmore, but the corners of the sections on the township line were not easily located.
+In order to get a starting point, they tried to locate the corner on that line between Sections 32 and 33. They found from the old field notes that this corner was marked by a holly tree in the bed of a creek. But the holly tree, which it seems they found, there, was not in the bed of the cregk, the inference being that the channel of the creek had changed.
+In order to cheek this corner, they ran east on the township line. From the original field notes they found that the quarter section corner on the south line of Section 33 (on the township line) was marked by two pine trees. They did not find the pine trees but did find the stump of one of them and a stump hole indicating the location of the other. These corresponded with the field notes. All the surveyors, including Dark, agreed upon this fact.
+Having definitely established, as they considered, the quarter section corner on the south line of Section 33, they took that as a starting point, and in order to locate definitely the corner between Sections 32 and 33, known and referred to as the “holly tree corner,” they ran back west on the township line one-half mile and established the section corner, or the southwest corner of Section 33 and the southeast corner of Section 32, or the “holly tree corner.”
+From the corndr thus established they ran north one mile, establishing the section line between Sections 32 and 33 and established the common corner between Sections 28, 29, 32 and 33.
+In running this line north between Sections 32 and 33, they found evidences for the first half mile of the old line, which old line corresponded with the one they ran; but for the second half mile, or on the north end, virgin timber had been cut and they found no evidences of the original line.
+None of the surveyors, Mr. Dark included, question the fact that in running the north and south line between Sections 32 and 33 they started on the township line or on the south line of Sections 32 and 33, and the fact that they ran •exactly one mile north is not disputed.
+Therefore, the common corner of Sections 28, 29, 32 and 33 as located by Duffy is unquestionably one mile north of the township line, and that is where it should be.
+Mr. Duffy, in order to locate the line between the SE% of SE% of Section 29, owned by defendant, and the NE% of NE% of Section 32, owned by plaintiff, ran due west from the common corner of Sections 28, 29, 32 and 33, establishing the east and west line between Sections 29 and 32. This east and west line is parallel with and exactly one mile north of the township line between townships 11 and 12.
+So it seems to us that Duffy’s east and west line between the properties is the correct line, unless the sections bordering on the township line are short. But according to the rules followed by the Government surveyors the sections in the south part of townships are all full. According to the rule, the township lines were first established, and in dividing the townships into sections the surveyors began on the south and ran north and if there was any shortage it was taken off the north tier of sections.
+Coming now to the line between the properties as established by Mr. Dark, the one relied on by defendant, we find that as a starting point he took what he says was the established corner at the southwest corner of Section 16, two miles north of the common corner between Sections 28, 29, 32 and 33. He ran, he says, two miles south. If he had a correct starting point his two-mile line should have stopped on the east and west line between Sections 29 and 32 established by Duffy, for, as stated, Duffy’s line was one mile north of the township line.
+But Dark’s line ran across Duffy’s line and ended over in Section 32. He established a corner at the end of his two-mile line, and in order to get the line between these properties he ran west from his corner, thereby making his east and west line run to the south of Duffy’s east and west line.
+The timber between these two lines on the north edge of the NE% of NE% of Section 32 is that in dispute. When the defendant cut its timber on the- SE1^ of SE% of Section 29 it cut down to Dark’s line.
+We think the Duffy east and west line is the correct one, because, as stated, he started on the township line and ran one mile north for a starting point. There is no question but that he started on the township line and that he ran one mile north. His survey was made with the assistance of Dark, Cookston and others.
+However, the testimony does not satisfy us that Dark had an established corner to start with. He says he started from the southwest corner of Section 16, and while he says that was an established corner, yet he does not say he had anything to prove that, either from the field notes or otherwise. He says the field notes called for a post oak as a bearing tree at the southwest corner of Section 16, but he does not say that he found that tree or any stump or stump hole or anything else to indicate its location.
+With reference to the location of this corner he was asked:
+“Q. You stated that you know the southwest corner of Section 16 is an established corner, who told you?
+“A. Mr. Radescich is the man that carried me there.
+“Q. What did the original field notes call for?
+“A. Post oak — I could not tell you all, get the field notes, they will tell you.
+“Q. You say somebody else told you that this was the correct corner?
+“A. As far as the evidence goes it showed me the corner to start from.”
+So far as any definite information 'is concerned, about all Mr. Dark had as to the corner from which he started was what Mr. Radescich told him. Mr. Radescich was eighty-two years old at the time of the trial and had lived in that community all his life and said he was familiar with all the land lines, and we have no doubt that he showed Dark what he understood to be the corner.
+But the corner was not established with legal certainty. Mr. Dark did not attempt to check the corner by running either north, east or west in search of evidence. On the contrary, Mr. Duffy and those who assisted him did check the quarter section corner in Section 33 on the township line with the field notes, and found evidence of the bearing trees called for by the notes. In addition to that, they found other evidences of the township line as established by Densmore in 1813.
+Counsel for defendant says that the “holly tree corner” was not correctly located by Duffy, that he placed it on the east bank of the creek and not in the creek.
+Duffy himself said that his location of that corner was several steps from the bed of the creek as it ran in 1910, but accounts for that by saying that the channel may have changed during the ninety-seven years which elapsed between the original survey by Densmore and his survey in 1910.
+But be that as it may, the outstanding and undisputed facts are as disclosed by the record, that Duffy started on the township line at the “holly tree corner” as he located it and ran one mile north in order to locate the east and west line between Sections 29 and 32. The pivotal point in this case is the correct location of the line between Sections 29 and 32, for that is the line in dispute. The fact that he may have located the “holly tree corner” a little too far to the east on the township line has but little, if any, relevancy. Thé main and relevant point is whether he stopped at the right place when he ran one mile north, for the point where he stopped determines the correct location of the east and west line between Sections 29 and 32, and that is the line in dispute.
+The testimony convinces us that Duffy’s line is correct.
+Through necessity, civil engineers and surveyors are, perhaps, the most technical of all professional men. This voluminous record teems with technical explanations of the different surveys, with copies of field notes, legend and history. But no useful purpose would be subserved, we think, in a further discussion of the evidence.
+Plaintiff has discharged the burden laid upon him in eases of this kind of establishing its line.
+We do not think the timber was cut in bad faith. When defendant cut it, it sought Mr. Weems, from whom it had purchased the land. Weems pointed out the line established by Mr. Dark, and defendant was guided by that.
+Por the reasons assigned, the judgment appealed from is affirmed with costs.
