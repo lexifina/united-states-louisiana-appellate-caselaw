@@ -1,0 +1,39 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "11,684"
+decided: "1929-03-04"
+citations: ["10 La. App. 50"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PADERAS v. STAUFFER"]
+source_url: "https://static.case.law/la-app/10/cases/0050-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3330001
+cites_cases: ["109 La. 92", "132 La. 773", "2 La. App. 123"]
+---
+
+# Paderas v. Stauffer
+
+## Majority (JANVIER, J.)
+
+JANVIER, J.
+This is a suit for personal injuries sustained by plaintiff as a result of being crushed between an automobile driven by Mrs. Stauffer and a post on the corner of Canal and Royal Streets, in New Orleans. In making the turn to the right, Mrs. Stauffer drove too close to the post, with the result that the rear portion of her car struck -plaintiff and crushed him between it and the post, which was on the corner.
+Defendants admit that, in so far as Mrs. Stauffer is concerned, there is no valid defense to the suit, and they concede that the only question before us is the quantum of damages to be allowed.
+It is contended on behalf of Mr. Stauffer that, as Mrs. Stauffer was driving her own car and was not on any mission for him, he cannot be held liable for her negligence.
+Even conceding that a husband is not liable for the torts of his wife resulting from her negligence while driving her own automobile in her own separate affairs and concerns, it seems to us that Mr. Stauffer’s testimony falls far short of showing that Mrs. Stauffer, at the time of the accident, was so engaged. Just what was the object of Mrs. Stauffer’s trip in the automobile is a matter so completely and exclusively within the knowledge of -,the two defendants that the burden of producing evidence concerning the reason for her making the trip is placed upon them. Their failure to prove that she was on a mission for her separate benefit results in the inevitable conclusion that, as a matter of fact, she was on a community errand. Especially is this so where the evidence shows, as it does here, that she was shopping. If she was shopping for the household she was on a community errand, and if she was engaged in selecting clothes, or hats, or any of the numberless things a woman requires for her own comfort or adornment, then, likewise, she was on a community errand, and in either such event she was just as much the agent of her husband as head and master of the community as would have been the family chauffeur.
+“Clothing of the wife (paid for by the husband belongs to the community.”
+Munch vs. Central Laundry, 2 La. App. 123.
+See also, Shield vs. F. Johnson & Son Co., Ltd., 132 La. 773, 61 So. 787.
+If, then, the wife’s act in purchasing clothing, or groceries, or household necessities, could make the husband, as head of the community, liable for the purchase price, we fail to understand why the wife’s negligence in driving the automobile to and from the place of purchase should not likewise be chargeable to the husband.
+On the question, then, of the liability of the husband, we feel that the judgment is correct.
+We next come to an investigation of the extent of the injuries sustained by plaintiff. In the first place it seems to us that the trial judge has erred in his finding that the burden of proving that plaintiff’s injuries were not serious is on defendants.
+Our conception of the laws of evidence applicable here leads us to the belief that the duty of showing affirmatively that his injuries were serious was on plaintiff.
+In view of the fact that Dr. Tedesco’s statements as to plaintiff’s condition were entirely subjective, that is, based solely on what plaintiff himself told him, and in view of the fact that his conclusions are not corroborated by any other physician or* surgeon,, but are, in fact, contradicted by the other two doctors who testified, we are of the opinion that plaintiff did not sustain the burden of proof which is placed upon him and did not, by a preponderance of evidence, prove the seriousness of his injuries. Dr. Tedesco’s testimony was not positive and, so far as we are concerned, it is not convincing.
+According to the testimony of Dr. Ficklen, an outstanding surgeon of this city, and Dr. Fenno, a reputable physician, plaintiff’s injuries consisted of a slight concussion of the brain and a small hematoma. A hematoma, in nursery language, is a black and blue spot.
+The chart of the hospital corroborates Dr. Ficklen and Dr. Fenno as to the extent of these injuries and shows conclusively that there could have been no serious internal disorder. After the first few hours in the hospital plaintiff’s pulse, respiration and temperature all became normal and it is impossible to believe that any serious internal disorder could have existed without causing a rise in temperature, or without manifesting itself by its effect on the pulse or respiration
+Plaintiff claims serious interference with his hearing and permanent injury to his bladder. In view of the positive testimony of Dr. Ficklen and Dr. Fenno, who were in constant attendance during plaintiff’s stay in the hospital, we are inclined to accept their views as to the extent of his injuries as correct. He no doubt suffered severely and these pains were unquestionably much agumented by the temporary nervous derangement of his urinary system and the consequent difficulty of urinating. However, he was disabled only about three months and except for a partial deafness, which seems to us to be exaggerated, and the frequent desire to urinate, which in all probability resulted rather from a prior disorder than from the accident, his recovery is complete.
+It is, of course, not possible to estimate physical sufferings accurately, and to determine just what amount in dollars and cents will compensate for those sufferings. Considering former allowances by this Court and the Supreme Court, and taking into consideration all that the record contains with regard to plaintiff’s loss of time, suffering and expenses, we feel that the amount awarded by the trial court is excessive, and that an allowance of $3,000.00 will be adequate.
+It is therefore, ordered, adjudged and decreed that the judgment appealed from be amended by reducing the amount thereof to three thousand dollars, and that as thus amended it be affirmed.
+Plaintiff obtained judgment against the defendants in the sum of $4,500.00. Defendants appealed suspensiyely and devolutively and furnished appeal bond in the sum of $7,500.00. Plaintiff, in the trial court, then proceeded by rule to test the surety. The trial judge held the surety sufficient. Plaintiff filed another motion for appeal from this finding, but has never filed in this Court the transcript of the record on his rule to test the surety. He relies on the fact that the defendants in the main case have lodged a transcript of the record made up on the trial on the merits, and it is contended that there was no necessity for plaintiff in the rule to test surety to file another transcript.
+The rule to test the surety is a matter separate and distinct from the main issues, and it is plainly necessary that the appeal from the trial court’s decision on the said rule be perfected by the lodging in this Court of a transcript. C. P. Art. 575. Metropolitan Bank et al. vs. Blaise, 109 La. 92, 33 So. 95. Plaintiff’s failure in this regard cannot be cured by a renewal in this Court of his rule to test the surety. The trial court decided that issue against him and his remedy was by appeal to this Court. By not filing his transcript, he appears to have abandoned that appeal. Tlje question of the sufficiency of the surety is therefore not before us and plaintiff’s motion to dismiss this appeal for want of sufficient surety is therefore overruled.
