@@ -1,0 +1,31 @@
+---
+court: "Louisiana Court of Appeal"
+decided: "1928-05-08"
+citations: ["8 La. App. 308"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MAYER v. SECURITY UNION INS. CO."]
+source_url: "https://static.case.law/la-app/8/cases/0308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3325514
+---
+
+# Mayer v. Security Union Ins.
+
+## Majority (ELLIOTT, J.)
+
+ELLIOTT, J.
+Raymond A. Mayer insured his automobile with Security Union Insurance. Company for. $740.00 against loss by fire. The automobile was destroyed by fire, and plaintiff sued to recover the amount of the policy and 25% thereon as a penalty and $150.00 in addition as attorney’s fees.
+Defendant admits its liability for the cash value of the automobile, but contends that its value has not been ascertained in conformity with policy provisions.
+There was judgment in favor of the plaintiff as prayed for, and defendant has appealed.
+The plaintiff moved in the lower court to strike out and disallow that part of defendant’s answer which has reference to an alleged failure on plaintiff’s part to comply with the appraisal arrangement contained in the policy on the ground that the demand in defendant’s answer is in effect a ©lea in prematurity, and as such was not an available defense that could be urged in the answer. That the appraisal arrangement set forth in the policy was in effect an arrangement to refer differences that might arise in a future litigation to abitrators; that an arrangement of the kind was against public policy and not enforceable, etc. That defendant was es-topped from demanding an appraisement after an elapse of more than sixty days from the rejection of plaintiff’s loss, etc.
+The answer of the defendant puts at issue the right of plaintiff to recover judgment in the present suit.
+The defendant rejected the proof made by the plaintiff as to the amount of his loss and demanded an appraisement in conformity with the appraisal arrangement contained in the policy, and sent to the plaintiff an appraisal agreement which the plaintiff promptly signed and returned to the defendant. The defendant filled in the blank space left in the agreement where the names of the appraisers should have been written with the names of R. A. Mayer and Security Union Insurance Company. As filled out by the defendant and sent to the plaintiff for his signature there was no place left in the agreement for the names of the ap'praisers and there was no accompanying request that plaintiff name his appraiser at that time and send the name to the defendant. The filling in the blank space intended for the names of the appraisers may be regarded as an inadvertence on the part of defendant’s clerks, but it was not plaintiff’s fault. The plaintiff, however, on signing the appraisal agreement, wrote a memorandum on a piece of paper which he signed and attached to the agreement saying in effect that he would have an appraiser ready when defendant sent its appraiser.
+Defendant’s agent testified that when the appraisal agreement signed by plaintiff was received, he noticed that plaintiff had not designated in it the name of his appraiser, so he directed his clerk to send plaintiff another appraisal agreement with the request that he sign it and designate in the agreement the name of his appraiser.
+Plaintiff testifies that he never received this second agreement and letter which defendant contends accompanied it. The district judge did not believe that such a letter was ever written. After considering the evidence on the subject, our impression is the same. The defendant does not claim to have done anything after receiving the agreement signed by plaintiff and the memorandum attached, except to send plaintiff, after a few days, another appraisal agreement with a letter requesting him to sign the agreement and to name in it his appraiser and return same to defendant.
+The first appraisal agreement was signed by plaintiff, but not by the defendant. The defendant does not contend that it signed the second appraisal agreement nor wrote in it the name of the appraiser, but claims that the name of its appraiser was communicated to plaintiff by means of the letter, which under the evidence, cannot be regarded as having been sent.
+At the time defendant claims to have sent a, second appraisal agreement to be signed by ¡plaintiff, with the request that he write in it the name of his appraiser, the defendant had in its hands an appraisal agreement signed by plaintiff with memorandum attached to it to the effect that he would select and have ready an appraiser when defendant’s appraiser arrived. This was enough on plaintiff’s part under the policy arrangement on that subject. The defendant should have promptly signed the agreement and forwarded it back to DeRidder with its appraiser, authorized to act with one to be named by plaintiff. This appraisal arrangement contained in the policy sued on must be followed up by the insurer and carried out in conformity with the letter and spirit of Act 59 of 1921, which provides that if the proofs of loss are not satisfactory to the company, it shall be the duty of the company to proceed under the terms of the policy to ascertain and adjust the amount of the loss and its liability under the terms of the policy and make payment of the amount due within sixty days from the date on which it received the proofs of loss offered by the insured, etc. The law places the burden of the initiative in the matter of adjustment on the insurer and intends that it shall act promptly.
+The defendant contends that as plaintiff never did sign an appraisal agreement con-taming the name of his appraiser and send same to the defendant as requested, that it was justified in doing nothing, etc. The delay to adjust and settle the amount due by the defendant in this case, is because of its willful act. No just ground for the delay appears.
+As for the legality of the a/ppraisal arrangement in the policy from a standpoint of public policy, we express no opinion for the reason that the plaintiff on his part complied with it.
+The district judge reviewed the case in a written opinion in which we fully agree.
