@@ -2,7 +2,7 @@
 court: "Louisiana Court of Appeal"
 docket: "3235"
 decided: "1928-12-19"
-citations: ["9 La. App. 647", "10 La. App. 278"]
+citations: ["9 La. App. 647"]
 reporter: "la-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["WEBB v. V. S. & P. RY. CO. ET AL."]
 source_url: "https://static.case.law/la-app/9/cases/0647-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3324225
-cites_cases: ["10 La. App. 234", "118 So. 872", "123 La. 768", "130 La. 893", "142 La. 357", "150 La. 469", "159 La. 347", "33 La. Ann. 188", "4 So. 490", "40 La. Ann. 553", "41 L. R. A. (N. S.) 355", "49 So. 518", "58 So. 696", "9 La. App. 647", "90 So. 763"]
+cites_cases: ["10 La. App. 234", "118 So. 872", "123 La. 768", "130 La. 893", "142 La. 357", "159 La. 347", "41 L. R. A. (N. S.) 355", "49 So. 518", "58 So. 696"]
 ---
 
 # Webb v. V. S. & P. Ry. Co.
