@@ -1,0 +1,40 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "10,098"
+decided: "1926-07-19"
+citations: ["5 La. App. 69"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KELLY & SON v. YELLOW CAB CO. Appellant"]
+source_url: "https://static.case.law/la-app/5/cases/0069-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5610558
+cites_cases: ["11 La. Ann. 303", "126 La. 13", "131 La. 283", "18 La. Ann. 646", "19 South. 459", "2 La. App. 273", "25 La. Ann. 419", "25 South. 982", "35 La. Ann. 1202", "35 La. Ann. 523", "42 La. Ann. 667", "48 La. Ann. 439", "51 La. Ann. 1190", "52 South. 176", "59 South. 250", "6 La. Ann. 293"]
+---
+
+# Kelly & Son v. Yellow Cab Co.
+
+## Majority (CLAIBORNE, J.)
+
+CLAIBORNE, J.
+The plaintiff sued for damages done to their property by defendant’s automobile.
+The plaintiff alleged that on December 7, 1923, they conducted a retail grocery store on the downtown woodside of Freret and Robert streets; that on the above date. Mrs. Nathan Stern’s chauffeur was driving her car down Freret street, when upon reaching Robert street, it collided with a taxicab owned by the Yellow Cab Company, which was running out Robert street to the woods;, that Mrs. Stern’s chauffeur swerved his car towards his left over the sidewalk and against and into the front of the plaintiff building, and stopped only after it had forced its way partly through the front wall thereby demolishing it; that according to traffic ordinance No. 7490, Freret street was a right-of-way street having two parallel lines of street cars in its center, and vehicles were required on approaching same and, before crossing samé, to. come to a full stop, and the chauffeur in charge of the taxicab approached Freret street without stopping and without observing the approach of the automobile; that the chauffeur of. the automobile was also driving at an excessive speed and neglected to observe the approach of the taxicab coming out Robert street; that the damage to plaintiff’s property was caused by the negligence of the chauffeurs of the two automobiles; that by reason of the demolition of the front wall and the temporary closing of the front entrance and the loss of trade caused thereby plaintiff has lost $320 and the cost of a watchman $5; that the cost of reconstructing the front wall and erecting a temporary wall was $441.73.
+Plaintiff claimed $766.73.
+Both defendants pleaded vagueness and no cause of action. The first exception was maintained and the second dismissed.
+The taxicab company denied all the allegations of the fourteen articles of plaintiff’s petition. Further answering it averred:
+“That on December 7, 1923, at or about the hour of seven p. m., the cab of the defendant herein, the Yellow Cab Co. of New Orleans, Inc., was being driven on Robert street from St; Charles avenue towards the woods; that as said cab was about to cross Freret street going towards the woods, said cab was struck by a Cadillac, car owned by its co-defendant herein, Mrs. Bertha Kaufman Stern,-and operated by her colored chauffeur in the course of his employment; that said cab of defendant herein was being driven in a careful and lawful manner, but that said Cadillac car of the co-defendant herein ran into the cab of the defendant herein, and said cab of the defendant herein was damaged as a result of the gross negligence of the driver of said Cadillac car, which Cadillac car was being driven, at the time of the accident, at an excessive rate of speed down Freret street in violation of the city ordinance; that said chauffeur of the Cadillac car was incompetent and did not have said Cadillac car under control and did not apply his brakes, and that said chauffeur of said Cadillac car was not looking in the proper 'direction; that immediately after said Cadillac car struck the cab of defendant herein, said Cadillac car turned and swerved to the left across Freret street towards the woodside, jumped the ditch, ran over the sidewalk, and struck the front part of a grocery store located at the corner of Freret and Robert street on the wood downtown side. Defendant avers that whatever damage was done to petitioner was caused solely by the gross negligence of the driver of the Cadillac car owned by the co-defendant herein, Mrs. Bertha Kaufman Stern.”
+Mrs. Kaufman Stern admitted that her car had collided with a building corner of Freret and Robert, but denied all the other allegations of the petition and averred “that if plaintiff sustained any damage the same did not result from the negligence of any one over whom she had any control, and that at the time and place alleged in the petition her automobile was being operated by her employee who was then and there not acting within the scope of his employment with or as agent for respondent”.
+Upon the verdict of a jury, judgment was rendered in favor of plaintiff against the Yellow Cab Company for $766.73 and in favor of the defendant Mrs. Kaufman Stern.
+The plaintiff and the Yellow Cab Company have appealed.
+We had occasion to pass upon the issues of this case in the suit entitled Bertha Kaufman Stern vs. Yellow Cab Co., 2 La. App. 273, No. 9871 of this court reported in La. App. Ad. Rpts., No. 4, p. 1076. In that case the trial judge examined all the defenses urged in this case and concluded' by attributing the fault of the collision to the Yellow Cab Company and rendered judgment against it.
+That judgment was affirmed by this court on appeal. The same issues were again raised before a jury and they decided again, 30 days before the judgment of this court, against the Yellow Cab Company.
+A patient re-examination of this case covering some 200 pages of the testimony has convinced us that our original opinion was correct.
+If it is true, as two courts and a jury have found, that it was the fault of the chauffeur of the taxicab that caused Mrs. Stern’s auto to crash into the plaintiff’s wall and damage it, then the judgment in favor of Mrs. Stern is correct. See the squib case Scott vs. Shephard, 2 W. Bl. 892; Latta vs. N. O. & N. W. Ry., 131 La. 283, 59 South. 250.
+The only question left is the amount of the damage.
+Plaintiff claims them on three causes:
+1st Loss of trade. They say that by reason of having their store closed on the Freret street side during the 60 days that the reconstruction of the wall lasted they lost business to the amount of $20 a day or $1200,’ upon which their • profit would have jjeen twenty per cent or $240. This damage is problematical and speculative and has not been established with that degree of certainty required by law.
+There is no evidence to show what the receipts of their business were in any 60 days of the current year or of any prior year, and what their receipts were during the 60 days that the repairs lasted. Cable vs. Leeds & Co., 6 La. Ann. 293; State of Louisiana ex rel. Bell vs. Hufty, 11 La. Ann. 303; Gebelin vs. Hamilton & Scott, 18 La. Ann. 646; Bohn vs. Cleaber and Lindsey, 25 La. Ann. 419; Bergen vs. New Orleans, 35 La. Ann. 523; Faysoux & Coleman vs. New Orleans, 35 La. Ann. 1202; Riggs and Co. vs. Bell, 42 La. Ann. 667; Blymer vs. McDonald & Hart, 48 La. Ann. 439, 19 South. 459; Mirandona vs. Burg, 51 La. Ann. 1190, 25 South. 982; Whitney vs. Parish of Vernon, 126 La. 13, 52 South. 176.
+2nd For the inconvenience and annoyance to which the (plaintiffs were put during 60 days, for having to work in obscurity under artificial light, the noise while the work was going on and the cold in the store resulting from the open front, we think the sum of $100 claimed is reasonable as well as the $5 for a watchman.
+3rd The testimony establishes with certainty that the repairs to the house cost $441.73 which plaintiff paid.
+It is therefore ordered that the judgment herein be reduced from seven hundred and sixty-six 73-100 dollars to five hundred and forty-six 73-100 dollars and as thus amended that the judgment be affirmed; the defendant to pay costs in both courts.
