@@ -1,0 +1,41 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "3275"
+decided: "1928-11-08"
+citations: ["9 La. App. 282"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WASHINGTON v. PAGE ET AL."]
+source_url: "https://static.case.law/la-app/9/cases/0282-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3327974
+cites_cases: ["100 So. 674", "131 La. Rep. 410", "156 La. Rep. 442", "59 So. 833"]
+---
+
+# Washington v. Page
+
+## Majority (ODOM, J.)
+
+ODOM, J.
+At some time prior to December 6, 1924, W. W. Page and Luther Page obtained separate judgments against Willie Washington, Clarence Washington, Robert Washington, Mitchell Washington, George Washington, Jr., and Ed Washington, six of the eleven heirs of George Washington, deceased. The defendants in the above suits owned by inheritance each an undivided one-eleventh interest in certain land in the Parish .of Natchitoches. Writs of fi. fa. were issued under said judgments, and the entire interest of each of said heirs was seized and sold by the Sheriff to the said W. W. and Luther Page. The sale was made on December 6, 1924.
+Subsequently, said W. W. and Luther Page brought suit against the remaining heirs of George Washington, deceased, to have said property partitioned and, on December 19, 1925, obtained judgment ordering the property owned in indivisión by them and the remaining heirs of George Washington, sold to effect a partition, the said property not being suspectibile of partition in kind. Under this judgment, the Sheriff advertised and sold at public auction to the last and highest bidder the entire interest in said land, and W. W. and Luther Page became the purchasers thereof. Thq deed recites that the Messrs. Page, being the owners of a six-eleventh interest in the land; were allowed to retain that fraction of the proceeds and that they paid the balance in cash, which was distributed among the other co-heirs. This sale took place on February 20, 1926.
+Willie Washington, whose one-eleventh interest in the land was sold under fi. fa. on December 6, 1924, was then living in a house on said land and continued to live there and to cultivate a small portion thereof until December, 1927.
+On December 13, 1927, the said W. W. and Luther Page applied for and obtained a writ of possession against the said Willie Washington, ordering and commanding him to vacate said property within three days from the date of service. Service of the petition and order was made upon Washington on December 22nd. Whereupon said Washington applied for and was granted a temporary restraining order, prohibiting the said W. W. and Luther Page and the Sheriff from proceeding with said writ until such time as the case might be heard.
+In his application for the restraining order, Willie Washington, alleged that he was in possession of the property as owner, as heir to his father and as agent of his co-heirs, and that he had been in possession thereof for many years, under color of title and was not a trespasser.
+Apparently for the purpose of converting the proceedings into a possessory action, he alleged in Paragraph 6 of his petition:
+“your petitioner shows that he has been disturbed in the (possession of his property that he has enjoyed as aforesaid for more than one year and that he is entitled to be maintained in his possession since he has been threatened by eviction through the issuance of the writ of possession illegally obtained.”
+Upon hearing, the lower court recalled and vacated the restraining order which it had issued and rejected Washington’s demands. He has appealed from that judgment.
+OPINION
+Willie Washington, plaintiff in the injunction and defendant in the ejectment proceedings, does not question the validity of or attack the proceedings under which his interest and the interest of his co-heirs in the land in controversy were sold under writs of fi. fa., nor does he assail the partition suit under which W. W. and Luther Page acquired the land in February, 1926. He goes no further than to say that he is in possession of the said land as owner and under color of title.
+The record before us shows that Willie Washington was legally divested of his title to any interest in the land on Decern* ber 6, 1924. His interest in the land, along with the interest of several of his co-heirs, was on that date sold by the Sheriff under writ of fi. fa., issued in a judgment against him and his co-heirs, to W. W. and Luther Page. From that date, he had neither title to nor right to possess the land. Later on, the Court ordered the entire interest in the land sold to effect a partition thereof, and it was sold and the Messrs. Page became the purchasers.
+Willie Washington was not a party to the last named proceedings, because his interest in the land had previously been sold under fi. fa. The legal and immediate effect of these orders and sales was to divest Willie Washington and his co-heirs of all title to the property and to vest the same in the Messrs. Page. Henceforth, Washington’s possession of the property was legally for and under the purchasers.
+Richards vs. Swords, Sheriff, et al., 131 La. Rep. 410, 59 So. 833, and authorities there cited.
+In the Richards vs. Swords, Sheriff, et al. case, the Court said:
+“The judgment ordering the sale was, in ultimate effect, a judgment condemning the parties thereto to deliver the property to the purchaser, and the proper method of executing it was to obtain, from the Clerk, a writ of possession, which was done. C. P. Art. 630, et seq.”
+W. W. and Luther Page, being the owners of said property, under the writs, orders and sales above referred to, were entitled to the possession of said property, and, finding that Willie Washington was in possession thereof and refused to yield the same, they were legally entitled to the writ applied for and granted.
+In addition to the remedy afforded a purchaser of property in order to get possession thereof by Art. 630, et seq., of the Code of Practice, Act 113 of 1906, provides that:
+“Whenever any Sheriff or Constable in this State, acting under a writ of seizure and sale, a writ of fieri facias or any other order of sale, shall sell and adjudicate real estate and the occupant thereof shall not on demand deliver possession to the purchaser after he has paid the price of adjudication and received deed from the Sheriff or Constable, and due return has been made on the writ or order of sale, then the Cleric of the Court from which the writ or order of sale issued, shall on demand in writing of the purchaser or his agent or attorney, issue a writ of ejectment addressed to the Sheriff or Constable, by virtue of which the Sheriff or Constable shall put said purchaser in physical possession of the property sold, in the same manner as now provided by law for other writs of possession.”
+The purchasers of the property in controversy complied with all of the requisites, not only those contained in the Code of Practice, but also those contained in-the Act of 1906, and were therefore legally entitled to the writ which they obtained. Counsel for Willie Washington, in oral argument and in brief, argued that he, being in possession of said land and being disturbed in that possession by the issuance and service of the writ of- possession upon him, was entitled to the writ of injunction as a matter of right, and, in support of that contention, he cites the case of Baptiste vs. Southall, 156 La. Rep. 442, 100 So. 674. The cited case does not support that contention. There, the husband had obtained a judgment of separation from bed and board against his wife, Mrs. Agnes Southall, who remained in possession of some of the community property. The Court held that she was clearly entitled to be maintained in her possession as she had been in the real possession of the property for more than a year, because her husband had no valid judgment ousting her from that possession.
+The facts in the case at. bar clearly distinguish it from the cited case.
+For the reasons assigned, it is ordered, adjudged and decreed that the judgment appealed from be affirmed, with costs in both courts.
