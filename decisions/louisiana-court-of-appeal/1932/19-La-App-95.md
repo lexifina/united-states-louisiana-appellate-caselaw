@@ -1,0 +1,28 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "899"
+decided: "1932-02-08"
+citations: ["19 La. App. 95"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["INTERSTATE ELECTRIC CO. v. SLIMAN"]
+source_url: "https://static.case.law/la-app/19/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3365758
+---
+
+# Interstate Electric Co. v. Sliman
+
+## Majority (MO'UTON, J.)
+
+MO'UTON, J.
+Plaintiff company sues defendant on open account for $110.06, with legal interest, for wares and merchandise sold and delivered to him.
+The real issue presented for solution herein is as to the proper application of a check sent by defendant to plaintiff company drawn October 15, 1926, for $56.72.
+Two ledger statements copied from plaintiff’s original entries were filed by defendant.
+The first ledger shows the settlement of an old disputed account before the present controversy arose between the parties in this suit. The second ledger statement shows the present account and on which this suit is brought. This second account began on August 14, 1926, as appears from the first item carried thereon.
+The check for $56.72 was drawn on October 15, 1926, and was received by. plaintiff October 19, 1926, more than two months after the second account was opened.
+Tugel, auditor for plaintiff company, says that this check for $56.72 was given in settlement of the old account and defendant says it was not, hut should he applied to the present account.
+This statement of defendant is corroborated by the fact that the check was received by plaintiff after the opening of the second account.
+The lower court evidently accepted the version of the payment given by defendant, and rendered judgment against him for $2.50 admitted to be due, and for costs Which had accrued when that amount was deposited in the registry of the court.
+On this finding, which is based on a pure question of fact, we do not find any manifest error to warrant a • reversal.
