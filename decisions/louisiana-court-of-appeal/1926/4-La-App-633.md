@@ -1,0 +1,25 @@
+---
+court: "Louisiana Court of Appeal"
+decided: "1926-06-26"
+citations: ["4 La. App. 633"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["OTT v. DYKES"]
+source_url: "https://static.case.law/la-app/4/cases/0633-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5607198
+cites_cases: ["125 La. 1005", "127 La. 542", "129 La. 728", "136 La. 472"]
+---
+
+# Ott v. Dykes
+
+## Majority (ELLIOTT, J.)
+
+ELLIOTT, J.
+Suit in ejectment under Revised Statutes, Sec. 2155 (amended by Act 49 of 1918), defendant justifying his refusal to vacate under an option from plaintiff’s author as to 13-14th interest in the property, who had agreed' to-buy out ' all the interests in the property and then 'sell it to defendant, less the timber.
+Magee W. Ott instituted an ejectment suit against A. M. Dykes under Revised Statutes, Section 2155 (amended by Act 49 of 1918). Defendant for answer to the rule admits that the plaintiff is the apparent title owner, but he alleges that he has possession and the right to retain it under and by virtue of an option executed by A. O. Ott. That A. O. Ott, the owner of some of the interests, bound himself to acquire all the interests and then sell the property to defendant. Other defensive matters are alleged but we do not think it worth while to enumerate them, because of the conclusion at which we have arrived on the question of jurisdiction. The defendant further alleges the pendency of another suit between Magee W. Ott and A. O. Ott on one .side, in which they are the defendant, and the present defendant on the other side as the plaintiff, involving the validity of the option in question and the rights of the parties in and to the land. That this other suit was dismissed in the lower court on an exception of no cause of action and is pending on appeal in the Supreme Court. This record is annexed to defendant’s answer .and was offered in evidence; • the record mentioned has no bearing on the question of our jurisdiction in the present appeal. Defendant prays that the rule issued herein be discharged, that plaintiff’s demand be referred to the other suit and prays for judgment in reconvention against the plaintiff for $250.00 on account of mental harassment, worry and attorney’s fees.
+The district judge rendered judgment in the present suit making the rule absolute, giving defendant twenty-four hours in which to depart from the property and authorizing, in case of failure to do so, the issuance of a writ of ejectment aa prayed for by the plaintiff. Defendant moved for an appeal to this court and. the order was granted. The bond was fixed at $1500.00 for a suspensive appeal and at $100.00 for a devolutive appeal. Bond for $1500.00 was given and the appeal lodged in this court and has been argued and submitted; but it doe>s not appear that we have jurisdiction. The appeal bond is for an appeal to the Supreme Court. The Act 112 of 1916 goes far toward saving appeals and the remedy by appeal is favored and will rather be entertained than denied; but it does not seem possible that a bond for an appeal to the Supreme Court can operate to sustain an appeal to this court. It furthermore does not appear that we have jurisdiction ratione materia. The suit is based on the law of “Landlord and Tenant”, Revised Statutes, Sec. 2155 (amended by Act 49 of 1918); but there is no claim on account of rent. The only purpose of the suit on the part of the plaintiff is to eject the defendant. The possession which the plaintiff moves to recover is not valued in his petition. If there was a demand for rent, or if such was involved in the suit, then the amount due as provided in Revised Statutes, Sec. 2156, would fix the appellate jurisdiction. See Lauga vs. Baradet, 127 La. 542, 53 South. 856; but, as already stated, the question of rent is not involved in the case. The demand of the defendant for $250.00 for damages in reconvention on account of mental harassment, worry and attorney’s fees does not vest this court with jurisdiction. ' The demand in reconvention is governed in the matter of jurisdiction by the main demand. Constitution, Art. 7, Sec. 1. There is nothing in the record claimed by the plaintiff or by the defend-, ant from which we can do more than surmise concerning the value and worth of the possession in dispute. We have no jurisdiction in a situation like the present, except when the amount in dispute exceeds $100.00 in amount, exclusive of interest. Constitution, Art. 7, Secs. 29 and 35.
+It is well settled that appellate jurisdiction ratione materia should appear on the face of the record. If it does not, then the court should, ex officio, dismiss the appeal. Shreveport Bridge & Terminal Co. vs. State Board of Appraisers, 125 La. 1005, 52 South. 129; Sennette vs. Police Jury of St. Mary Parish, 129 La. 728, 56 South. 653; Lafayette Realty Co. vs. Poer, 136 La. 472, 67 South. 335.
+It is therefore ordered that this appeal be dismissed.
+Appeal dismissed at the cost of the appellant.
