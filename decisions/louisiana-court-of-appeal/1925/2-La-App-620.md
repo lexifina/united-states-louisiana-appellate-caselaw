@@ -1,7 +1,7 @@
 ---
 court: "Louisiana Court of Appeal"
 decided: "1925-06-12"
-citations: ["2 La. App. 620", "3 La. App. 472"]
+citations: ["2 La. App. 620"]
 reporter: "la-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["LOUISIANA FARM BUREAU COTTON GROWERS' CO-OPERATIVE ASSOCIATION v. W. 
 source_url: "https://static.case.law/la-app/2/cases/0620-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3294421
-cites_cases: ["2 La. App. 620", "22 La. Ann. 438", "28 La. Ann. 642"]
+cites_cases: ["22 La. Ann. 438", "28 La. Ann. 642"]
 ---
 
 # Louisiana Farm Bureau Cotton Growers' Co-operative Ass'n v. Banister
