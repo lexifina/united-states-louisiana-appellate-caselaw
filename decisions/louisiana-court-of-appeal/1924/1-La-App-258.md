@@ -1,0 +1,30 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "8732"
+decided: "1924-12-01"
+citations: ["1 La. App. 258"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SUCCESSION OF EUGENIE ARMANT."]
+source_url: "https://static.case.law/la-app/1/cases/0258-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3286665
+---
+
+# Succession of Armant
+
+## Majority (BELL, J.)
+
+BELL, J.
+The administratrix of the Succession of E,ugenie Armant has placed on her account, herself and others, whom she prays to have recognized, after payment of debts, as entitled equally to the residue of the succession, amounting to a balance of $963.55. The several parties named on the account are alleged to be respective heirs of two brothers of the deceased.
+Other parties, claiming to be heirs through a maternal sister of the deceased, oppose the account on the ground that they only are the legal heirs of the deceased, and, as such, they are entitled to the whole of the estate. This opposition has its origin in the following facts:
+Victor Armant, a white man, resided, before the Civil War, in the Parish of St. James. He is shown to have had two concubines, young family slaves on his father’s plantation. It is contended by opponents that the first of these women, Celeste Sylvestre, bore him a child, by name Eugenie Armant, in whose present succession this controversy has arisen.
+Opponents further contend that they are descendants of a maternal sister of the deceased; that Eugenie Armant, who was about eighty years old at the time of her death, never married, and that ber half-sister, Augustine Sylvestre, issue of Celeste Sylvestre and Michel Sylvestre, both slaves and now deceased, was lawfully married to Fred Jenkins, and that the issue of said marriage, as the natural descendants of Eugenie Armant, are her only heirs, entitled to inherit to the exclusion of the heirs of Eugenie’s half-brothers, although the latter were legitimated by the marriage between Victor Armant and Caroline Montagnet.
+The administratrix contends, on the other hand, that Eugenie Armant was the natural child of Victor Armant, by his second or other concubine, named Caroline Montagnet, and that Eugenie, with other issue, was legitimated by notarial act of these parties on August 20, 1873, before Alcee J. Ker, Notary Public, in the Parish of Orleans. This act of legitimation, while referred to in the index of this notary’s hound acts for the year 1873, appears to he missing from the volume itself, hut in a certified copy of the act of marriage between Victor Armant and Caroline Montagnet, shown to have been celebrated in New Orleans, on August 21, 1873, the notarial act of acknowledgment is referred to by the parties. Additional acknowledgment of Eugenie Armant as their child is also made in the act of marriage, to which the notary public, Alcee J. Ker, appears and signs as one of the two witnesses of the marriage. In further proof of the parentage of the deceased, the administratrix offers the succession proceedings of the natural father, that is, of Victor Armant, opened in the year 1886. The succession proceedings of the natural mother, Caroline Montagnet, are also offered, and this succession appears to have been opened in the year 1902. In both of these successions it is affirmatively established by competent witnesses that these deceased persons were, repectively, the father and mother of Eugenie Armant, and that her brothers, whose descendants now claim her succession, were also children of Victor and Caroline Armant.
+Again, in further proof of Eugenie’s parentage, a certified copy of the nuncupative will of Caroline Montagnet, widow of Victor Armant, passed before Alcee J. Ker, notary, on August 22, 1873, is offered, and shows public declaration by the testator that Eugenie, then about forty years old, is her child by Victor Armant.
+The only evidence offered by opponents to disprove the foregoing and abundant proof of Eugenie’s parentage is the verbal testimony of several witnesses, most of whom are shown to have been born, at the earliest, more than a generation after the deceased.
+Letters written in the English language and purported to have been written by the deceased to one of the opponents, in which she appears to sign herself as his aunt, have also been offered in rebuttal. There is considerable testimony to the effect that the deceased could neither read nor write English and that the handwriting in • the letters was not that of Eugenie Armant. The Judge who heard and saw the witnesses and who examined these letters was evidently of that opinion. Opponents’ evidence has no probative value equal to that found in the documents offered by the administratrix. It should be noted that the deceased, from the early age of eight years, appears to have lived with Victor and Caroline Armant in the City of New Orleans, and until her death some seventy-two years later, she was always known as their child.
+We are impelled by what we believe to be a preponderance of evidence of the highest probative value to conclude that Eugenie Armant, the deceased, was the natural legitimated child of Victor and Caroline Armant, and that, therefore, the heirs of her legitimated brothers are entitled to inherit her estate to the exclusion of opponents.
+The sole issue in this case is resolved into one of fact, and in the absence of apparent error, we will not disturb the conclusions of the trial judge. The provisions of the Civil Code and the authorities cited by counsel for opponents could only have application to the instant case were our conclusions as to the facts in consonance with those contended for by opponents. Agreeing as we do with the findings of the trial judge, it is unnecessary to express our conclusions- of the law cited by opponents’ counsel and found in the two briefs which have been submitted by him.
+It is, therefore, ordered that the judgment appealed from be affirmed at opponent’s costs in both courts.
