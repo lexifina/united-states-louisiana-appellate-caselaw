@@ -1,0 +1,49 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "No 3313"
+decided: "1904-02-08"
+citations: ["1 Teiss. 103"]
+reporter: "teiss"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALBERT ELMER vs JOSEPH PRESCOTT."]
+source_url: "https://static.case.law/teiss/1/cases/0103-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6759044
+cites_cases: ["1 R. 149", "10 R. 18", "16 La. 100", "19 La. 372", "22 A. 215", "29 A. 663", "3 A. 150", "3 A. 562", "32 A. 848", "32 A. 849", "33 A. 585", "42 A. 179", "42 A. 181", "46 A. 1485", "7 R. 222"]
+---
+
+# Elmer v. Prescott
+
+## Majority (MOORE, J.)
+
+MOORE, J.
+During the existence of the community between Joseph Prescott and Rose Williams resulting from their marriage,' a certain piece of real estate situated in the City of New Orleans was acquired in the name of the head of the community.
+Subsequently the community was dissolved by the death of the wife. Several children, all minors, were left as her heirs.
+Some eignteen months after his wife’s death executory process issued against the community real estate above stated, on a note secured by mortgage on the property, executed by Joseph Prescott. Thereupon Prescott in his own name and for his minor children sued out and obtained an order enjoining the further execution of the writ on the ground that the property mortgaged was community property and that the note, as well as the mortgage securing same were executed by Prescott subsequent to his wife’s death.
+To the petition for injunction Elmer filed his answer tendering the general issue and specifically prayed for a personal judgment against Joseph Prescott for the amount of the note.
+There was judgment perpetuating the injunction, and reserving to Elmer “all rights which he may have against Joseph Prescott individually and the residuary interest he may have in the property belonging to the community existing between him and his deceased wife after liquidation thereof.”
+From the judgment Elmer, the plaintiff in writ, defendant in injunction appeals.
+The note sued on is for $250.00; it is dated June 25, 1898, and is executed by Joseph Prescott, six months after the death of his wife. The mortgage, was executed on the same day as that borne by the note and affects the property acquired by the community. The communhy is unliquidated and owes considerable debts. It is contended here by the learned counsel for the appellant that the injunction wrongfully issued and was improperly maintained and that it should now be dissolved with damages.
+The question of the rightful or wrongful issuance of the injunction is no longer an issue in the cause, the appellant himself having eliminated that issue by his pleadings. It is well settled that a creditor by praying for a. judgment against his debtor, as does Elmer the defendant in injunction, changes the proceedings from the via cxecutiva to the ordinaria and no longer asks for the seizure and sale of the particular property mortgaged to satisfy his claim; but seeks to obtain such a judgment as he may cause to be executed on any other property belonging to his debtor, in case the proceeds of that specially mortgaged should prove insufficient.
+The executory proceeding being thus voluntarily abandoned the injunction is thus sustained and of course no damages can be allowed.
+McMillen vs Corlin 16 La. 100.
+McMillen vs McKewill 19 La. 372.
+Brooks vs Walker 3 A. 150.
+Walker vs Ducros 22 A. 215.
+There is left, however, to be ascertained whether the plaintiff in writ, the appellant here is entitled to a personal judgment against J oseph Prescott with recognition of a mortgage, and to what extent that mortgage may be enforced. The note of evidence shows that the note and act of mortgage were formally introduced in evidence and were received without objection. No defense to the note whatsoever has been established. Its amount, as stated, is for $250.00; it stipulates for interest at the rate of eight per cent per annum from its da,te until paid, and the act of mortgage provides for attorney fees at the rate of ten per cent on the amount sued for. For this amount the appellant is clearly entitled to judgment against Joseph Prescott and it should hav.e been awarded by the trial Judge.
+The final question to be determined is as to the effect of the mortgage claimed.
+As stated, the property sought to be mortgaged belonged to the community and the mortgage was consented thereon by the surviving spouse after the death of his wife. It assumes to cover the entire property and to this extent we are asked to recognize the mortgage.
+We do not and cannot regard this as seriously urged as it is elementary' that after the dissolution of the community of acquets and gains, the husband, if he should survive, has no authority as the head of the community to bind the common property by his contracts and to alienate it without restraint.
+Each party, after the dissolution, is seized of one undivided half-of the property and the surviving party can not validly alienate the share not belonging to him., 7 R. 222, 9 L. R. 564; 1 R. 149; 378; 10 R. 18; 3 A. 562; 29 A. 663; 32 A. 849; 32 A. 848; 33 A. 585. 109 La. Thompson vs. Vance.
+The surviving spouse, however, being seized of the undivided half of the property takes the title absolutely arid the title so vested continues in him or her subject to be divested at any time by the creditors of the community. Such title as the}'- may have they may alienate; the third person acquiring same taking it to the full extent of the transferror’s interest in it. As was said in Webre vs Lorio 42 A. 179: There is nothing in the jurisprudence of this State, in the Code or the decisions of the Courts to prevent the surviving spouse from disposing of his or her share of the community property; see also Newman vs. Cooper 46 A. 1485, and Thompson vs Vance 1x0 La. where this question is fully discussed and numerous authorities cited.
+To the extent therefore of the undivided half of the property the mortgage is good, subject however to the paramount right of community creditors to be preferred in the payment of their claims; that is to say that to the extent of the residuum of the surviving spouse the mortgage is to be recognized.
+The creditor acquiring such mortgage is entitled, in case of non-payment, to have the mortgaged property seized and sold to satisfy his claim, subject to have his title expropriated or out ranked only by the creditors of the community; but while the Succession of which the property forms part is under administration, as is the case here, the mortgage creditor cannot be permitted to strip the Succession representative who presently is the tutor of the minor here of the possession to which he would otherwise be entitled for the liquidation of the Succession affairs.
+‘ ‘It is manifest what the heir himself could not do his transferee or creditor cannot.
+‘ ‘The law provides the mode for the settlement and liquidation of the community, and where the heirs or creditors require it the Succession must be administered. No one can interfere with the administration of the Succession by selling its property and taking it away from the control of the administrators.” Webre vs Lorio 42 A. 181 and cases there cited.
+The Succession of Rose Williams and the community owed debts and an administration of the same was necessary.
+So that whilst the mortgage asserted will be recognized as bearing on the undivided one half of the property, subject to the superior claims of the creditors of the community, our Judgment will likewise prohibit the plaintiff in execution, or any purchaser of the property should it be offered for sale and sold uuder execution herein from taking the property from the control or possession of the Succession representative. To make our decree the more explicit we find it necessary to set aside the decree of the lower court and enter such decree as will conform to the views herein expressed.
+It is therefore ordered, adjudged and decreed that the Judgment appealed from be avoided and reversed; and it is now ordered, adjudged and decreed that the injunction herein be perpetuated; that Albert Elmer do have Judgment in personam against Joseph Prescott in the sum of two hundred and fifty dollars with 8 per cent, per annum interest thereon from June 25, 1898, until paid and ten per centum thereon, principal and interest, as attorney’s fees; that the mortgage executed by the said Joseph Prescott in favor of the said Albert Elmer to secure said'sum in principal, interest and attorney’s fees on the property described in the petition be - and the same is hereby recognized to bear on and affect only the undivided one half of said property, subject to the paramount claims, however, of the community creditors of the community of acquets and gains lately existing between Joseph Prescott and his deceased spouse Rose Williams, the title to said property, if acquired at a sale under execution of this judgment, if the same is executed, to be subject to be divested at any time by the community creditors of the community aforesaid or by the representative of the Succession of Rose Williams when necessary for the liquidation, in said Succession, of community debts; and that neither the plaintiff herein, Albert Elmer, nor any purchaser at a judicial sale of the property herein, in the event the said property is sold under execution of this judgment, shall take the property which may be thus sold from the control or possession of the representative of the Succession of Rose Williams, but the same shall remain with the Succession effects to be administered according to law.
+Filed February 8, 1904.
+The costs of the lower Court as well as those of this Court to be paid by the Appellee.
+Judgment reversed.
