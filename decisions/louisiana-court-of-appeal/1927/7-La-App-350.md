@@ -1,0 +1,32 @@
+---
+court: "Louisiana Court of Appeal"
+decided: "1927-06-07"
+citations: ["7 La. App. 350"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McCOLLISTER BROS. v. LABARRE"]
+source_url: "https://static.case.law/la-app/7/cases/0350-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3310655
+cites_cases: ["106 La. 586", "139 La. 1078", "31 So. 131", "5 Rob. 111"]
+---
+
+# McCollister Bros. v. Labarre
+
+## Majority (MOUTON, J.)
+
+MOUTON, J.
+Plaintiff sues defendant for $513.75, the price of a Frigidaire Machine with a Fountain or Cooler attachment. The contract for the machine was entered into between plaintiff and defendant on May 5, 1926. In the top corner of the contract appear in large print the words: “Frigidaire Order”. It is signed by J. C. McCollister for plaintiff, and by Mrs. Labarre, defendant. The price is fixed at $513.75. for the machine, when installed. It is made payable on terms or cash. The contract guarantees the machine against defective material or workmanship, which is practically the same warranty that is implied in all sales.
+Plaintiff prayed for judgment against defendant for the price of the machine with legal interest from judicial demand.
+Defendant joined issue by filing her answer, and thereafter filed an exception of no cause or right of action.
+The amended petition in no way changes or alters the substance of the original demand and was therefore properly allowed by the lower court. C. P. 419; Kansas City Ry. Co. vs. R. R. Commission, 106 La. 586, 31 So. 131; Coleman vs. Continental Bank & Trust Co., 139 La. 1078, 72 So. 742.
+The agreement embodies on its face the essentials of a contract of sale, but the terms of payment are not fixed therein. The terms, as appears from the evidence, were left out of the contract for future agreement between plaintiff and defendant.
+Parol evidence is not admissible against or beyond what is contained in the Acts, nor on what may be said before or at the time of making them or since. C. C. 2276.
+This rule of exclusion, as contended by counsel for plaintiff, applies to all written acts, whether for the sale of real estate or movables; Knox vs. Liddell, 5 Rob. 111. This rule of exclusion yields, however, to allegations of fraud or misrepresentation upon which defendant relies to establish her defense.
+The main defense is that defendant was induced to sign the contract by J. C. McCollister, who sold the machine under the promise by him that she would not have to take the outfit, or to pay for it, unless it worked to her entire satisfaction. The proof to establish this defense necessarily goes against or beyond the warranty expressed in the deed, but was admissible to sustain the defense under the averments of fraud and misrepresentation made in the answer.
+The deal for the machine was made in the office of McCollister in Lake Charles. Defendant says she told McCollister she did not want to sign for “anything I didn’t know anything about”. The proof is that she knew very little, if anything about a Prigidaire Machine. She says she refused to sign. She testifies that McCollister then said: “I will write all over the face of that paper if the machine does not prove satisfactory you don’t have to take it.” She says, McCollister said, she would not have to buy any ice for her hotel, the machine would furnish what she needed.
+A. B. Cudd was present in the office when the contract was being made for the machine. He says Mrs. Laharre refused twice to sign the contract. He testifies, the reason given by her for refusing to sign was because she wanted to know more about the machine before she bought it. He says, McCollister told her she would not have to take the machine or she would not have to keep it, unless she was satisfied with the machine after it was installed. He testifies that McCollister said he would write all over the face of that contract if she required it, that satisfaction was guaranteed on sale. It was after that statement that defendant signed the contract, Cudd says.
+McCollister says he told defendant that each tray of the machine would freeze 144 cubes at a time, 20 pounds of ice, and that it would freeze that three times a day, which he testifies was the capacity of the machine. In this he is corroborated by Pairman who was also present when the transaction took place. They both deny that the machine was warranted to give entire satisfaction. It is true that the term of payment is not of the essence of a contract of sale, hut in the instant case it becomes an important factor in assisting to determine the question of guarantee which defendant contends was given to her when she affixed her signature to the contract. The fixing of the terms of payment is an important condition in a contract of sale. It is unusual in such a contract to leave the fixing of the terms to a future agreement. Mrs. Laharre says the understanding was that she would pay for the machine if it worked to her satisfaction. In this case she is supported by the testimony of Cudd, a disinterested witness. It is true the contract is couched in language ordinarily used in a contract of sale, hut, it will be noted, that in large print on the face of the agreement appear the words: “Prigidaire Order”. The evidence shows that McCollister was very anxious to get an order for the machine which he needed before delivering one to Mrs. Labarre. We are of the opinion that the true intent which governed the parties when- Mrs. Labarre signed the contract was that she would pay the price if the machine operated satisfactorily after it was installed, and at which time the terms of payment were to be fixed. It was upon the fulfillment of this guarantee or special warranty that the enforcement of the price of sale depended. Mrs. Labarre was induced to sign on the false promise upon which this warranty was based. The proof shows that the machine fell far short of giving satisfaction, and that it did not come up to the guarantee. The defendant is therefore not liable for the price of the machine.'
+After submission of this case the defendant departed this life and Samuel W. Hooks, the testamentary executor, was duly made party hereto.
+It' is therefore ordered and decreed that the judgment appealed from be avoided and reversed, and that the demand of the plaintiff be rejected with costs in both courts. 1
