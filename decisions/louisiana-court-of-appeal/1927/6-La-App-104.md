@@ -1,0 +1,38 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "2149"
+decided: "1927-02-24"
+citations: ["6 La. App. 104"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["AUTOMOBILE FINANCE & SECURITIES CO. v. COMMERCIAL MOTOR CO., INC."]
+source_url: "https://static.case.law/la-app/6/cases/0104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5613174
+cites_cases: ["146 La. 671"]
+---
+
+# Automobile Finance & Securities Co. v. Commercial Motor Co.
+
+## Majority (REYNOLDS, J.)
+
+STATEMENT OF THE CASE
+REYNOLDS, J.
+Plaintiff sues defendant for $912.10 damages for alleged breach of contract.
+Defendant sold to one Jack Allison a certain' automobile, taking, in part payment thereof, his ten promissory notes,'each for the sum of $108.35, all dated November 6, 1919, all drawn payable to the order of plaintiff, one qn December 6, 1919, and one on the 6th day of each of the ne'xt succeeding nine months, all bearing 8 per cent per annum interest from their maturity until paid, all stipulating payment of fifteen per cent on the amount of principal and interest if placed in the hands of an attorney for collection, and all stipulating that upon default in the payment of any one of them at its maturity or in compliance with the terms of the mortgage given to secure their payment, all of the notes remaining unpaid, whether due or not, should immediately become due and payable. All of the notes were paraphed “Ne Varietur” by W. M. Phillips, a notary public of Caddo Parish, Louisiana, as of date November 6, 1919, to identify them with an act of mortgage of that date granted by Jack Allison on the automobile to secure the payment of the promissory notes and other obligations mentioned in the mortgage.
+The mortgage stipulates, amongst other things, that the vendor, or any future holder of the notes, might effect on the mortgaged property in the name of the purchaser for the use and benefit of the vendor or holder, insurance in such amount and covering such risks and casualties as the vendor or holder might deem proper, and that in case of loss the amount received should be credited pro tanto on the amount of the indebtedness of the purchaser and the surplus, if any, be paid to him.
+The automobile was insured against loss by reason, amongst other things, of damage done to or sustained by the automobile in collision.
+The promissory notes and the mortgage and insurance contract were sold by the defendant to the plaintiff under an agreement between them stipulating, amongst other things, as follows:
+‘‘Seventh: The dealer (defendant) * * * further agrees that in the event the finance company (plaintiff) is compelled, in order to protect its debt, to purchase a,t foreclosure sale any vehicle, the credit purchase notes of which had been sold by the dealer (defendant) to the finance company (plaintiff), that he will on demand purchase and take such vehicle from the finance company (plaintiff) and pay to it therefor the actual amount then due by such purchaser, together with the actual expenses incurred in such foreclosure.”
+Allison paid the first two maturing of the notes but failed to pay the remaining eight.
+On February 17, 1920, the automobile was wrecked in a collision and the plaintiff promptly notified of it. The collision happened in Alexandria, Louisiana. The car was put in shipping condition at a cost of $45.00 and shipped to Shreveport at a cost of $50.00. At Shreveport plaintiff foreclosed its mortgage on the automobile and bought it in. Plaintiff accepted $200.00 from the insurance company in full settlement of its liability under the policy of insurance for the damage to the automobile. In addition to the repair bill and freight charges plaintiff incurred other expenses in connection with the recovery of the automobile as follows: sheriff’s costs $28.10, clerk’s costs, $11.10, attorney’s fees, $25.00, and storage charges $168.61. These items added to the amount owing on the eight promissory notes, $971.77, less a credit of $200.00 received from the insurer, ■left a balance of $1094.58 claimed by plaintiff, which, amount' it demanded of defend-. ant and tendered it the automobile, and defendant having refused to pay the ; amount or accept the automobile plaintiff 1 brought this suit. • !
+Defendant denied liability on the ground ' that its obligation to indemnify plaintiff j was conditioned on its minimizing its loss ; as much as possible by keeping the auto- , mobile fully insured and collecting from ; the insurer the full amount of its liability, ' foreclosing its mortgage on the automobile as soon as it was entitled to do so, and by I promptly having the automobile put in as good condition as it was before the colli- : sion at its own expense and promptly ten- ■ dering it repaired to defendant; that plaintiff had unnecessarily increased the amount of the loss by accepting from the insurer : less than it was liable for, by neglecting promptly to foreclose its mortgage, by failing to have the automobile restored to the condition it was before the collision, and by , allowing the battery and tires to become worthless and storage charges to accumulate by unnecessarily keeping the car in storage. ;
+On these issues the case was tried and ■ there was judgment in favor of the defend- , ant and plaintiff appealed.
+OPINION
+The question to be determined in this case is. whether plaintiff promptly did all that was possible to minimize its damages.
+It is not disputed that the automobile was insured for the small value, less $50.00, against damage by collision; and it is also made clear that the automobile was reduced to a wreck by a collision. Plaintiff took into its own hands the matter of adjusting with the insurer the amount to be paid by it in settlement of the loss, and without consulting ■ defendant ' accepted from the insurer $200.00.
+The' insurer having been liable for the value of the car, less $50.00, and plaintiff having accepted from it $200.00 in discharge of that liability, the burden was on plaintiff to show that this was a fair and reasonable settlement. At the time of the collision the automobile was less than four months old. It is in evidence that it would have cost from $300.00 to $900.00 to have put it in the condition it was before the collision.
+In our opinion defendant’s only obligation 'under the contract between it and plaintiff was to accept the car and pay plaintiff whatever might be owing to it on the notes and the expenses of foreclosure, and it was plaintiff’s duty to foreclose its mortgage as soon as it was entitled to do so. It was not in the contemplation, of the parties that the purchaser should be left in possession of the automobile notwithstanding he was in default in the payment of his notes. Nor was it in the contemplation of the parties that defendant should hold plaintiff harmless against damage to the automobile. And a fortiorari it was" not in the contemplation of the parties that in case of damage to the automobile by collision plaintiff might accept from the insurer such sum as he saw fit and hold defendant for whatever might be owing on the purchaser’s notes. ' ■
+Before plaintiff could recover for breach of the contract sued on he would have to put himself clearly in line' with the conditions under which the defendant agreed to accept the automobile and pay plaintiff what might be owing on the notes and the expenses he had been to in' foreclosing the mortgage; and the evidence convinces us that he has nót done this.
+For the above reasons, it is ordered, adjudged and decreed that the judgment appealed from be affirmed.
