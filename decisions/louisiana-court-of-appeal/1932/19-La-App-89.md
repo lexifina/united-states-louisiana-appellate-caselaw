@@ -1,0 +1,23 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "13,892"
+decided: "1932-02-15"
+citations: ["19 La. App. 89"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRANZ v. R. P. FARNSWORTH & CO., INC."]
+source_url: "https://static.case.law/la-app/19/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3362904
+---
+
+# Franz v. R. P. Farnsworth & Co.
+
+## Majority (WESTERFIELD, J.)
+
+WESTERFIELD, J.
+Plaintiff is the owner of the premises No. 228 North Rampart street. She brings this suit against R. P. Farnsworth & Company, Inc., a contracting firm, for damages, alleged to have been caused to her property by the defendant as the result of the removal of a party wall between her property and a building known as the Young Men’s Gymnastic Club, which was demolished by defendant in the execution of the contract which it had for the erection of a new building. The amount claimed is $167.30, for which plaintiff obtained judgment, as prayed for below, and defendant has appealed.
+It appears that, prior to the destruction of the party wall, plaintiff and defendant entered into an agreement, whereby the defendant undertook to indemnify plaintiff for any damages which might be caused •thereby. Plaintiff’s claim is resisted upon the ground that the damages claimed did not result from the destruction of the wall, but were repairs made necessary by the condition of plaintiff’s property existing before the removal of the wall.
+The record is unusually large, considering the amount involved, and the case has been vigorously- prosecuted and defended by able counsel. After a consideration of the conflicting testimony, it is our opinion that the trial court correctly found that the evidence preponderated in favor of the plaintiff. Consequently, and for the reasons herein assigned,
+The judgment appealed from is affirmed.
