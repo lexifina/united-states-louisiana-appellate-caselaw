@@ -1,0 +1,52 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "2558"
+decided: "1926-02-08"
+citations: ["3 La. App. 555"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN R. FUQUA v. C. P. COUVILLION, as Sheriff, and SAMUEL MOREAU."]
+source_url: "https://static.case.law/la-app/3/cases/0555-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3295829
+---
+
+# Fuqua v. Couvillion
+
+## Majority (REYNOLDS, J.)
+
+REYNOLDS, J.
+He prayed that he might be decreed to be the owner of the automobile and that the sheriff and seizing creditor be perpetually enjoined from proceeding with the seizure and sale thereof.
+He further prayed that a temporary restraining order issue restraining the defendants from selling the property and that they be required to show cause on a day to be fixed by the court why the temporary restraining order should not be extended until final judgment in the case.
+On the same day the court granted a temporary restraining on the plaintiff’s giving bond in the sum of $250.00 and ordered the defendants to show cause on October 21, 1925, why this order should not remain in force until final judgment.
+The plaintiff gave the bond and the temporary restraining order issued.
+On October 20, 1925, the plaintiff, with leave of court, filed an amended petition, in which he set forthe that the allegation in his original petition that he had sold the automobile to Laborde on June 19, 1925, for $800.00, of which $50.00 was paid in cash and $750.00 was on a credit, was erroneous; that, in fact, the
+“* * * said automobile was sold in the first instance to said Robert Laborde by Paul Hoffman Company, Incorporated, whose domicile is in thp city of Los Angeles, state of California, and that on June 16th, 1925, petitioner was sold transfered and assigned the contract of sale and interest therein by said company; that on said June 16th, 1925, petitioner entred into a contract with said Robert Laborde, and it being the same contract of sale which existed between the said Paul G. Hoffman Company, Incorporated, with the exception of the terms of payment, wherein and whereby the said contract between petitioner and Laborde, the said Laborde promised and bounded himself to pay petitioner the sum of $86'0.00 as the purchase price of said automobile, of which the sum of forty dollars has been paid petitioner, ¿and leaving a balance of $760.00 still due and owing petitioner on the said automobile; that otherwise the said Laborde’s contract of sale with the said Paul G. Hoffman Company, Inc., was' to remain the same and continue to be the contract between the said Laborde and petitioner.”
+He further alleged that by reason of the fact that the Paul G. Hoffman Company, Incorporated, retained the title to the automobile until it should be paid for, that “by reason of the assignment to him by said company of its contract of sale with Laborde he became vested with the title to the automobile until the purchase price should be paid.
+And he readopted the prayers of his original petition.
+On the same day, October 20, 1925, the plaintiff filed, with leave of court, a second amended petition, in which he reiterates the allegations and prayer for his first amended petition.
+The defendants answered the petition and denied that plaintiff was the owner of the automobile and that he had sold it to Laborde and that a balance of purchase price was owing on it, and alleged, in the alternative, that if plaintiff did sell Laborde the automobile and if any part of the purchase price remained unpaid, then that plaintiff had no other rights in the premises than a vendor’s privilege, which did not entitle him to prevent a sale of the automobile.
+They denied that the laws of the state of California permit a vendor of a chattel on credit to retain title to the property until the purchase price is paid, and aver, in the alternative, that if such be the law of the state of California, they are modified when contracts under them are sought to be enforced in Louisiana so as not to permit injustice to be done to creditors of such a purchaser, and that in such a case the vendor with reservation of title in himself should be relegated for his security to the vendor’s privilege allowed him by the laws of the state of Louisiana.
+They prayed that the preliminary restraining order granted be recalled and annulled and that the injunction prayed for be denied.
+Defendants also filed a supplemental answer setting up that plaintiff’s amended petition alleged a different condition of things regarding his title to the automobile from that alleged in his original petition and that his rights to the restraining order must be determined by the condition of things set forth in his original petition and not those alleged in his amended petition.
+They prayed that the temporary restraining order granted be recalled, the injunction prayed for denied and plaintiff’s petition dismissed.
+Thereupon plaintiff filed a motion asking that the date of the hearing on the application to show cause be reset so as to allow him time in which to procure the necessary evidence to support the allegations of his petition.
+The motion, which is verified by plaintiff’s attorneys, sets out that plaintiff is a non-resident of the state of Louisiana and a resident of Los Angeles, California, and was then actually in Los Angeles, California; that his testimony is material and necessary on the hearing, and that he could not safely go to trial without it; that it is necessary to take his testimony by commission; and that it is impossible to have a commission for the purpose issued and returned by the day set for the hearing on the order to show cause.
+The court overruled the motion for continuance and also denied allowance of leave to file the first and second amended petitions, and to these rulings the plaintiff reserved exceptions.
+The trial of tie case was thereupon proceeded with, and on October 23, 1925, judgment was rendered dissolving the temporary restraining order, and refusing a preliminary injunction.
+Thereupon the plaintiff requested the court to grant him an appeal, both suspensive and devolutive, returnable to this court according to law, and to fix the amount of the bond and the -return date for the appeal.
+The court refused to grant a suspensive appeal, stating that it could not find any authority to do so under Act 29 of 1924. It granted a devolutive appeal, returnable to this court on November 25, 1925, and fixed a bond at $50.00.
+On November 12, 1925, plaintiff obtained from this court an alternative writ of mandamus directed to the trial judge directing him to show cause on November 1, 1925, why an order directing him to grant the plaintiff the suspensive appeal asked for should not be issued, and directed to the defendants, commanding them to proceed no further toward the sale of the automobile under the execution until the further order of this court.
+This order to show cause was argued and submitted to this court on its return day, but no judgment has heretofore been rendered in that matter.
+OPINION.
+The question presented for decision in this case is, should plaintiff’s application for a continuance of the rule to show cause long enough to enable him to procure his evidence from California have been granted?
+The application for continuance is supported by the affidavit of, Mr. Wade Norman, one of plaintiff’s attorneys, and sets forth that the plaintiff is a non-resident of the state of Louisiana and a resident of the state of California, and that he was at the time of the application actually in the city of Los Angeles in said last named state; that plaintiff’s evidence is material, essential and necessary to his case; that it was necessary to take plaintiff’s testimony under commission, and that it was his intention to do so, and that it was physically impossible to have a commission for this purpose issued, executed and returned between the date plaintiff’s suit was filed and the return day of the order to show cause why a preliminary injunction should not issue. That plaintiff expects to prove by his testimony that he sold the .automobile in question to Robert Laborde for the price of $800.00 in the state of California, of which amount $40.00 was paid in cash and the balance was to be paid at later date; that no part of said balance has been paid'; that at the time of the sale it was stipulated that the title to said automobile should not pass from plaintiff to said Laborde until the purchase price was fully paid; and that the laws of the state of California authorized such contracts.
+Plaintiff’s suit was filed October 17, 1925, and the preliminary restraining order was granted the same day.
+The rule to show cause why this restraining order should not be made permanent pendente lite was made returnable October 20, 1925.
+The motion for a continuance was filed and overruled on October 20, 1925, and final judgment was rendered in the case on October 23, 1925.
+We do not think that from October 17, 1925, to October 20, 1925, sufficient time for plaintiff to come in person from Los Angeles, California, to court, to give his testimony, or to have a commission issued to an officer in that city to take his testimony to be executed and returned.
+Plaintiff could not anticipate the defenses set up by the seizing creditor in his answer to plaintiff’s petition in the case; and Article 464 of the Code of Practice prescribes that a party to a cause shall have reasonable opportunity to procure his evidence before being forced to trial.
+We think that under the conditions disclosed by the record the motion for a continuance should have been granted and, the plaintiff not having had reasonable opportunity to present his evidence through no fault of his own, it follows that all proceedings had in the case subsequent to his application for a continuance are null and void.
+This conclusion dispenses with the necessity of our proceeding to judgment on the application for writs of mandamus and prohibition.
+It is therefore ordered, adjudged and decreed that the judgment appealed from be reversed, avoided and set aside, and the case is remanded to the District Court to be proceeded with according to law after giving to the plaintiff fifteen days time after the record in. the case shall have been returned to that court in which to obtain evidence in support of his application for a preliminary injunction.
