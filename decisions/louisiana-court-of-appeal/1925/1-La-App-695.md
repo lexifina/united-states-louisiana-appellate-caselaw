@@ -1,0 +1,47 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "1918"
+decided: "1925-02-20"
+citations: ["1 La. App. 695"]
+reporter: "la-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["AL. LOPER v. GILLIAM WHITE"]
+source_url: "https://static.case.law/la-app/1/cases/0695-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3282458
+---
+
+# Loper v. White
+
+## Majority (CARVER, J.)
+
+CARVER, J.
+This is a possessory action. Plaintiff’ alleges as follows:
+1.
+“That on December 30th, 1910, he purchased 86.65 acres of land in Section 17, Township 15, Range 15 and a strip of 7 acres adjoining in Section 18, Township 15, Range 15, in Caddo - Parish, Louisiana, which land was pointed out to him by the said Foster and he at once took possession of it and has been in the actual, notorious and public possession of said property as owner thereof from that time until the present having cleared the same and put improvements ’thereon.”
+2.
+“That within the last week or ten days Gilliam White also a resident of Caddo Parish, La., has trespassed upon said land and has taken possession thereof against the protest and wishes of your petitioner.”
+Defendant answers admitting paragraph No. 1 and denying paragraph No. 2. Before answering he asked for an order to survey, alleging that he had Teased from the heirs of James Foster “that portion of Section 18, Twp. 15, R. 15, adjoining the land owned by the plaintiff and described in his petition in this case, which land leased to the defendant is described as follows: Begin 20ch. S. and 21ch. of the N. E. corner of Sec. 18, T. 15, R. 15; thence parallel road; thence W. 30 degrees and 15 minutes N. along said road to an angle in said road; thence N. 2 degrees and 46 minutes W., continuing along said road to the E. and W., continuing along said 1/2 of said Section; thence E. to the beginning, the location of the East boundary of said land the one in controversy”.
+And that “the controversy in this case arises over the correct location of said line between the land of plaintiff and the tract leased to this defendant”.
+The District Judge refused to order the survey.
+Upon the trial plaintiff offered to prove that defendant had gone into a house of which he was in possession and torn up the floor and also cut some land, by which we presume was meant cutting the trees thereon.
+Defendant’s counsel objected on the alleged ground that these doings did not occur on the land described in the petition but on other land and that the introduction of the evidence without obection might have the effect of broadening the pleadings.
+It was perhaps prudent, for the reason given, for counsel to make this objection, because it might have had the effect he feared; but we think the District Judge correct in overruling the objection. To prove his case it was incumbent on plaintiff to show that the defendant had done something amounting to a trespass and to show also that this something was upon the land described in the petition; but he could not be controlled in the order of his proof and had the right to prove first whichever one of these things he chose.
+Defendant thereafter offered to introduce the deed under which plaintiff held, and upon plaintiff’s objection it was ruled out. We think this ruling erroneous.
+The question of title is, of course, not involved in the suit and the deed is not admissible on that ground. Perhaps it cannot show what land the plaintiff was actually in possession of, and were that the only question it would not, perhaps, be admissible on that ground; but we think it is not only admissible but necessary to show what land the plaintiff alleges himself to be in possession of; and we are clear that the proof must be restricted to trespasses upon the land described.
+The plaintiff in a possessory action need not describe the land in any particular way, whether by section, township or range, natural boundaries, or otherwise; it is sufficient if he describes it in such way as will give defendant reasonable notice. It will have sufficed to say, in this case, that plaintiff was in possession of 93.65 acres in Sections 17 and 18, Township 15, Range 15, or to say a tract of land on the Spring Ridge and Keatchie road, about so many miles from some well-known point, as, for instance, Shreveport; but whatever description he chooses to use he must be held to and cannot sustain a suit charging trespasses on one tract of land by proof of trespass on another.
+The allegation in this case, as we understand it, is that the land trespassed upon is that purchased by plaintiff. His deed, therefore, is virtually a part of the description he chose to use. Defendant perhaps might have demanded oyer of the .deed as an integral part of the description alleged in the petition, but certainly he has the right to complete the description referred to by plaintiff in the petition but left incomplete for lack of the deed to which reference was made.
+We do not understand that the allegation as to Foster’s pointing out of the land either adds to or detracts from the description given which is clearly the 93.65 purchased, 86.65 acres in Section 17 and a strip of 7.00 acres adjoining in Section 18. The allegation in “which land was pointed out to him by Foster” and this can mean only that the land pointed out was the same land he bought. The allegation as to taking immediate possession and enjoying subsequent possession refers also not to any 93.65 acres which might float over nearly any part of the two Sections but to the 93.65 acres purchased.
+Defendant also sought to prove by a surveyor that neither one of the two trespasses had occurred on the land described in the petition, but upon objection of the plaintiff the surveyor’s testimony was ruled out. Defendant’s counsel did not state in his offering but does in his brief that the house and premises whereon the alleged trespasses were committed were about half a mile from the land described in the plaintiff’s petition. We think he had a right to do this if he could. The question in the case is not whether • the defendant committed a trespass on any land in the possession of the plaintiff hut whether he committed the trespass for which he was sued, namely, one on the land described in the petition.
+Plaintiff has not argued the case in this court, having merely filed a statement to the effect that the controversy has become a moot one for the reason, as he says, that plantiff not having been able to pay for the land has given it up and defendant has bought it and is in possession. These facts are not shown by the record and would not constitute any reason for affirming the judgment of the lower court if they were. The defendant has been condemned to pay the costs of the suit, which is an injustice to him if it be true, as he claims that the trespasses of which he stands convicted were not trespasses for which he was sued. The plaintiff did file a brief in the lower court, which we have read but the points he makes and the decisions he cites are not, we think, pertinent to this case. None of these points are disputed by defendant’s counsel nor is the ruling in any of the cases cited questioned by him. These points are; that where plaintiff in a possessory action annexes a deed to the petition for the sole purpose of showing possession, the action is not thereby changed into a petitory action; that possession as owner for a year or more is the only requisite to support the possessory action; that it is immaterial how ownership may have been acquired provided it is one of the methods required by law; that the prayer of the petition fixes the character of the action; and that actual possession if legal and peaceable, is sufficient to maintain the action against even the lawful owner who disturbs the possession.
+The authorities cited support these points, but they do not meet the issue here, which is, as said above, that the plaintiff cannot bring a suit charging trespass upon one piece of land and s'ustain it by proof of a trespass upon a different piece.
+The judgment of the lower court was in favor of plaintiff. We think it erroneous, and therefore it is decreed that said judgment be set aside and the case remanded to the lower court to be proceeded with according to law and the views expressed in this opinion. The costs of the appeal to be paid by plaintiff; those of the lower court to await the final result.
+
+## Rehearing (REYNOLDS, J.)
+
+ON APPLICATION FOR REHEARING
+REYNOLDS, J.
+Plaintiff, appellee, makes an earnest application for rehearing herein and urges that his evidence taken in the case entitles him to a judgment.
+We agree with plaintiff, appellee, that his evidence, undisputed, entitles him to a judgment, but defendant, appellant, sought to disprove plaintiff’s evidence and (not for the purpose of proving title but solely for the purpose of fixing the exact location of the. property suéd for) offered to introduce in evidence the deed to plaintiff in order that he might show that he had not been on any part of the property sued for and that he did not in any way trespass upon said property. His evidence was improperly excluded. Before he can be condemned he must have an opportunity to present his evidence and to have same considered insofar as it is legally evidence.
+The application for rehearing is refused.
