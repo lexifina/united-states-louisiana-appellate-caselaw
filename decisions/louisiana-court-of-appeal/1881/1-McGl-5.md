@@ -1,0 +1,29 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "50"
+decided: "1881"
+citations: ["1 McGl. 5"]
+reporter: "mcgl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. R. Alcee Gauthreaux v. C. E. Girardey, Auctioneer, et al."]
+source_url: "https://static.case.law/mcgl/1/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2469779
+---
+
+# Gauthreaux v. Girardey
+
+## Majority (McGloin, J.)
+
+McGloin, J.
+This is an application for an injunction restraining defendant, O. E. Girardey, auctioneer, from selling certain real property at public sale. The petition and the advertisement of said sale annexed to said petition show that the contemplated sale was tpith the consent of all parties directly interested, and that it was being made in pursuance of an order of a competent Court. Plaintiff, as civil sheriff of this parish, basis his application upon sections 3548 and 3549 of the Revised Statutes. By the former, judicial sales made in pursuance of any order, judgment or decree of any court of this State, other than justices of the peace, are directed to be made by the sheriff of the parish in which is located the property to be sold, except in cases to be mentioned. The other section permits the property of successions, insolvencies, minors, or persons interdicted, to be sold by such sheriff, or an auctioneer, or the legal representatives of such successions, insolvencies, minors, or persons interdicted.
+The contention of plaintiff is that this is prohibitory legislation, rendering null and void all that is done in contravention thereto.
+Civil Code, 1963, declares that no law shall operate to enlarge or restrain the intent of parties, unless it be some prohibition or other provision which the parties had no right to> modify. To the same effect is O. O. Art. 11. Indeed, it would need no express law to formulate this principle, for it is implied from the nature of the institutions of a free country, where the citizen is at liberty to act as he chooses, provided only that he does no legal wrong to the community, or to any individual thereof.
+Still more sacred, under the same restrictions, is his right to pass in judgment for himself upon his own interests, and to take such measures as he deems best calculated to promote them. Having these principles in view, prohibitions can be justified only by public necessity; and the courts should not readily construe legislation as being prohibitory. The fact that legislative bodies do usually, although not necessarily, make clear the prohibitory intent, where it exists, by expressly pronouncing nullity against contravening actions is a recognition of these principles.
+We can see no possible motive of public policy which could have influenced the Legislature, in this instance, to restrict the liberty of litigants in this particular, and deprive them of the right of determining for themselves what manner of sale was best calculated to promote their own interests. That it has either done, or intended so to do, we do not believe. There are many other things which sheriffs are required to do by our law, such as to serve process, seize, keep, advertize and sell, with certain formalities, property under various writs, in respect to all of which his services may, by consent of all parties interested,be dispensed with, or his proceedings modified. We see no reason for the adoption of a different rule in this matter.
+That the law, in this instance, as intimated in the petition, intended this legislation in the interest of sheriffs, that they might receive, as a matter of absolute right, the fees and emoluments resulting from such sales, cannot for a moment be supposed. Such offices are established, not with a view to the creation of a revenue for the persons fillingthem, but in the interest of the public and to perform services deemed necessary for the people. We cannot, therefore, lightly imagine that it wras contemplated to make the personal profit of the sheriff the object of legislation ; especially where, to accomplish this, liberty of action or individual interests have to be restricted or impaired. Indeed, if this legislation gave to the sheriff an indefeasable right to perform this specific duty, by reason of his emoluments, then, as fees are usually accorded him for all such services as the law requires of him, he would find himself almost entirely emancipated from the control of parties interested, or even of the courts themselves.
+The only consideration of any force which can be urged against the views herein expressed, arises from the fact that section 3549, following section 3548, makes exceptions to it, specifying particular cases in which others, besides the sheriffs of the State, may make judicial sales.
+The argument may be advanced that the exception proves the rule, and that the courts cannot add to the number of these exceptions. An examination of this section shows that it applies only to the disposal of the property of successions, insolvencies, minors and persons interdicted, whose representatives are incapable of consenting to any waiver of legal formalities, without legislative authorization or judicial permission, itself warranted by legislative sanction. Therefore, this section merely extends to estates and persons incapacitated the same advantages which persons capable of contracting and acting in their own right may secure by stipulation.
+There is another consideration which is not without weight. The court granting this order of sale was of competent jurisdiction. Over the question as to how, and by whom it should be made, that court had authority to pass, and its decree can no more be collaterally questioned apon this point than upon others.
+Judgment affirmed.
