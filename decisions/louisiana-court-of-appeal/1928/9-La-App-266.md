@@ -2,7 +2,7 @@
 court: "Louisiana Court of Appeal"
 docket: "3412"
 decided: "1928-11-08"
-citations: ["9 La. App. 266", "10 La. App. 211"]
+citations: ["9 La. App. 266"]
 reporter: "la-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
