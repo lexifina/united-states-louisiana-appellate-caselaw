@@ -1,0 +1,47 @@
+---
+court: "Louisiana Court of Appeal"
+docket: "NO. 8456"
+decided: "1923-05-28"
+citations: ["6 Pelt. 83"]
+reporter: "pelt"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WILLIAM A. BELL, JUDGE."]
+parties: ["JOHN PUJOL VS MUEL MINTZ"]
+source_url: "https://static.case.law/pelt/6/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5642010
+cites_cases: ["123 La., 610"]
+---
+
+# Pujol v. Mintz
+
+## Majority (By WILLIAM A. BELL, Judge.)
+
+By WILLIAM A. BELL, Judge.
+This is a suit for damages alleged to have Been sustained By the plaintiff Because of rejection of title to property owned By him and sold under his written authority at public auction to defendant. The petition shows that upon refusal of defendant to take title upon the terms and conditions under which the original sale was made to him, plaintiff put defendant in default By a formal act of tender of title, and then upon refusal of defendant to finally comply with the adjudication made to him, plaintiff resorted to the-remedies provided for in Article 2611 R.C.C., By having the said property advertised and sold at public auction under a sale a la folie enchere. It is further alleged that at this second sale the property vías adjudicated for ¿75.00 less than the price for which it vías originally adjudicated to defendant; that the amount paid By the owner to the auctioneer at the second sale was $83.56; that attorney's fees incurred By plaintiff in prosecuting this action is $50.00, and that the disbursements for certificates and notary's fees, etc., was $19.30, making a total amount of damages alleged to have Been suffered because of defendant's rejection of title in the sum of $227.86.
+Defendant filed an exception of no legal right or cause of action, which exception vías overruled By the trial court. The defense on the merits, as well as on the exception filed, is particularly directed against the fact that plaintiff has failed to allege or prove that the written authority given By him to the auctioneer for the original sale of this property as adjudicated to defendant, failed to contain the seller's written stipulation as to the conditions upon which the sale was to Be made, that is, whether the auctioneer was to sell for cash or on terms. There are four other grounds of exception urged in deiendant's brief now before us, none of which we think are well founded.
+The written mithority given by plaintiff to the auctioneer for-the sale of this property reads as follows:
+"Hew Orleans, la., February 20, 1919.
+"I hereby authorize you to sell for me at public auction my property, 3336-3038 Calhouij, corner of York Street.
+"Size of lot, 52'x 91' 7" 6"'.
+"Description of improvements; Retired double cottage, three rooms, city water each side.
+"Rent for $_ per'month, same to be sold for not less than thirteen hundred seventy-five ($1375) dollars.
+"Terms and conditions: .........................
+"I agree to pay thirty-five ($35) dollars commissions, etc.
+(Signed) J. Pujol."
+The Articles of the Revised Civil Code upon which the main defense to this suit is predicated read as follows:
+"Article 2604. The sale by auction, whether made at the will of the seller or by direction of the law, is subjected to the rules hereinafter mentioned."
+"Article 2065. It cannot be made directly by the seller himself, but must be made through the ministry of a public officer appointed for that purpose."
+"Article 2606. This officer, after having received in writing from the seller the conditions' of the sale, must proclaim them in a loud and audible voice and afterwards propose that a bid shall be made for the property thus offered."
+It is urged by counsel for defendant that he cannot be obligated to accept title to the above-described property for the reason that the last above-quoted Article of the Code has not been complied with, inasmuch as the written authority above quoted does not contain any conditions of sale showing whether the property shall, be sold for cash or otherwise, and that the auctioneer in advertising and adjudicating the said property for one-third cash and balance on terms of credit, exceeded the authority given him by the owner, with the result that' neither the owner nor himself is bound by said adjudication. Defendant particularly relies on the authority of Reinach v. Jung, 123 La., 610. In that oase suit was brought by plaintiff to oompel defendant.to, accept title to- a certain square of. ground in the City of New Orleans, which had been sold at public auotion to the defendant who thereafter refused to comply with the terms of the sale or to accept the property adjudicated to him. The action was one for specific performance, to which an exception of no cause of action was filed, followed by an answer of general denial..from a judgment for' plaintiff, defendant appealed, and the Supreme Court reversed the judgment for the reason that there had-been no authority whatever of the owner given in writing to the auctioneer, a fact which the. court held was fatal to plaintiff's right to enforce the adjudication. There was effort in that case to prove the authorization by oral testimony, which the court rightly held could not be done. It i3 trie that in that case the court said that authority in writing had not been given the auctioneer nor had he been furnished with any written conditions for the sale. We cannot see that the faots of that oase are apt plicahle to the instant case, for the plaintiff here undoubtedly gave written authority to the- auctioneer to sell, as shown hy the above document, from whioh we have quoted, failure to stipulate the terms or conditions for the sale in the' above written authority wa3 in effeet a simple authority to sell for-cash, and defendant, although purchasing on terms of cash andoredit, could have enforced his right to purchase the property for oaáh only, It is' true that plaintiff could not have compelled defendant .to purchase the -property on terms, rather than--for cash. ,OnldsiS ;'4er*\ fendánt c,ould have shown some damage resulting to him .in; ábospi^^ the property for cash rather than on-terms of or adit, > h»can|lpt" be justified in advancing this trivial .excuse'' tie "or refusal to take the property at. the ;priée. '€ adjudicated. We have carefully examined the authorities of Campbell v. Lambert, 36 An., 35, and Landeche v. Sarpy, 37 An., 836, and find no application whatever of the law therein enunciated to the instant case.
+It is further contended by the defendant that plaintiff was not authorized and could not under the law sell at a sale a la folie enchere the property originally adjudicated tq him without first giving him notice of his intention so to do. This contention is made because a letter in the record snows that after defendant's default, plaintiff tnreatened him with suit for specific performance, but did not follow this oourse„ae shown by the final steps taken in this suit. Vie know of no authority, nor has any been cited to us by counsel for defendsnti that would justify this defense or argument. On the contrary, the provisions of Article 2611 R.G.C. are quite against any such-construction of the law for the- reason that in said Article it is specially provided that after the adjudication made at a sale a. la folie enchere the adjudicatee at first sale becomes a debtor-to the v.odor for deficiencies and for all expenses incurred subsequent to the first sale and protects the owner-of the property to that.-extent, but gives no advantage to the first purchaser should the amount of the second adjudication exceed that of the first. This clearly indicates that the law considers the' first' purchaser to have abandoned all rights which he could.have.nad in the premises by virtue of the first adjudication. Shis same Article provides that the sale a la folie enchere shall not be made until "customary notices" of intended'sale shall have been given, but this can mean nothing more than that due advertisement of the' property shall be made before the second sale can be legally consummated. There is no merit to the argument that the- deso.rlpti.qn of the - property 3et forth in the petition or in" the advertisement, at either sale or in the act of tender to bind the defendant is£; this case, or that the fiancf purchaser as well as the public abound have been notified that the property advertised on the second occasion was to be sold a la folie enohere,
+He are quite in accord with the views taken of this case in the written reasons given by the judge of the trial aourt for refusal of a new trial where he said as follows:
+"The record in this case does not disclose a valid reason for defendant's refusal to accept the title tendered to him after the auction sale. The record does show that -the auctioneer had ample and legal authority to sell the property. The advertisements•gave ample description- and location of lots sold and the title tendered included all essentials of a true description. In fact I do not see that the defendant has shown the slightest legal reason for refusing to comply with his bid at' the- sale. A new trial is denied.
+"New Orleans, Oct. 25, 1921.
+"(Signed) Percy Saint,
+Judge."
+We find no error in the judgment appealed from.
+IT IS, THEREFORE, ORDERED, ADJUDGED AND DECREED that the judgment herein appealed from be. and the-same hereby is affirmed at' defendant's costs in both courts.
+JUDGMENT AFFIRMED
+MAY 28, 1925.
